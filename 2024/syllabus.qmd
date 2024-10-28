@@ -56,6 +56,7 @@ format: html
 ### Unidad 7 – Segmentación semántica
 
 ### Unidad 8 - Modelos fundamentales para datos de observación terrestre
+
 :::
 
 
@@ -65,7 +66,7 @@ format: html
 
 -	Presentación de dos exámenes escritos sobre aspectos teóricos (50%)
     - Examen 1 - 19 de Diciembre
-    - Examen 2 - 20 de Enero
+    - Examen 2 - 20 de Febrero
 -	Entrega de dos informes técnicos  (50%)
     - Informe 1 - 16 de Enero
     - Informe 2 - 27 de Febrero

@@ -109,6 +109,10 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 
 ### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
 
+## GEE python quiz
+
+### Write the code to obtain a Landsat 8 image collection acquired in 2024 over Barranquilla with cloud cover lower than 20%.
+
 # Flipped classroom
 
 ## Reading, doing and writing
@@ -118,7 +122,7 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 # To do before next class 
 
 
-## Do [this Sentinel hub tutorial](https://citizenevidence.org/2023/03/21/summit-series-a-beginners-guide-to-sentinel-hub/) and report your results
+## Do [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html) and report your results
 
 ## Read [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
 

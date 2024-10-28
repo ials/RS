@@ -23,6 +23,9 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Coursework
 
+🚧  [Data Insights with Python for Beginners](https://jenfly.github.io/llc-python-resources/next-steps.html)
+🚧
+
 🚧 [Create your *eomaps* conda environment](https://github.com/ials/VITALS/blob/main/books/myfirstbook/eomaps_env1.yml) 🚧
 
 🚧  [Use Jupyter to visualize hyperspectral signatures of water](https://ials.github.io/VITALS/notebooks.html) 🚧
