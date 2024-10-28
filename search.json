@@ -70,6 +70,13 @@
     "text": "Basic python quiz\nSolve this simple quiz"
   },
   {
+    "objectID": "2024/weeks/week01/slides.html#gee-python-quiz",
+    "href": "2024/weeks/week01/slides.html#gee-python-quiz",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "GEE python quiz",
+    "text": "GEE python quiz\nWrite the code to obtain a Landsat 8 image collection acquired in 2024 over Barranquilla with cloud cover lower than 20%."
+  },
+  {
     "objectID": "2024/weeks/week01/slides.html#reading-doing-and-writing",
     "href": "2024/weeks/week01/slides.html#reading-doing-and-writing",
     "title": "🗓️ Week 01 Introduction",
@@ -77,11 +84,11 @@
     "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#do-this-sentinel-hub-tutorial-and-report-your-results",
-    "href": "2024/weeks/week01/slides.html#do-this-sentinel-hub-tutorial-and-report-your-results",
+    "objectID": "2024/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
+    "href": "2024/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Do this Sentinel hub tutorial and report your results",
-    "text": "Do this Sentinel hub tutorial and report your results"
+    "section": "Do GEE Python tutorial and report your results",
+    "text": "Do GEE Python tutorial and report your results"
   },
   {
     "objectID": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
@@ -135,7 +142,7 @@
     "href": "2024/syllabus.html#evaluación-del-curso",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Enero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Febrero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -162,7 +169,7 @@
     "href": "2024/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 30 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 30 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -194,7 +201,7 @@
     "href": "2024/weeks/week01/page.html#coursework",
     "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Create your eomaps conda environment 🚧\n🚧 Use Jupyter to visualize hyperspectral signatures of water 🚧",
+    "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧\n🚧 Create your eomaps conda environment 🚧\n🚧 Use Jupyter to visualize hyperspectral signatures of water 🚧",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
