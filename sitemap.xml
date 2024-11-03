@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ials.github.io/ARS/2024/weeks/week01/slides.html</loc>
-    <lastmod>2024-10-28T00:23:07.109Z</lastmod>
+    <loc>https://ials.github.io/ARS/2024/weeks/week02/slides.html</loc>
+    <lastmod>2024-11-03T18:26:56.435Z</lastmod>
   </url>
   <url>
-    <loc>https://ials.github.io/ARS/2024/syllabus.html</loc>
-    <lastmod>2024-10-28T00:23:07.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ials.github.io/ARS/index.html</loc>
-    <lastmod>2024-10-28T00:23:07.141Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ials.github.io/ARS/2024/index.html</loc>
-    <lastmod>2024-10-28T00:23:07.093Z</lastmod>
+    <loc>https://ials.github.io/ARS/2024/weeks/week02/lab.html</loc>
+    <lastmod>2024-11-03T18:26:56.435Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/ARS/2024/weeks/week01/page.html</loc>
-    <lastmod>2024-10-28T00:23:07.105Z</lastmod>
+    <lastmod>2024-11-03T18:26:56.351Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/ARS/2024/index.html</loc>
+    <lastmod>2024-11-03T18:26:56.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/ARS/index.html</loc>
+    <lastmod>2024-11-03T18:26:56.459Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/ARS/2024/syllabus.html</loc>
+    <lastmod>2024-11-03T18:26:56.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/ARS/2024/weeks/week01/slides.html</loc>
+    <lastmod>2024-11-03T18:26:56.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/ARS/2024/weeks/week02/page.html</loc>
+    <lastmod>2024-11-03T18:26:56.435Z</lastmod>
   </url>
 </urlset>
