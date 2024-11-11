@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Unit 1 - Refresher on optical remote sensing – PERCEPCION REMOTA AVANZADA</title>
+<title>🗓️ Week 05 - Practical exercise – PERCEPCION REMOTA AVANZADA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../2024/weeks/week02/page.html" rel="next">
-<link href="../../../2024/syllabus.html" rel="prev">
 <link href="../../../figures/icons/ARS-1.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -73,10 +71,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Unit 1 - Refresher on optical remote sensing – PERCEPCION REMOTA AVANZADA">
+<meta property="og:title" content="🗓️ Week 05 - Practical exercise – PERCEPCION REMOTA AVANZADA">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta name="twitter:title" content="🗓️ Unit 1 - Refresher on optical remote sensing – PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:title" content="🗓️ Week 05 - Practical exercise – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -109,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2024/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2024/weeks/week01/page.html">Week 01</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">🗓️ Week 05 - Practical exercise</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -144,16 +142,16 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2024/weeks/week01/page.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../../2024/weeks/week01/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 01</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2024/weeks/week01/page.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../2024/weeks/week01/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -205,19 +203,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#coursework" id="toc-coursework" class="nav-link" data-scroll-target="#coursework">✍️ Coursework</a></li>
-  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
-  <li><a href="#communication" id="toc-communication" class="nav-link" data-scroll-target="#communication">📟 Communication</a></li>
+  <li><a href="#preparing-sentinel-1-analysis-ready-data-in-gee" id="toc-preparing-sentinel-1-analysis-ready-data-in-gee" class="nav-link active" data-scroll-target="#preparing-sentinel-1-analysis-ready-data-in-gee">Preparing Sentinel-1 Analysis Ready Data in GEE</a></li>
+  <li><a href="#the-mullisa-workflow" id="toc-the-mullisa-workflow" class="nav-link" data-scroll-target="#the-mullisa-workflow">The Mullisa workflow</a></li>
+  <li><a href="#hands-on-exercise" id="toc-hands-on-exercise" class="nav-link" data-scroll-target="#hands-on-exercise">Hands-on exercise</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2024/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2024/weeks/week01/page.html">Week 01</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">🗓️ Unit 1 - Refresher on optical remote sensing</h1>
+<h1 class="title">🗓️ Week 05 - Practical exercise</h1>
 </div>
 
 
@@ -240,39 +237,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this first unit, we will review basic remote sensing concepts:</p>
-<ul>
-<li>Electromagnetic radiation</li>
-<li>Spatial resolution</li>
-<li>Spectral resolution</li>
-<li>Radiometric corrections</li>
-<li>Satellite platforms &amp; sensors</li>
-</ul>
-<section id="lecture-slides" class="level2">
-<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p>Either click on the slide area below or click <a href="../../../2024/weeks/week01/slides.html">here</a> to view it in fullscreen. Use your keypad to navigate the slides.</p>
-<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;">
-</iframe>
+<section id="preparing-sentinel-1-analysis-ready-data-in-gee" class="level3">
+<h3 class="anchored" data-anchor-id="preparing-sentinel-1-analysis-ready-data-in-gee">Preparing Sentinel-1 Analysis Ready Data in GEE</h3>
+<p>GEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.</p>
+<p>While radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.</p>
+<p>For a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.</p>
+<p>Thus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al.&nbsp;(2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.</p>
+</section>
+<section id="the-mullisa-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="the-mullisa-workflow">The Mullisa workflow</h3>
+<p>The implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.</p>
+<p align="center">
+<img src="figures/S1_ARD_GEE.png" width="60%" height="60%">
+</p>
+</section>
+<section id="hands-on-exercise" class="level3">
+<h3 class="anchored" data-anchor-id="hands-on-exercise">Hands-on exercise</h3>
+<p>The framework is implemented in both GEE Javascript and the Python application programming interface (API).</p>
+<p>To use the framework in GEE code editor, go to <a href="https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard">this repositorz</a> and copy the contents of the <em>s1_ard.js</em> script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.</p>
+<p>When using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.</p>
+<p><a href="https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard">Click here to try it</a>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Additional resources
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<section id="mullisas-paper" class="level4">
+<h4 class="anchored" data-anchor-id="mullisas-paper"><a href="https://www.mdpi.com/2072-4292/13/10/1954/htm">Mullisa’s paper</a></h4>
+</section>
+<section id="mullisas-repository" class="level4">
+<h4 class="anchored" data-anchor-id="mullisas-repository"><a href="https://github.com/adugnag/gee_s1_ard">Mullisa’s repository</a></h4>
+</section>
+</div>
+</div>
 </div>
 <p>🎥</p>
-</section>
-<section id="coursework" class="level2">
-<h2 class="anchored" data-anchor-id="coursework">✍️ Coursework</h2>
-<p>🚧 <a href="https://jenfly.github.io/llc-python-resources/next-steps.html">Data Insights with Python for Beginners</a> 🚧</p>
-<p>🚧 <a href="https://ials.github.io/GEE_Python/2_eeImage.html">GEE Image with Python</a> 🚧</p>
-</section>
-<section id="recommended-reading" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
-<ul>
-<li>Check the end of slides for the list of references cited in the lecture.</li>
-</ul>
-</section>
-<section id="communication" class="level2">
-<h2 class="anchored" data-anchor-id="communication">📟 Communication</h2>
-<ul>
-<li>Get to know your peers in the course and organize study groups</li>
-</ul>
 
 
 </section>
@@ -705,18 +711,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation">
-  <div class="nav-page nav-page-previous">
-      <a href="../../../2024/syllabus.html" class="pagination-link" aria-label="📓 Syllabus">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">📓 Syllabus</span>
-      </a>          
-  </div>
-  <div class="nav-page nav-page-next">
-      <a href="../../../2024/weeks/week02/page.html" class="pagination-link" aria-label="Week 02">
-        <span class="nav-page-text">Week 02</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
-  </div>
-</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
