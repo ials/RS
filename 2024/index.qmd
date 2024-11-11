@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(04/11/2024)
+(11/11/2024)
 
-Realizar los tutoriales de Python indicados en la semana 1.
+Completar la práctica *GEE Image with Python* antes de la clase.
 
 :::
 
