@@ -1,0 +1,30 @@
+---
+title: "🗓️ Week 4 - Working with ARD SAR data"
+---
+
+In this  week, we will define what to do with ARD SAR data (e.g. classification, regression) for our *Informe 1*
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](slides.qmd) to view the slides.
+
+## First report 
+
+**Students write down objectives & workflow for their first report**
+
+## Practical exercises
+
+- Complete the coursework from previous weeks
+
+- Start doing the ARSET assignment
+
+
+## 📚 Recommended Reading
+
+[SAR land cover classification tutorial](https://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf)
+
+
+## 📚 Recommended Video
+
+- [Answer pressing questions on our world](https://www.iceye.com/vos-talk4-video-page) (Ager, 2023)
+
