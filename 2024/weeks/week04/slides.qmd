@@ -3,8 +3,8 @@ subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
 title: "<font style='font-size:1em;'>🗓️ Week 4<br/> SAR workflows</font>"
 author: Ivan Lizarazo
 institute: Universidad Nacional de Colombia
-date: 6 September 2023
-date-meta: 6 September 2023
+date: 20 Nov. 2024
+date-meta: 20 Nov. 2024
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
