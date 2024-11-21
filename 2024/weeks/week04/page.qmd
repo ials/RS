@@ -23,7 +23,7 @@ Click [here](slides.qmd) to view the slides.
 
 [SAR land cover classification tutorial](https://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf)
 
-[https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1148328/full](https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1148328/full)
+[Automatic wide area land cover mapping using Sentinel-1 multitemporal data](https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1148328/full)
 
 
 ## 📚 Recommended Video
