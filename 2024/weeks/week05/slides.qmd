@@ -61,7 +61,7 @@ format:
 ## [Wide area land cover mapping](https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1148328/full)
 
 <p align="center">
-<img src="figures/workflow-wide-area.png" width=78% height=78%>
+<img src="figures/workflow-wide-area.png" width=85% height=85%>
 </p>
 
 # Your *Informe 1* objectives & workflow
