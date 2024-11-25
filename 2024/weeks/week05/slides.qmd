@@ -34,7 +34,7 @@ format:
 ## ML training workflow
 
 <p align="center">
-<img src="figures/workflow-ml-training.png" width=80% height=80%>
+<img src="figures/workflow-ml-training.png" width=70% height=70%>
 </p>
 
 # Workflow examples
@@ -55,18 +55,18 @@ format:
 ## [Agricultural Crop Classification](https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part3.pdf)
 
 <p align="center">
-<img src="figures/workflow-laura.png" width=60% height=60%>
+<img src="figures/workflow-laura.png" width=70% height=70%>
 </p>
 
 ## [Wide area land cover mapping](https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1148328/full)
 
 <p align="center">
-<img src="figures/workflow-wide-area.png" width=60% height=60%>
+<img src="figures/workflow-wide-area.png" width=70% height=70%>
 </p>
 
-## Your *Informe N. 1* objectives & workflow
+# Your *Informe 1* objectives & workflow
 
-Each student present her/his proposal
+## Each student present her/his proposal
 
 # To do before next class
 
