@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(11/11/2024)
+(25/11/2024)
 
-Completar la práctica *GEE Image with Python* antes de la clase.
+In this  week, we will revise students' workflows for *Informe 1*. Bring them printed to the classroom.
 
 :::
 
