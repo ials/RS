@@ -7,11 +7,18 @@
     "text": "The importance of workflows"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow",
-    "href": "2024/weeks/week05/slides.html#ml-training-workflow",
+    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow-1",
+    "href": "2024/weeks/week05/slides.html#ml-training-workflow-1",
     "title": "🗓️ Week 5More SAR workflows",
-    "section": "ML training workflow",
-    "text": "ML training workflow"
+    "section": "ML training workflow (1)",
+    "text": "ML training workflow (1)"
+  },
+  {
+    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow-2",
+    "href": "2024/weeks/week05/slides.html#ml-training-workflow-2",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "ML training workflow (2)",
+    "text": "ML training workflow (2)"
   },
   {
     "objectID": "2024/weeks/week05/slides.html#land-cover-classification-at-three-levels",
@@ -60,7 +67,7 @@
     "href": "2024/weeks/week05/slides.html#watch-this-video",
     "title": "🗓️ Week 5More SAR workflows",
     "section": "Watch this video",
-    "text": "Watch this video\nOperational Crop Classification Roadmap using Optical and SAR Imagery\nARSET (2021)\n\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Watch this video\nOperational Crop Classification Roadmap using Optical and SAR Imagery\nARSET (2021)"
   },
   {
     "objectID": "2024/weeks/week05/lab.html",
@@ -315,7 +322,7 @@
     "href": "2024/weeks/week03/slides.html#practical-exercise",
     "title": "🗓️ Week 04 SAR Physics",
     "section": "Practical exercise",
-    "text": "Practical exercise\nPreparing Sentinel-1 ARD in GEE (Mullisa, 2021)\n\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Practical exercise\nPreparing Sentinel-1 ARD in GEE (Mullisa, 2021)"
   },
   {
     "objectID": "2024/weeks/week03/lab.html",
@@ -464,7 +471,7 @@
     "href": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
     "title": "🗓️ Week 01 Introduction",
     "section": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)",
-    "text": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)\n\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)"
   },
   {
     "objectID": "2024/syllabus.html",
@@ -771,7 +778,7 @@
     "href": "2024/weeks/week02/slides.html#practical-exercises",
     "title": "🗓️ Week 02 SAR Basics",
     "section": "Practical exercises",
-    "text": "Practical exercises\n\nProgress on the Data Insigths with Python tutorial\nProgress on the GEE Image with Python tutorial\n\n\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Practical exercises\n\nProgress on the Data Insigths with Python tutorial\nProgress on the GEE Image with Python tutorial"
   },
   {
     "objectID": "2024/weeks/week03/page.html",
@@ -907,7 +914,7 @@
     "href": "2024/weeks/week04/slides.html#watch-this-video",
     "title": "🗓️ Week 4 SAR workflows",
     "section": "Watch this video",
-    "text": "Watch this video\nAnswer pressing questions on our world\nTom Ager (2023)\n\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Watch this video\nAnswer pressing questions on our world\nTom Ager (2023)"
   },
   {
     "objectID": "2024/weeks/week05/page.html",
