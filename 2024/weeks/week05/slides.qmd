@@ -31,10 +31,16 @@ format:
 <img src="figures/workflow-importance.png" width=50% height=50%>
 </p>
 
-## ML training workflow
+## ML training workflow (1)
 
 <p align="center">
 <img src="figures/workflow-ml-training.png" width=70% height=70%>
+</p>
+
+## ML training workflow (2)
+
+<p align="center">
+<img src="figures/ML-workflow.png" width=70% height=70%>
 </p>
 
 # Workflow examples
