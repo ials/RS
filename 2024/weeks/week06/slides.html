@@ -11,8 +11,8 @@
   <meta name="generator" content="quarto-1.6.39">
 
   <meta name="author" content="Ivan Lizarazo">
-  <meta name="dcterms.date" content="27 Nov.&nbsp;2024">
-  <title>PERCEPCION REMOTA AVANZADA – 🗓️ Week 5 More SAR workflows</title>
+  <meta name="dcterms.date" content="4 Dec.&nbsp;2024">
+  <title>PERCEPCION REMOTA AVANZADA – 🗓️ Week 6 soil moisture from SAR</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -124,10 +124,10 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="🗓️ Week 5More SAR workflows – PERCEPCION REMOTA AVANZADA">
+<meta property="og:title" content="🗓️ Week 6soil moisture from SAR – PERCEPCION REMOTA AVANZADA">
 <meta property="og:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta name="twitter:title" content="🗓️ Week 5More SAR workflows – PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:title" content="🗓️ Week 6soil moisture from SAR – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -138,7 +138,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 5<br>More SAR workflows</font></h1>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 6<br>soil moisture from SAR</font></h1>
   <p class="subtitle">2027449– PERCEPCION REMOTA AVANZADA</p>
 
 <div class="quarto-title-authors">
@@ -152,94 +152,48 @@ Ivan Lizarazo
     </div>
 </div>
 
-  <p class="date">27 Nov 2024</p>
+  <p class="date">04 Dec 2024</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">What we will cover today:</h2>
 <ul>
-<li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
-<li><a href="#/workflow-examples" id="/toc-workflow-examples">Workflow examples</a></li>
-<li><a href="#/your-informe-1-objectives-workflow" id="/toc-your-informe-1-objectives-workflow">Your <em>Informe 1</em> objectives &amp; workflow</a></li>
-<li><a href="#/to-do-before-next-class" id="/toc-to-do-before-next-class">To do before next class</a></li>
+<li><a href="#/soil-moisture-over-croplands" id="/toc-soil-moisture-over-croplands">Soil moisture over croplands</a></li>
+<li><a href="#/your-informe-1" id="/toc-your-informe-1">Your <em>Informe 1</em></a></li>
 </ul>
 </nav>
 </section>
 <section>
-<section id="introduction" class="title-slide slide level1">
-<h1>Introduction</h1>
+<section id="soil-moisture-over-croplands" class="title-slide slide level1">
+<h1>Soil moisture over croplands</h1>
 
 </section>
-<section id="the-importance-of-workflows" class="slide level2">
-<h2>The importance of workflows</h2>
-<p align="center">
-<img src="figures/workflow-importance.png" width="50%" height="50%">
-</p>
+<section id="introduction-1" class="slide level2">
+<h2>Introduction (1)</h2>
+<p>SAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties.</p>
 </section>
-<section id="ml-training-workflow-1" class="slide level2">
-<h2>ML training workflow (1)</h2>
-<p align="center">
-<img src="figures/workflow-ml-training.png" width="70%" height="70%">
-</p>
+<section id="introduction-2" class="slide level2">
+<h2>Introduction (2)</h2>
+<p>Several descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al.&nbsp;(2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity).</p>
 </section>
 <section id="ml-training-workflow-2" class="slide level2">
 <h2>ML training workflow (2)</h2>
-<p align="center">
-<img src="figures/ML-workflow.png" width="70%" height="70%">
-</p>
 </section></section>
 <section>
-<section id="workflow-examples" class="title-slide slide level1">
-<h1>Workflow examples</h1>
+<section id="your-informe-1" class="title-slide slide level1">
+<h1>Your <em>Informe 1</em></h1>
 
 </section>
-<section id="land-cover-classification-at-three-levels" class="slide level2">
-<h2><a href="https://www.redalyc.org/journal/496/49668129016/49668129016.pdf">Land cover classification at three levels</a></h2>
-<p align="center">
-<img src="figures/workflow-mancera.png" width="85%" height="85%">
-</p>
+<section id="checklist" class="slide level2">
+<h2>Checklist</h2>
+<p>Your report will need: (i) definition of objectives; (ii) description of relevant theory (i.e.&nbsp;SAR physics); and (iii) sound explanation of data &amp; methods.</p>
 </section>
-<section id="land-cover-classification-in-complex-terrain" class="slide level2">
-<h2><a href="https://www.mdpi.com/2072-4292/15/8/2177/pdf?version=1681981395">Land cover classification in complex terrain</a></h2>
-<p align="center">
-<img src="figures/workflow-gaofen.png" width="60%" height="60%">
-</p>
-</section>
-<section id="agricultural-crop-classification" class="slide level2">
-<h2><a href="https://appliedsciences.nasa.gov/sites/default/files/2021-10/Ag_Part3.pdf">Agricultural Crop Classification</a></h2>
-<p align="center">
-<img src="figures/workflow-laura.png" width="78%" height="78%">
-</p>
-</section>
-<section id="wide-area-land-cover-mapping" class="slide level2">
-<h2><a href="https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2023.1148328/full">Wide area land cover mapping</a></h2>
-<p align="center">
-<img src="figures/workflow-wide-area.png" width="85%" height="85%">
-</p>
-</section></section>
-<section>
-<section id="your-informe-1-objectives-workflow" class="title-slide slide level1">
-<h1>Your <em>Informe 1</em> objectives &amp; workflow</h1>
-
-</section>
-<section id="each-student-present-herhis-proposal" class="slide level2">
-<h2>Each student present her/his proposal</h2>
-</section></section>
-<section>
-<section id="to-do-before-next-class" class="title-slide slide level1">
-<h1>To do before next class</h1>
-
-</section>
-<section id="start-implementing-your-workflow-for-informe-1" class="slide level2">
-<h2>Start implementing your workflow for <em>Informe 1</em></h2>
+<section id="to-do-before-next-class" class="slide level2">
+<h2>To do before next class</h2>
 <ul>
-<li><p>Define your study area &amp; your software tools</p></li>
-<li><p>Get your hands dirty with code</p></li>
+<li><p>Implement your workflow</p></li>
+<li><p>Write a single-page progress report</p></li>
+<li><p>Print it and bring it to class.</p></li>
 </ul>
-</section>
-<section id="watch-this-video" class="slide level2">
-<h2>Watch this video</h2>
-<p><a href="https://youtu.be/6_bytSnJCc8">Operational Crop Classification Roadmap using Optical and SAR Imagery</a></p>
-<p>ARSET (2021)</p>
 
 
 </section></section>
