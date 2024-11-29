@@ -1,0 +1,58 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:1em;'>🗓️ Week 6<br/>soil moisture from SAR</font>"
+author: Ivan Lizarazo
+institute: Universidad Nacional de Colombia
+date: 4 Dec. 2024
+date-meta: 4 Dec. 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+# Soil moisture over croplands
+
+## Introduction (1)
+
+SAR is sensitive to the dielectric and geometric
+properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use
+of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties.
+
+## Introduction (2)
+
+Several descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI)
+have been developed for crop growth monitoring and biophysical parameter retrieval.
+These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation
+descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity).
+
+
+## ML training workflow (2)
+
+# Your *Informe 1* 
+
+## Checklist
+
+Your report will need: (i) definition of objectives; (ii) description of relevant theory (i.e. SAR physics); and (iii) sound explanation of data & methods.
+
+## To do before next class
+
+- Implement your workflow
+
+- Write a single-page progress report
+
+- Print it and bring it to class.
+
+
