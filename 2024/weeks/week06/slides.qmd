@@ -25,6 +25,10 @@ format:
 
 # Soil moisture over croplands
 
+<p align="center">
+<img src="figs/RSofEnv.png" width=25% height=25%>
+</p>
+
 ## Introduction (1)
 
 SAR is sensitive to the dielectric and geometric
@@ -38,21 +42,28 @@ have been developed for crop growth monitoring and biophysical parameter retriev
 These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation
 descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity).
 
+## Study Area
 
-## ML training workflow (2)
+<p align="center">
+<img src="figs/study_area.png" width=74% height=74%>
+</p>
 
-# Your *Informe 1* 
+## Methods
+
+
+
+## Results
+
+# *Informe 1* 
 
 ## Checklist
 
-Your report will need: (i) definition of objectives; (ii) description of relevant theory (i.e. SAR physics); and (iii) sound explanation of data & methods.
+Your *Informe 1* should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion.
 
 ## To do before next class
 
-- Implement your workflow
+- Implement and test your workflow
 
 - Write a single-page progress report
 
 - Print it and bring it to class.
-
-
