@@ -62,9 +62,18 @@ descriptor that exploits the available polarimetric information in dualpol GRD S
 
 ## Methods
 
+- SAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)
+
+- Vegetation description (NDVI, RVIdp, DpRVIc)
+
+- Soil moisture estimation (Water Cloud Model-)
 
 
 ## Results
+
+<p align="center">
+<img src="figures/soilmoisture.png" width=100% height=100%>
+</p>
 
 # *Informe 1* 
 
