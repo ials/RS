@@ -14,25 +14,39 @@
     "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
   },
   {
-    "objectID": "2024/weeks/week06/slides.html#ml-training-workflow-2",
-    "href": "2024/weeks/week06/slides.html#ml-training-workflow-2",
+    "objectID": "2024/weeks/week06/slides.html#study-area",
+    "href": "2024/weeks/week06/slides.html#study-area",
     "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "ML training workflow (2)",
-    "text": "ML training workflow (2)"
+    "section": "Study Area",
+    "text": "Study Area"
+  },
+  {
+    "objectID": "2024/weeks/week06/slides.html#methods",
+    "href": "2024/weeks/week06/slides.html#methods",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Methods",
+    "text": "Methods"
+  },
+  {
+    "objectID": "2024/weeks/week06/slides.html#results",
+    "href": "2024/weeks/week06/slides.html#results",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Results",
+    "text": "Results"
   },
   {
     "objectID": "2024/weeks/week06/slides.html#checklist",
     "href": "2024/weeks/week06/slides.html#checklist",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Checklist",
-    "text": "Checklist\nYour report will need: (i) definition of objectives; (ii) description of relevant theory (i.e. SAR physics); and (iii) sound explanation of data & methods."
+    "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
   },
   {
     "objectID": "2024/weeks/week06/slides.html#to-do-before-next-class",
     "href": "2024/weeks/week06/slides.html#to-do-before-next-class",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "To do before next class",
-    "text": "To do before next class\n\nImplement your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
+    "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
   },
   {
     "objectID": "2024/weeks/week06/lab.html",
