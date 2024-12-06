@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(25/11/2024)
+(09/12/2024)
 
-In this  week, we will revise students' workflows for *Informe 1*. Bring them printed to the classroom.
+In this  week,  students provide evidence of their progress on *Informe 1*. 
 
 :::
 

@@ -1,0 +1,23 @@
+---
+title: "🗓️ Week 7  - EMIT & ECOSTRESS "
+---
+
+In this  week, we will get familiar with SOTA hyperspectral and thermal sensors.
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://thermal2023.esa.int/iframe-agenda/files/presentation-237.pdf) to view the slides.
+
+## Practical exercises
+
+[ECOSTRESS tutorials](https://ecostress.jpl.nasa.gov/tutorials)
+
+## First report 
+
+**Students keep working for their first report**
+
+
+## 📚 Recommended Reading
+
+[EMIT mission](https://ecostress.jpl.nasa.gov/downloads/science_team_meetings/2023/day1/1_15_EMIT_Apps.pdf)
+
