@@ -6,7 +6,7 @@ In this  week, we will get familiar with SOTA hyperspectral and thermal sensors.
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://thermal2023.esa.int/iframe-agenda/files/presentation-237.pdf) to view the slides.
+Click [here](https://drive.google.com/file/d/1vglxGxEfJzU8jtosRSc6sVEelCoo2AcQ/view?usp=sharing) to view the slides.
 
 ## Practical exercises
 
@@ -26,6 +26,4 @@ Click [here](https://thermal2023.esa.int/iframe-agenda/files/presentation-237.pd
 [ECOSTRESS Level-3 DisALEXI-JPL Evapotranspiration](https://lpdaac.usgs.gov/documents/999/ECO3ETALEXI_User_Guide_V1.pdf)
 
 [EMIT mission](https://ecostress.jpl.nasa.gov/downloads/science_team_meetings/2023/day1/1_15_EMIT_Apps.pdf)
-
-
 
