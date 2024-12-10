@@ -10,7 +10,9 @@ Click [here](https://thermal2023.esa.int/iframe-agenda/files/presentation-237.pd
 
 ## Practical exercises
 
-[ECOSTRESS tutorials](https://ecostress.jpl.nasa.gov/tutorials)
+- [ECOSTRESS tutorials](https://ecostress.jpl.nasa.gov/tutorials)
+
+- [Space Station Synergies: Applying ECOSTRESS and EMIT to ecological problems](https://nasa.github.io/VITALS/2023_agu_workshop.html)
 
 ## First report 
 
@@ -19,5 +21,11 @@ Click [here](https://thermal2023.esa.int/iframe-agenda/files/presentation-237.pd
 
 ## 📚 Recommended Reading
 
+[Imaging canopy temperature](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17321)
+
+[ECOSTRESS Level-3 DisALEXI-JPL Evapotranspiration](https://lpdaac.usgs.gov/documents/999/ECO3ETALEXI_User_Guide_V1.pdf)
+
 [EMIT mission](https://ecostress.jpl.nasa.gov/downloads/science_team_meetings/2023/day1/1_15_EMIT_Apps.pdf)
+
+
 
