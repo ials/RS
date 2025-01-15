@@ -25,7 +25,14 @@
     "href": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "What records a remote sensor?",
-    "text": "What records a remote sensor?\nRadiance values changes with illumination.\n ## Vegetation indices"
+    "text": "What records a remote sensor?\nRadiance values changes with illumination."
+  },
+  {
+    "objectID": "2024/weeks/week09/slides.html#vegetation-indices",
+    "href": "2024/weeks/week09/slides.html#vegetation-indices",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Vegetation indices",
+    "text": "Vegetation indices"
   },
   {
     "objectID": "2024/weeks/week09/slides.html#optical-methods",
@@ -67,7 +74,21 @@
     "href": "2024/weeks/week09/slides.html#disease-detection",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Disease detection",
-    "text": "Disease detection\nIdentifying banana wilt disease\n ## Disease squantification\nSeverity of cercospora leaf spot in table beet\n ## Q & A\nReplicate the code from here"
+    "text": "Disease detection\nIdentifying banana wilt disease"
+  },
+  {
+    "objectID": "2024/weeks/week09/slides.html#disease-quantification",
+    "href": "2024/weeks/week09/slides.html#disease-quantification",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Disease quantification",
+    "text": "Disease quantification\nSeverity of cercospora leaf spot in table beet"
+  },
+  {
+    "objectID": "2024/weeks/week09/slides.html#q-a",
+    "href": "2024/weeks/week09/slides.html#q-a",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Q & A",
+    "text": "Q & A\nReplicate the code from here"
   },
   {
     "objectID": "2024/weeks/week09/lab.html",
