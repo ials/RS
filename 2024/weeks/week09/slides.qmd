@@ -101,4 +101,4 @@ Severity of cercospora leaf spot in table beet
 
 Replicate the R code from [here](https://r4pde.net/data-remote-sensing)
 
-![](figures/qa.png)
+![](figures/book.png)
