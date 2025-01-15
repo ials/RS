@@ -11,8 +11,8 @@
   <meta name="generator" content="quarto-1.6.40">
 
   <meta name="author" content="Ivan Lizarazo">
-  <meta name="dcterms.date" content="4 Dec.&nbsp;2024">
-  <title>PERCEPCION REMOTA AVANZADA – 🗓️ Week 6 soil moisture from SAR</title>
+  <meta name="dcterms.date" content="15 January 2025">
+  <title>PERCEPCION REMOTA AVANZADA – 🗓️ Week 09 Remote sensing of vegetation</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -124,11 +124,11 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="🗓️ Week 6soil moisture from SAR – PERCEPCION REMOTA AVANZADA">
-<meta property="og:description" content="2027449– PERCEPCION REMOTA AVANZADA">
+<meta property="og:title" content="🗓️ Week 09Remote sensing of vegetation – PERCEPCION REMOTA AVANZADA">
+<meta property="og:description" content="2027449 – PERCEPCION REMOTA AVANZADA">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta name="twitter:title" content="🗓️ Week 6soil moisture from SAR – PERCEPCION REMOTA AVANZADA">
-<meta name="twitter:description" content="2027449– PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:title" content="🗓️ Week 09Remote sensing of vegetation – PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:description" content="2027449 – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
 <meta name="twitter:card" content="summary">
@@ -138,8 +138,8 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 6<br>soil moisture from SAR</font></h1>
-  <p class="subtitle">2027449– PERCEPCION REMOTA AVANZADA</p>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 09<br>Remote sensing of vegetation</font></h1>
+  <p class="subtitle">2027449 – PERCEPCION REMOTA AVANZADA</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -147,98 +147,88 @@
 Ivan Lizarazo 
 </div>
         <p class="quarto-title-affiliation">
-            Universidad Nacional de Colombia
+            <a href="#/">Universidad Nacional de Colombia</a>
           </p>
     </div>
 </div>
 
-  <p class="date">04 Dec 2024</p>
+  <p class="date">15 Jan 2025</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">What we will cover today:</h2>
 <ul>
-<li><a href="#/soil-moisture-over-croplands" id="/toc-soil-moisture-over-croplands">Soil moisture over croplands</a></li>
-<li><a href="#/informe-1" id="/toc-informe-1"><em>Informe 1</em></a></li>
+<li><a href="#/optical-remote-sensing" id="/toc-optical-remote-sensing">Optical remote sensing</a></li>
+<li><a href="#/remote-sensing-of-crop-diseases" id="/toc-remote-sensing-of-crop-diseases">Remote sensing of crop diseases</a></li>
+<li><a href="#/practical-exercises" id="/toc-practical-exercises">Practical exercises</a></li>
 </ul>
 </nav>
 </section>
 <section>
-<section id="soil-moisture-over-croplands" class="title-slide slide level1">
-<h1>Soil moisture over croplands</h1>
-<p align="center">
-<img src="figures/RSofEnv.png" width="130%" height="130%">
-</p>
-</section>
-<section id="introduction-1" class="slide level2">
-<h2>Introduction (1)</h2>
-<p>SAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties.</p>
-</section>
-<section id="introduction-2" class="slide level2">
-<h2>Introduction (2)</h2>
-<p>Several descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al.&nbsp;(2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity).</p>
-</section>
-<section id="study-area" class="slide level2">
-<h2>Study Area</h2>
-<p align="center">
-<img src="figures/study_area.png" width="100%" height="100%">
-</p>
-</section>
-<section id="sar-data" class="slide level2">
-<h2>SAR data</h2>
-<p align="center">
-<img src="figures/UAVSARdata.png" width="100%" height="100%">
-</p>
-</section>
-<section id="in-situ-data" class="slide level2">
-<h2>in-situ data</h2>
-<p align="center">
-<img src="figures/soilmoisture.png" width="100%" height="100%">
-</p>
-</section>
-<section id="methods" class="slide level2">
-<h2>Methods</h2>
-<ul>
-<li><p>SAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)</p></li>
-<li><p>Vegetation description (NDVI, RVIdp, DpRVIc)</p></li>
-<li><p>Soil moisture estimation (Water Cloud Model-)</p></li>
-</ul>
-</section>
-<section id="results" class="slide level2">
-<h2>Results</h2>
-<p align="center">
-<img src="figures/results-1.png" width="70%" height="70%">
-</p>
-</section>
-<section id="take-home-message" class="slide level2">
-<h2>Take-home message</h2>
-<ul>
-<li><p>Know the physics</p></li>
-<li><p>Start simple</p></li>
-<li><p>Progress smoothly</p></li>
-</ul>
-</section></section>
-<section>
-<section id="informe-1" class="title-slide slide level1">
-<h1><em>Informe 1</em></h1>
+<section id="optical-remote-sensing" class="title-slide slide level1">
+<h1>Optical remote sensing</h1>
 
 </section>
-<section id="checklist" class="slide level2">
-<h2>Checklist</h2>
-<p>Your <em>Informe 1</em> should include: (i) definition of objectives; (ii) relevant theory (i.e.&nbsp;SAR physics); (iii) sound explanation of data &amp; methods; (iv) results; and (v) discussion.</p>
+<section id="diverse-platforms-and-sensors" class="slide level2">
+<h2>Diverse platforms and sensors</h2>
+
+<img data-src="figures/optical1.png" class="img-fluid r-stretch"></section>
+<section id="surface-spectral-properties" class="slide level2">
+<h2>Surface spectral properties</h2>
+
+<img data-src="figures/optical2.png" class="img-fluid r-stretch"></section>
+<section id="vegetation-properties" class="slide level2">
+<h2>Vegetation properties</h2>
+<p><img data-src="figures/spectral1.png" class="img-fluid"> ## What records a remote sensor?</p>
+<p>A general problem related to the use of radiance as unit of measurement is the variation of radiance values with illumination.</p>
+<p><img data-src="figures/spectral2.png" class="img-fluid"> ## Vegetation indices</p>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p><img data-src="figures/ndvi1.png" class="img-fluid"></p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="figures/ndvi2.png" class="img-fluid"></p>
+</div></div>
+</section></section>
+<section>
+<section id="remote-sensing-of-crop-diseases" class="title-slide slide level1">
+<h1>Remote sensing of crop diseases</h1>
+
 </section>
-<section id="to-do-before-next-class" class="slide level2">
-<h2>To do before next class</h2>
-<ul>
-<li><p>Implement and test your workflow</p></li>
-<li><p>Write a single-page progress report</p></li>
-<li><p>Print it and bring it to class.</p></li>
-</ul>
+<section id="optical-methods" class="slide level2">
+<h2>Optical methods</h2>
+
+<img data-src="figures/diseases1.png" class="img-fluid r-stretch"></section>
+<section id="interaction-light-plant" class="slide level2">
+<h2>Interaction light &amp; plant</h2>
+
+<img data-src="figures/diseases2.png" class="img-fluid r-stretch"></section>
+<section id="scopes-of-disease-sensing" class="slide level2">
+<h2>Scopes of disease sensing</h2>
+<p><img data-src="figures/diseases3.png" class="img-fluid"> ## Monitoring plant diseases</p>
+<p>Remote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control.</p>
+</section>
+<section id="uav-applications" class="slide level2">
+<h2>UAV applications</h2>
+
+<img data-src="figures/diseases4.png" class="img-fluid r-stretch"></section></section>
+<section>
+<section id="practical-exercises" class="title-slide slide level1">
+<h1>Practical exercises</h1>
+
+</section>
+<section id="disease-detection" class="slide level2">
+<h2>Disease detection</h2>
+<p>Use of UAV remote sensing imagery for identifying banana wilt disease</p>
+<p><img data-src="figures/banana.png" class="img-fluid"> ## Disease squantification</p>
+<p>Use of UAV remote sensing imagery for estimating severity of cercospora leaf spot in table beet</p>
+<p><img data-src="figures/beet.png" class="img-fluid"> ## Q &amp; A</p>
+<p>Replicate the code from <a href="https://r4pde.net/data-remote-sensing">here</a></p>
+<p><img data-src="figures/qa.png" class="img-fluid"></p>
 
 
 </section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
-<p><img src="../../../figures/icons/ARS-1.png" class="slide-logo"></p>
+<p><img src="../../../figures/icons/earth.jpeg" class="slide-logo"></p>
 <div class="footer footer-default">
 <p>2027449 – PERCEPCION REMOTA AVANZADA</p>
 </div>
