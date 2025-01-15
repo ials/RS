@@ -18,7 +18,14 @@
     "href": "2024/weeks/week09/slides.html#vegetation-properties",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Vegetation properties",
-    "text": "Vegetation properties\n ## What records a remote sensor?\nA general problem related to the use of radiance as unit of measurement is the variation of radiance values with illumination.\n ## Vegetation indices"
+    "text": "Vegetation properties"
+  },
+  {
+    "objectID": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
+    "href": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "What records a remote sensor?",
+    "text": "What records a remote sensor?\nRadiance values changes with illumination.\n ## Vegetation indices"
   },
   {
     "objectID": "2024/weeks/week09/slides.html#optical-methods",
@@ -39,7 +46,14 @@
     "href": "2024/weeks/week09/slides.html#scopes-of-disease-sensing",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Scopes of disease sensing",
-    "text": "Scopes of disease sensing\n ## Monitoring plant diseases\nRemote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control."
+    "text": "Scopes of disease sensing"
+  },
+  {
+    "objectID": "2024/weeks/week09/slides.html#monitoring-plant-diseases",
+    "href": "2024/weeks/week09/slides.html#monitoring-plant-diseases",
+    "title": "🗓️ Week 09Remote sensing of vegetation",
+    "section": "Monitoring plant diseases",
+    "text": "Monitoring plant diseases\nRemote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control."
   },
   {
     "objectID": "2024/weeks/week09/slides.html#uav-applications",
@@ -53,7 +67,7 @@
     "href": "2024/weeks/week09/slides.html#disease-detection",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Disease detection",
-    "text": "Disease detection\nUse of UAV remote sensing imagery for identifying banana wilt disease\n ## Disease squantification\nUse of UAV remote sensing imagery for estimating severity of cercospora leaf spot in table beet\n ## Q & A\nReplicate the code from here"
+    "text": "Disease detection\nIdentifying banana wilt disease\n ## Disease squantification\nSeverity of cercospora leaf spot in table beet\n ## Q & A\nReplicate the code from here"
   },
   {
     "objectID": "2024/weeks/week09/lab.html",
