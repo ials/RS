@@ -1,0 +1,18 @@
+---
+title: "🗓️ Week 9 - Remote sensing of vegetation "
+---
+
+In this  week, we will  review concepts & techniques used for crop monitoring, in particular related to remote sensing of crop diseases.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](slides.qmd) to view the slides.
+
+## Practical exercises
+
+- [Remote Sensing of crop diseases](https://r4pde.net/data-remote-sensing)
+
+
+
+
