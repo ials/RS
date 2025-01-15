@@ -37,9 +37,10 @@ format:
 ## Vegetation properties
 
 ![](figures/spectral1.png)
+
 ## What records a remote sensor?
 
-A general problem related to the use of radiance as unit of measurement is the variation of radiance values with illumination.
+Radiance values changes with illumination.
 
 ![](figures/spectral2.png)
 ## Vegetation indices
@@ -72,6 +73,7 @@ A general problem related to the use of radiance as unit of measurement is the v
 ## Scopes of disease sensing
 
 ![](figures/diseases3.png)
+
 ## Monitoring plant diseases
 
 Remote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control. 
@@ -84,12 +86,12 @@ Remote sensing of diseases under production conditions is challenging because of
 
 ## Disease detection
 
-Use of UAV remote sensing imagery for identifying banana wilt disease
+Identifying banana wilt disease
 
 ![](figures/banana.png)
 ## Disease squantification
 
-Use of UAV remote sensing imagery for estimating severity of cercospora leaf spot in table beet
+Severity of cercospora leaf spot in table beet
 
 ![](figures/beet.png)
 ## Q & A
