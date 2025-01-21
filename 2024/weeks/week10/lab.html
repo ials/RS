@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Week 02 - Practical exercise – PERCEPCION REMOTA AVANZADA</title>
+<title>🗓️ Week 03 - Practical exercise – PERCEPCION REMOTA AVANZADA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,19 +71,15 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Week 02 - Practical exercise – PERCEPCION REMOTA AVANZADA">
+<meta property="og:title" content="🗓️ Week 03 - Practical exercise – PERCEPCION REMOTA AVANZADA">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://ials.github.io/ARS/2024/weeks/week02/figures/SciHub.png">
+<meta property="og:image" content="https://ials.github.io/ARS/2024/weeks/week10/figures/S1_ARD_GEE.png">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta property="og:image:height" content="640">
-<meta property="og:image:width" content="1418">
-<meta name="twitter:title" content="🗓️ Week 02 - Practical exercise – PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:title" content="🗓️ Week 03 - Practical exercise – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://ials.github.io/ARS/2024/weeks/week02/figures/SciHub.png">
+<meta name="twitter:image" content="https://ials.github.io/ARS/2024/weeks/week10/figures/S1_ARD_GEE.png">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
-<meta name="twitter:image-height" content="640">
-<meta name="twitter:image-width" content="1418">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -113,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">🗓️ Week 02 - Practical exercise</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">🗓️ Week 03 - Practical exercise</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -328,12 +324,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#tutorial-dataset" id="toc-tutorial-dataset" class="nav-link active" data-scroll-target="#tutorial-dataset">👨‍🏫 Tutorial Dataset</a>
-  <ul class="collapse">
-  <li><a href="#two-options-for-downloading-it" id="toc-two-options-for-downloading-it" class="nav-link" data-scroll-target="#two-options-for-downloading-it">Two options for downloading it:</a></li>
-  </ul></li>
-  <li><a href="#important" id="toc-important" class="nav-link" data-scroll-target="#important">✍️ Important</a></li>
-  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
+  <li><a href="#preparing-sentinel-1-analysis-ready-data-in-gee" id="toc-preparing-sentinel-1-analysis-ready-data-in-gee" class="nav-link active" data-scroll-target="#preparing-sentinel-1-analysis-ready-data-in-gee">Preparing Sentinel-1 Analysis Ready Data in GEE</a></li>
+  <li><a href="#the-mullisa-workflow" id="toc-the-mullisa-workflow" class="nav-link" data-scroll-target="#the-mullisa-workflow">The Mullisa workflow</a></li>
+  <li><a href="#hands-on-exercise" id="toc-hands-on-exercise" class="nav-link" data-scroll-target="#hands-on-exercise">Hands-on exercise</a></li>
   </ul>
 </nav>
     </div>
@@ -342,7 +335,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 02 - Practical exercise</h1>
+<h1 class="title">🗓️ Week 03 - Practical exercise</h1>
 </div>
 
 
@@ -365,85 +358,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will follow the <a href="http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf">“SAR-based land cover classification tutorial”</a></p>
-<section id="tutorial-dataset" class="level2">
-<h2 class="anchored" data-anchor-id="tutorial-dataset">👨‍🏫 Tutorial Dataset</h2>
-<section id="two-options-for-downloading-it" class="level3">
-<h3 class="anchored" data-anchor-id="two-options-for-downloading-it">Two options for downloading it:</h3>
-<section id="copernicus-open-access-hub" class="level4">
-<h4 class="anchored" data-anchor-id="copernicus-open-access-hub"><a href="https://scihub.copernicus.eu/dhus">Copernicus Open Access Hub</a></h4>
+<section id="preparing-sentinel-1-analysis-ready-data-in-gee" class="level3">
+<h3 class="anchored" data-anchor-id="preparing-sentinel-1-analysis-ready-data-in-gee">Preparing Sentinel-1 Analysis Ready Data in GEE</h3>
+<p>GEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.</p>
+<p>While radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.</p>
+<p>For a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.</p>
+<p>Thus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al.&nbsp;(2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.</p>
 </section>
-<section id="alaska-satellite-facility" class="level4">
-<h4 class="anchored" data-anchor-id="alaska-satellite-facility"><a href="https://search.asf.alaska.edu/">Alaska Satellite Facility</a></h4>
-<p><em>In both cases, you need to register</em>.</p>
+<section id="the-mullisa-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="the-mullisa-workflow">The Mullisa workflow</h3>
+<p>The implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.</p>
+<p align="center">
+<img src="figures/S1_ARD_GEE.png" width="60%" height="60%">
+</p>
 </section>
-<section id="search-and-download-the-following-products" class="level4">
-<h4 class="anchored" data-anchor-id="search-and-download-the-following-products">Search and download the following products:</h4>
-<p>S1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09</p>
-<div class="callout callout-style-default callout-important callout-titled">
+<section id="hands-on-exercise" class="level3">
+<h3 class="anchored" data-anchor-id="hands-on-exercise">Hands-on exercise</h3>
+<p>The framework is implemented in both GEE Javascript and the Python application programming interface (API).</p>
+<p>To use the framework in GEE code editor, go to <a href="https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard">this repository</a> and copy the contents of the <em>s1_ard.js</em> script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.</p>
+<p>When using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.</p>
+<p><a href="https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard">Click here to try it</a>.</p>
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Search results at Copernicus Open Access Hub
+Additional resources
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p><img src="figures/SciHub.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Search results at Alaska Satellite Facility
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/ASF.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/ASF_downloads.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/ASF-Metadata.png" class="img-fluid" style="width:60.0%"></p>
+<section id="mullisas-paper" class="level4">
+<h4 class="anchored" data-anchor-id="mullisas-paper"><a href="https://www.mdpi.com/2072-4292/13/10/1954/htm">Mullisa’s paper</a></h4>
+</section>
+<section id="mullisas-repository" class="level4">
+<h4 class="anchored" data-anchor-id="mullisas-repository"><a href="https://github.com/adugnag/gee_s1_ard">Mullisa’s repository</a></h4>
+</section>
 </div>
 </div>
 </div>
 <p>🎥</p>
-</section>
-</section>
-</section>
-<section id="important" class="level2">
-<h2 class="anchored" data-anchor-id="important">✍️ Important</h2>
-<p>🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-After ordering, you have to wait …
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/Sci_CART1.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/Sci_CART2.png" class="img-fluid" style="width:40.0%"></p>
-</div>
-</div>
-</div>
-</section>
-<section id="recommended-reading" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
-<ul>
-<li>Check the end of slides for the list of references cited in the lecture.</li>
-</ul>
 
 
 </section>

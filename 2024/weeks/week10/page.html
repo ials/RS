@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Week 02 - Practical exercise – PERCEPCION REMOTA AVANZADA</title>
+<title>🗓️ Week 10 - Introduction to Deep Learning – PERCEPCION REMOTA AVANZADA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
+<link href="../../../2024/weeks/week09/page.html" rel="prev">
 <link href="../../../figures/icons/ARS-1.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -71,20 +72,14 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Week 02 - Practical exercise – PERCEPCION REMOTA AVANZADA">
+<meta property="og:title" content="🗓️ Week 10 - Introduction to Deep Learning – PERCEPCION REMOTA AVANZADA">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://ials.github.io/ARS/2024/weeks/week02/figures/SciHub.png">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta property="og:image:height" content="640">
-<meta property="og:image:width" content="1418">
-<meta name="twitter:title" content="🗓️ Week 02 - Practical exercise – PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:title" content="🗓️ Week 10 - Introduction to Deep Learning – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://ials.github.io/ARS/2024/weeks/week02/figures/SciHub.png">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
-<meta name="twitter:image-height" content="640">
-<meta name="twitter:image-width" content="1418">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-sidebar docked nav-fixed">
@@ -113,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">🗓️ Week 02 - Practical exercise</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2024/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2024/weeks/week10/page.html">Week 10</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -301,16 +296,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2024/weeks/week10/page.html" class="sidebar-item-text sidebar-link">
+            <a href="../../../2024/weeks/week10/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 10</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2024/weeks/week10/page.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../2024/weeks/week10/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -328,21 +323,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#tutorial-dataset" id="toc-tutorial-dataset" class="nav-link active" data-scroll-target="#tutorial-dataset">👨‍🏫 Tutorial Dataset</a>
-  <ul class="collapse">
-  <li><a href="#two-options-for-downloading-it" id="toc-two-options-for-downloading-it" class="nav-link" data-scroll-target="#two-options-for-downloading-it">Two options for downloading it:</a></li>
-  </ul></li>
-  <li><a href="#important" id="toc-important" class="nav-link" data-scroll-target="#important">✍️ Important</a></li>
-  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
+  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
+  <li><a href="#practical-exercises" id="toc-practical-exercises" class="nav-link" data-scroll-target="#practical-exercises">Practical exercises</a></li>
+  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">Reading</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2024/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2024/weeks/week10/page.html">Week 10</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 02 - Practical exercise</h1>
+<h1 class="title">🗓️ Week 10 - Introduction to Deep Learning</h1>
 </div>
 
 
@@ -365,84 +357,22 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will follow the <a href="http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf">“SAR-based land cover classification tutorial”</a></p>
-<section id="tutorial-dataset" class="level2">
-<h2 class="anchored" data-anchor-id="tutorial-dataset">👨‍🏫 Tutorial Dataset</h2>
-<section id="two-options-for-downloading-it" class="level3">
-<h3 class="anchored" data-anchor-id="two-options-for-downloading-it">Two options for downloading it:</h3>
-<section id="copernicus-open-access-hub" class="level4">
-<h4 class="anchored" data-anchor-id="copernicus-open-access-hub"><a href="https://scihub.copernicus.eu/dhus">Copernicus Open Access Hub</a></h4>
+<p>In this week, we will learn basic <em>Deep Learning (DL)</em> concepts &amp; techniques.</p>
+<section id="lecture-slides" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
+<p>Click <a href="https://drive.google.com/file/d/1eK3ptCDU4e4tEwFKp_9xF1sl-b9jTz4D/view?usp=sharing">here</a> to view the slides.</p>
 </section>
-<section id="alaska-satellite-facility" class="level4">
-<h4 class="anchored" data-anchor-id="alaska-satellite-facility"><a href="https://search.asf.alaska.edu/">Alaska Satellite Facility</a></h4>
-<p><em>In both cases, you need to register</em>.</p>
-</section>
-<section id="search-and-download-the-following-products" class="level4">
-<h4 class="anchored" data-anchor-id="search-and-download-the-following-products">Search and download the following products:</h4>
-<p>S1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Search results at Copernicus Open Access Hub
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/SciHub.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Search results at Alaska Satellite Facility
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/ASF.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/ASF_downloads.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/ASF-Metadata.png" class="img-fluid" style="width:60.0%"></p>
-</div>
-</div>
-</div>
-<p>🎥</p>
-</section>
-</section>
-</section>
-<section id="important" class="level2">
-<h2 class="anchored" data-anchor-id="important">✍️ Important</h2>
-<p>🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.</p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-After ordering, you have to wait …
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-3" class="callout-3-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p><img src="figures/Sci_CART1.png" class="img-fluid" style="width:80.0%"></p>
-<p><img src="figures/Sci_CART2.png" class="img-fluid" style="width:40.0%"></p>
-</div>
-</div>
-</div>
-</section>
-<section id="recommended-reading" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
+<section id="practical-exercises" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercises">Practical exercises</h2>
 <ul>
-<li>Check the end of slides for the list of references cited in the lecture.</li>
+<li><a href="https://github.com/jtao/shortcourses/tree/master/Intro_to_PyTorch">Introduction to DL with PyTorch</a></li>
+</ul>
+</section>
+<section id="reading" class="level2">
+<h2 class="anchored" data-anchor-id="reading">Reading</h2>
+<p>Make sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.</p>
+<ul>
+<li><a href="https://drive.google.com/file/d/1rUR_G6MbaMAh6qXwz4zn--a1zVlPJAPm/view?usp=sharing">Mathematics of Neural Networks</a></li>
 </ul>
 
 
@@ -873,6 +803,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../../../2024/weeks/week09/page.html" class="pagination-link" aria-label="Week 09">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 09</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
