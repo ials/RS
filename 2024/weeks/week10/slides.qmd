@@ -1,0 +1,104 @@
+---
+subtitle: " 2027449 -- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:1em;'>🗓️ Week 09<br/>Remote sensing of vegetation</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 15 January 2025
+date-meta: 15 January 2025
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/earth.jpeg
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+# Optical remote sensing
+
+
+## Diverse platforms and sensors
+
+![](figures/optical1.png)
+
+## Surface spectral properties
+
+![](figures/optical2.png)
+
+## Vegetation properties
+
+![](figures/spectral1.png)
+
+## What records a remote sensor?
+
+Radiance values changes with illumination.
+
+![](figures/spectral2.png)
+
+## Vegetation indices
+
+:::: {.columns}
+
+::: {.column width="20%"}
+
+![](figures/ndvi1.png)
+:::
+
+::: {.column width="80%"}
+
+![](figures/ndvi2.png)
+:::
+
+::::
+
+# Remote sensing of crop diseases
+
+
+## Optical methods
+
+![](figures/diseases1.png)
+
+## Interaction light & plant
+
+![](figures/diseases2.png)
+
+## Scopes of disease sensing
+
+![](figures/diseases3.png)
+
+## Monitoring plant diseases
+
+Remote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control. 
+
+## UAV applications
+
+![](figures/diseases4.png)
+
+# Practical exercises
+
+## Disease detection
+
+Identifying banana wilt disease
+
+![](figures/banana.png)
+
+## Disease quantification
+
+Severity of cercospora leaf spot in table beet
+
+![](figures/beet.png)
+
+## Q & A
+
+Replicate the R code from [here](https://r4pde.net/data-remote-sensing)
+
+![](figures/book.png)

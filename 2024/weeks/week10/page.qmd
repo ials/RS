@@ -1,0 +1,22 @@
+---
+title: "🗓️ Week 10 - Introduction to Deep Learning "
+---
+
+In this  week, we will learn basic *Deep Learning (DL)* concepts & techniques.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/1eK3ptCDU4e4tEwFKp_9xF1sl-b9jTz4D/view?usp=sharing) to view the slides.
+
+## Practical exercises
+
+- [Introduction to DL with PyTorch](https://github.com/jtao/shortcourses/tree/master/Intro_to_PyTorch)
+
+## Reading
+
+Make sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.
+
+- [Mathematics of Neural Networks](https://drive.google.com/file/d/1rUR_G6MbaMAh6qXwz4zn--a1zVlPJAPm/view?usp=sharing)
+
+
