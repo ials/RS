@@ -16,6 +16,7 @@ project:
     - "2024/weeks/week09/*.qmd"
     - "2024/weeks/week10/*.qmd"
     - "2024/weeks/week11/*.qmd"
+    - "2024/weeks/week12/*.qmd"
 
 website:
   title: "PERCEPCION REMOTA AVANZADA"
@@ -92,6 +93,11 @@ website:
            text: Week 11
            contents:
              - href: 2024/weeks/week11/page.qmd
+               text: 👨‍🏫 Lecture Material
+         - href: 2024/weeks/week12/page.qmd
+           text: Week 12
+           contents:
+             - href: 2024/weeks/week12/page.qmd
                text: 👨‍🏫 Lecture Material
 
   navbar:

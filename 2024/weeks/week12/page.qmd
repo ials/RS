@@ -1,0 +1,30 @@
+---
+title: "🗓️ Week 12 -Convolutional Neural Networks "
+---
+
+In this  week, you have to complete two main tasks.
+
+
+## 👨‍🏫 Task 1
+
+Watch the tutorial [CNN in Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network)
+
+![](figures/CNNDL.png)
+
+
+## 👨‍🏫 Task 2
+
+Build a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this [tutorial](https://thedatafrog.com/en/articles/dogs-vs-cats/)
+
+![](figures/dogs_vs_cats.png)
+
+
+## Assignment
+
+Make sure you complete these tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them.
+
+## Reading
+
+Deep Learning for Earth Observation data analysis. 
+
+
