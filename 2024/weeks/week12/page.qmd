@@ -18,10 +18,11 @@ Build a convolutional neural network from scratch to classify images into two ca
 
 ![](figures/dogs_vs_cats.png)
 
+You can download the *Kaggle Cats and Dogs Dataset* [from here](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
 
 ## Assignment
 
-Make sure you complete these tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them.
+Make sure you complete both tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them.
 
 ## Reading
 
