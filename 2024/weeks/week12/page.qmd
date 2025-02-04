@@ -26,6 +26,7 @@ Make sure you complete both tasks before 12th February 2025. In your PRA noteboo
 
 ## Reading
 
-Deep Learning for Earth Observation data analysis. 
+Read (and take notes) of the article [*Ten deep learning techniques to address small data problems with
+remote sensing*](https://drive.google.com/file/d/1wGEP-apFKjtBe5XdjpRy9wgtLgpyxTJ1/view?usp=sharing)
 
 
