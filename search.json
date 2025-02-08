@@ -1,1056 +1,508 @@
 [
   {
-    "objectID": "2024/weeks/week12/page.html",
-    "href": "2024/weeks/week12/page.html",
-    "title": "🗓️ Week 12 -Convolutional Neural Networks",
+    "objectID": "2024/weeks/week13/page.html",
+    "href": "2024/weeks/week13/page.html",
+    "title": "🗓️ Week 13 - Deep Nets for Earth Observation",
     "section": "",
-    "text": "In this week, you have to complete two main tasks.",
+    "text": "In this week, we will see a PyTorch implementation of a Convolutional Neural Network for semantic segmentation of aerial images.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 12"
+      "Week 13"
     ]
   },
   {
-    "objectID": "2024/weeks/week12/page.html#task-1",
-    "href": "2024/weeks/week12/page.html#task-1",
-    "title": "🗓️ Week 12 -Convolutional Neural Networks",
-    "section": "👨‍🏫 Task 1",
-    "text": "👨‍🏫 Task 1\nWatch the tutorial CNN in Deep Learning",
+    "objectID": "2024/weeks/week13/page.html#theory",
+    "href": "2024/weeks/week13/page.html#theory",
+    "title": "🗓️ Week 13 - Deep Nets for Earth Observation",
+    "section": "👨‍🏫 Theory",
+    "text": "👨‍🏫 Theory\nSlides",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 12"
+      "Week 13"
     ]
   },
   {
-    "objectID": "2024/weeks/week12/page.html#task-2",
-    "href": "2024/weeks/week12/page.html#task-2",
-    "title": "🗓️ Week 12 -Convolutional Neural Networks",
-    "section": "👨‍🏫 Task 2",
-    "text": "👨‍🏫 Task 2\nBuild a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this tutorial\n\nYou can download the Kaggle Cats and Dogs Dataset from here.",
+    "objectID": "2024/weeks/week13/page.html#practical",
+    "href": "2024/weeks/week13/page.html#practical",
+    "title": "🗓️ Week 13 - Deep Nets for Earth Observation",
+    "section": "👨‍🏫 Practical",
+    "text": "👨‍🏫 Practical\nBuild a convolutional neural network for semantic segmentation of urban land cover from orthoimages. Replicate this Colab notebook\n\nMake sure you complete the practical before 19th February 2025. In your PRA notebook, summarize what have you learned.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 12"
+      "Week 13"
     ]
   },
   {
-    "objectID": "2024/weeks/week12/page.html#assignment",
-    "href": "2024/weeks/week12/page.html#assignment",
-    "title": "🗓️ Week 12 -Convolutional Neural Networks",
-    "section": "Assignment",
-    "text": "Assignment\nMake sure you complete both tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 12"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week12/page.html#reading",
-    "href": "2024/weeks/week12/page.html#reading",
-    "title": "🗓️ Week 12 -Convolutional Neural Networks",
+    "objectID": "2024/weeks/week13/page.html#reading",
+    "href": "2024/weeks/week13/page.html#reading",
+    "title": "🗓️ Week 13 - Deep Nets for Earth Observation",
     "section": "Reading",
-    "text": "Reading\nRead (and take notes) of the article Ten deep learning techniques to address small data problems with remote sensing",
+    "text": "Reading\nTo be defined.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 12"
+      "Week 13"
     ]
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#diverse-platforms-and-sensors",
-    "href": "2024/weeks/week10/slides.html#diverse-platforms-and-sensors",
+    "objectID": "2024/weeks/week11/page.html",
+    "href": "2024/weeks/week11/page.html",
+    "title": "🗓️ Week 11 -Examen No. 2",
+    "section": "",
+    "text": "In this week, you will write your Examen No. 2 following instructions given in the classroom last week.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week11/page.html#notas-examen-no.-1-25",
+    "href": "2024/weeks/week11/page.html#notas-examen-no.-1-25",
+    "title": "🗓️ Week 11 -Examen No. 2",
+    "section": "👨‍🏫 Notas Examen No. 1 (25%)",
+    "text": "👨‍🏫 Notas Examen No. 1 (25%)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week11/page.html#notas-informe-no.-1-25",
+    "href": "2024/weeks/week11/page.html#notas-informe-no.-1-25",
+    "title": "🗓️ Week 11 -Examen No. 2",
+    "section": "👨‍🏫 Notas Informe No. 1 (25%)",
+    "text": "👨‍🏫 Notas Informe No. 1 (25%)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week11/page.html#reading",
+    "href": "2024/weeks/week11/page.html#reading",
+    "title": "🗓️ Week 11 -Examen No. 2",
+    "section": "Reading",
+    "text": "Reading\nMake sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week10/page.html",
+    "href": "2024/weeks/week10/page.html",
+    "title": "🗓️ Week 10 - Introduction to Deep Learning",
+    "section": "",
+    "text": "In this week, we will learn basic Deep Learning (DL) concepts & techniques.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week10/page.html#lecture-slides",
+    "href": "2024/weeks/week10/page.html#lecture-slides",
+    "title": "🗓️ Week 10 - Introduction to Deep Learning",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week10/page.html#practical-exercises",
+    "href": "2024/weeks/week10/page.html#practical-exercises",
+    "title": "🗓️ Week 10 - Introduction to Deep Learning",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nIntroduction to DL with PyTorch",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week10/page.html#reading",
+    "href": "2024/weeks/week10/page.html#reading",
+    "title": "🗓️ Week 10 - Introduction to Deep Learning",
+    "section": "Reading",
+    "text": "Reading\nMake sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 10"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week09/slides.html#diverse-platforms-and-sensors",
+    "href": "2024/weeks/week09/slides.html#diverse-platforms-and-sensors",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Diverse platforms and sensors",
     "text": "Diverse platforms and sensors"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#surface-spectral-properties",
-    "href": "2024/weeks/week10/slides.html#surface-spectral-properties",
+    "objectID": "2024/weeks/week09/slides.html#surface-spectral-properties",
+    "href": "2024/weeks/week09/slides.html#surface-spectral-properties",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Surface spectral properties",
     "text": "Surface spectral properties"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#vegetation-properties",
-    "href": "2024/weeks/week10/slides.html#vegetation-properties",
+    "objectID": "2024/weeks/week09/slides.html#vegetation-properties",
+    "href": "2024/weeks/week09/slides.html#vegetation-properties",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Vegetation properties",
     "text": "Vegetation properties"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#what-records-a-remote-sensor",
-    "href": "2024/weeks/week10/slides.html#what-records-a-remote-sensor",
+    "objectID": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
+    "href": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "What records a remote sensor?",
     "text": "What records a remote sensor?\nRadiance values changes with illumination."
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#vegetation-indices",
-    "href": "2024/weeks/week10/slides.html#vegetation-indices",
+    "objectID": "2024/weeks/week09/slides.html#vegetation-indices",
+    "href": "2024/weeks/week09/slides.html#vegetation-indices",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Vegetation indices",
     "text": "Vegetation indices"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#optical-methods",
-    "href": "2024/weeks/week10/slides.html#optical-methods",
+    "objectID": "2024/weeks/week09/slides.html#optical-methods",
+    "href": "2024/weeks/week09/slides.html#optical-methods",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Optical methods",
     "text": "Optical methods"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#interaction-light-plant",
-    "href": "2024/weeks/week10/slides.html#interaction-light-plant",
+    "objectID": "2024/weeks/week09/slides.html#interaction-light-plant",
+    "href": "2024/weeks/week09/slides.html#interaction-light-plant",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Interaction light & plant",
     "text": "Interaction light & plant"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#scopes-of-disease-sensing",
-    "href": "2024/weeks/week10/slides.html#scopes-of-disease-sensing",
+    "objectID": "2024/weeks/week09/slides.html#scopes-of-disease-sensing",
+    "href": "2024/weeks/week09/slides.html#scopes-of-disease-sensing",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Scopes of disease sensing",
     "text": "Scopes of disease sensing"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#monitoring-plant-diseases",
-    "href": "2024/weeks/week10/slides.html#monitoring-plant-diseases",
+    "objectID": "2024/weeks/week09/slides.html#monitoring-plant-diseases",
+    "href": "2024/weeks/week09/slides.html#monitoring-plant-diseases",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Monitoring plant diseases",
     "text": "Monitoring plant diseases\nRemote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control."
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#uav-applications",
-    "href": "2024/weeks/week10/slides.html#uav-applications",
+    "objectID": "2024/weeks/week09/slides.html#uav-applications",
+    "href": "2024/weeks/week09/slides.html#uav-applications",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "UAV applications",
     "text": "UAV applications"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#disease-detection",
-    "href": "2024/weeks/week10/slides.html#disease-detection",
+    "objectID": "2024/weeks/week09/slides.html#disease-detection",
+    "href": "2024/weeks/week09/slides.html#disease-detection",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Disease detection",
     "text": "Disease detection\nIdentifying banana wilt disease"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#disease-quantification",
-    "href": "2024/weeks/week10/slides.html#disease-quantification",
+    "objectID": "2024/weeks/week09/slides.html#disease-quantification",
+    "href": "2024/weeks/week09/slides.html#disease-quantification",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Disease quantification",
     "text": "Disease quantification\nSeverity of cercospora leaf spot in table beet"
   },
   {
-    "objectID": "2024/weeks/week10/slides.html#q-a",
-    "href": "2024/weeks/week10/slides.html#q-a",
+    "objectID": "2024/weeks/week09/slides.html#q-a",
+    "href": "2024/weeks/week09/slides.html#q-a",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Q & A",
     "text": "Q & A\nReplicate the R code from here"
   },
   {
-    "objectID": "2024/weeks/week10/lab.html",
-    "href": "2024/weeks/week10/lab.html",
+    "objectID": "2024/weeks/week09/lab.html",
+    "href": "2024/weeks/week09/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
     "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2024/weeks/week09/page.html",
-    "href": "2024/weeks/week09/page.html",
-    "title": "🗓️ Week 9 - Remote sensing of vegetation",
+    "objectID": "2024/weeks/week08/page.html",
+    "href": "2024/weeks/week08/page.html",
+    "title": "🗓️ Week 8 - Examen No. 1",
     "section": "",
-    "text": "In this week, we will review concepts & techniques used for crop monitoring, in particular related to remote sensing of crop diseases.",
+    "text": "In this week, we will replicate the ECOSTRESS & EMIT tutorials. Based on them, we will write a technical report with the contents explained on 11th December.\nWe will send the complete report, in pdf format, via e-mail, before the due date.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 09"
+      "Week 08"
     ]
   },
   {
-    "objectID": "2024/weeks/week09/page.html#lecture-slides",
-    "href": "2024/weeks/week09/page.html#lecture-slides",
-    "title": "🗓️ Week 9 - Remote sensing of vegetation",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 09"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week09/page.html#practical-exercises",
-    "href": "2024/weeks/week09/page.html#practical-exercises",
-    "title": "🗓️ Week 9 - Remote sensing of vegetation",
-    "section": "Practical exercises",
-    "text": "Practical exercises\n\nRemote Sensing of crop diseases",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 09"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week08/slides.html#introduction-1",
-    "href": "2024/weeks/week08/slides.html#introduction-1",
+    "objectID": "2024/weeks/week07/slides.html#introduction-1",
+    "href": "2024/weeks/week07/slides.html#introduction-1",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Introduction (1)",
     "text": "Introduction (1)\nSAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties."
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#introduction-2",
-    "href": "2024/weeks/week08/slides.html#introduction-2",
+    "objectID": "2024/weeks/week07/slides.html#introduction-2",
+    "href": "2024/weeks/week07/slides.html#introduction-2",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Introduction (2)",
     "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#study-area",
-    "href": "2024/weeks/week08/slides.html#study-area",
+    "objectID": "2024/weeks/week07/slides.html#study-area",
+    "href": "2024/weeks/week07/slides.html#study-area",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Study Area",
     "text": "Study Area"
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#sar-data",
-    "href": "2024/weeks/week08/slides.html#sar-data",
+    "objectID": "2024/weeks/week07/slides.html#sar-data",
+    "href": "2024/weeks/week07/slides.html#sar-data",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "SAR data",
     "text": "SAR data"
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#in-situ-data",
-    "href": "2024/weeks/week08/slides.html#in-situ-data",
+    "objectID": "2024/weeks/week07/slides.html#in-situ-data",
+    "href": "2024/weeks/week07/slides.html#in-situ-data",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "in-situ data",
     "text": "in-situ data"
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#methods",
-    "href": "2024/weeks/week08/slides.html#methods",
+    "objectID": "2024/weeks/week07/slides.html#methods",
+    "href": "2024/weeks/week07/slides.html#methods",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Methods",
     "text": "Methods\n\nSAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)\nVegetation description (NDVI, RVIdp, DpRVIc)\nSoil moisture estimation (Water Cloud Model-)"
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#results",
-    "href": "2024/weeks/week08/slides.html#results",
+    "objectID": "2024/weeks/week07/slides.html#results",
+    "href": "2024/weeks/week07/slides.html#results",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Results",
     "text": "Results"
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#take-home-message",
-    "href": "2024/weeks/week08/slides.html#take-home-message",
+    "objectID": "2024/weeks/week07/slides.html#take-home-message",
+    "href": "2024/weeks/week07/slides.html#take-home-message",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Take-home message",
     "text": "Take-home message\n\nKnow the physics\nStart simple\nProgress smoothly"
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#checklist",
-    "href": "2024/weeks/week08/slides.html#checklist",
+    "objectID": "2024/weeks/week07/slides.html#checklist",
+    "href": "2024/weeks/week07/slides.html#checklist",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Checklist",
     "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
   },
   {
-    "objectID": "2024/weeks/week08/slides.html#to-do-before-next-class",
-    "href": "2024/weeks/week08/slides.html#to-do-before-next-class",
+    "objectID": "2024/weeks/week07/slides.html#to-do-before-next-class",
+    "href": "2024/weeks/week07/slides.html#to-do-before-next-class",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "To do before next class",
     "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
   },
   {
-    "objectID": "2024/weeks/week08/lab.html",
-    "href": "2024/weeks/week08/lab.html",
+    "objectID": "2024/weeks/week07/lab.html",
+    "href": "2024/weeks/week07/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
     "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2024/weeks/week07/page.html",
-    "href": "2024/weeks/week07/page.html",
-    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "objectID": "2024/weeks/week06/page.html",
+    "href": "2024/weeks/week06/page.html",
+    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
     "section": "",
-    "text": "In this week, we will get familiar with SOTA hyperspectral and thermal sensors.",
+    "text": "In this week, we will revise a method for soil moisture retrieval over croplands using dual-pol GRD SAR data.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 07"
+      "Week 06"
     ]
   },
   {
-    "objectID": "2024/weeks/week07/page.html#lecture-slides",
-    "href": "2024/weeks/week07/page.html#lecture-slides",
-    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "objectID": "2024/weeks/week06/page.html#lecture-slides",
+    "href": "2024/weeks/week06/page.html#lecture-slides",
+    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 07"
+      "Week 06"
     ]
   },
   {
-    "objectID": "2024/weeks/week07/page.html#practical-exercises",
-    "href": "2024/weeks/week07/page.html#practical-exercises",
-    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
-    "section": "Practical exercises",
-    "text": "Practical exercises\n\nECOSTRESS tutorials\nSpace Station Synergies: Applying ECOSTRESS and EMIT to ecological problems",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 07"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week07/page.html#first-report",
-    "href": "2024/weeks/week07/page.html#first-report",
-    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "objectID": "2024/weeks/week06/page.html#first-report",
+    "href": "2024/weeks/week06/page.html#first-report",
+    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
     "section": "First report",
     "text": "First report\nStudents keep working for their first report",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 07"
+      "Week 06"
     ]
   },
   {
-    "objectID": "2024/weeks/week07/page.html#recommended-reading",
-    "href": "2024/weeks/week07/page.html#recommended-reading",
-    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "objectID": "2024/weeks/week06/page.html#recommended-reading",
+    "href": "2024/weeks/week06/page.html#recommended-reading",
+    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\nImaging canopy temperature\nECOSTRESS Level-3 DisALEXI-JPL Evapotranspiration\nEMIT mission",
+    "text": "📚 Recommended Reading\nSoil moisture retrieval over croplands using SAR GRD data",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 07"
+      "Week 06"
     ]
   },
   {
-    "objectID": "2024/weeks/week06/slides.html#introduction-1",
-    "href": "2024/weeks/week06/slides.html#introduction-1",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Introduction (1)",
-    "text": "Introduction (1)\nSAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties."
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#introduction-2",
-    "href": "2024/weeks/week06/slides.html#introduction-2",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Introduction (2)",
-    "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#study-area",
-    "href": "2024/weeks/week06/slides.html#study-area",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Study Area",
-    "text": "Study Area"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#sar-data",
-    "href": "2024/weeks/week06/slides.html#sar-data",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "SAR data",
-    "text": "SAR data"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#in-situ-data",
-    "href": "2024/weeks/week06/slides.html#in-situ-data",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "in-situ data",
-    "text": "in-situ data"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#methods",
-    "href": "2024/weeks/week06/slides.html#methods",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Methods",
-    "text": "Methods\n\nSAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)\nVegetation description (NDVI, RVIdp, DpRVIc)\nSoil moisture estimation (Water Cloud Model-)"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#results",
-    "href": "2024/weeks/week06/slides.html#results",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Results",
-    "text": "Results"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#take-home-message",
-    "href": "2024/weeks/week06/slides.html#take-home-message",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Take-home message",
-    "text": "Take-home message\n\nKnow the physics\nStart simple\nProgress smoothly"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#checklist",
-    "href": "2024/weeks/week06/slides.html#checklist",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "Checklist",
-    "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#to-do-before-next-class",
-    "href": "2024/weeks/week06/slides.html#to-do-before-next-class",
-    "title": "🗓️ Week 6soil moisture from SAR",
-    "section": "To do before next class",
-    "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
-  },
-  {
-    "objectID": "2024/weeks/week06/lab.html",
-    "href": "2024/weeks/week06/lab.html",
-    "title": "🗓️ Week 03 - Practical exercise",
-    "section": "",
-    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html",
-    "href": "2024/weeks/week05/page.html",
-    "title": "🗓️ Week5 - Understanding SAR workflows",
-    "section": "",
-    "text": "In this week, we will revise the workflows we proposed for our Informe 1. Bring them printed to the classroom.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#lecture-slides",
-    "href": "2024/weeks/week05/page.html#lecture-slides",
-    "title": "🗓️ Week5 - Understanding SAR workflows",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#first-report",
-    "href": "2024/weeks/week05/page.html#first-report",
-    "title": "🗓️ Week5 - Understanding SAR workflows",
-    "section": "First report",
-    "text": "First report\nStudents revise objectives & workflow for their first report",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#practical-exercises",
-    "href": "2024/weeks/week05/page.html#practical-exercises",
-    "title": "🗓️ Week5 - Understanding SAR workflows",
-    "section": "Practical exercises",
-    "text": "Practical exercises\n\nStart implementing your workflow\nKeep doing the ARSET assignment",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#recommended-reading",
-    "href": "2024/weeks/week05/page.html#recommended-reading",
-    "title": "🗓️ Week5 - Understanding SAR workflows",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\nAgricultural Crop Classification Roadmap using Optical and SAR Imagery - Part 3\nAgricultural Crop Classification Roadmap using Optical and SAR Imagery - Part 4",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#recommended-video",
-    "href": "2024/weeks/week05/page.html#recommended-video",
-    "title": "🗓️ Week5 - Understanding SAR workflows",
-    "section": "📚 Recommended Video",
-    "text": "📚 Recommended Video\n\nOperational Crop Classification Roadmap using Optical and SAR Imagery by Heather McNairn & Laura Dingle-Robertson (AAFC)",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week04/slides.html#the-importance-of-workflows",
-    "href": "2024/weeks/week04/slides.html#the-importance-of-workflows",
-    "title": "🗓️ Week 4 SAR workflows",
+    "objectID": "2024/weeks/week05/slides.html#the-importance-of-workflows",
+    "href": "2024/weeks/week05/slides.html#the-importance-of-workflows",
+    "title": "🗓️ Week 5More SAR workflows",
     "section": "The importance of workflows",
     "text": "The importance of workflows"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#the-importance-of-documentation",
-    "href": "2024/weeks/week04/slides.html#the-importance-of-documentation",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "The importance of documentation",
-    "text": "The importance of documentation"
+    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow-1",
+    "href": "2024/weeks/week05/slides.html#ml-training-workflow-1",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "ML training workflow (1)",
+    "text": "ML training workflow (1)"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#generic-workflow",
-    "href": "2024/weeks/week04/slides.html#generic-workflow",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "Generic workflow",
-    "text": "Generic workflow"
+    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow-2",
+    "href": "2024/weeks/week05/slides.html#ml-training-workflow-2",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "ML training workflow (2)",
+    "text": "ML training workflow (2)"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#a-sar-workflow",
-    "href": "2024/weeks/week04/slides.html#a-sar-workflow",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "A SAR workflow",
-    "text": "A SAR workflow"
+    "objectID": "2024/weeks/week05/slides.html#land-cover-classification-at-three-levels",
+    "href": "2024/weeks/week05/slides.html#land-cover-classification-at-three-levels",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Land cover classification at three levels",
+    "text": "Land cover classification at three levels"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#another-workflow",
-    "href": "2024/weeks/week04/slides.html#another-workflow",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "Another workflow",
-    "text": "Another workflow"
+    "objectID": "2024/weeks/week05/slides.html#land-cover-classification-in-complex-terrain",
+    "href": "2024/weeks/week05/slides.html#land-cover-classification-in-complex-terrain",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Land cover classification in complex terrain",
+    "text": "Land cover classification in complex terrain"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#define-your-informe-1-objectives",
-    "href": "2024/weeks/week04/slides.html#define-your-informe-1-objectives",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "Define your Informe 1 objectives",
-    "text": "Define your Informe 1 objectives\n\nWrite down what you expect to do with ARD SAR data.\nLook for a paper reporting a similar application"
+    "objectID": "2024/weeks/week05/slides.html#agricultural-crop-classification",
+    "href": "2024/weeks/week05/slides.html#agricultural-crop-classification",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Agricultural Crop Classification",
+    "text": "Agricultural Crop Classification"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#define-your-workflow",
-    "href": "2024/weeks/week04/slides.html#define-your-workflow",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "Define your workflow",
-    "text": "Define your workflow\n\nDraw the first version of your workflow\nWrite down your ideas and bring the draft to next class"
+    "objectID": "2024/weeks/week05/slides.html#wide-area-land-cover-mapping",
+    "href": "2024/weeks/week05/slides.html#wide-area-land-cover-mapping",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Wide area land cover mapping",
+    "text": "Wide area land cover mapping"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#complete-the-coursework",
-    "href": "2024/weeks/week04/slides.html#complete-the-coursework",
-    "title": "🗓️ Week 4 SAR workflows",
-    "section": "Complete the coursework",
-    "text": "Complete the coursework\n\nWeek 1: Data Insights with Python for Beginners\nWeek 1: GEE Image with Python\nWeek 3: Preparing Sentinel-1 Analysis Ready Data in GEE"
+    "objectID": "2024/weeks/week05/slides.html#each-student-present-herhis-proposal",
+    "href": "2024/weeks/week05/slides.html#each-student-present-herhis-proposal",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Each student present her/his proposal",
+    "text": "Each student present her/his proposal"
   },
   {
-    "objectID": "2024/weeks/week04/slides.html#watch-this-video",
-    "href": "2024/weeks/week04/slides.html#watch-this-video",
-    "title": "🗓️ Week 4 SAR workflows",
+    "objectID": "2024/weeks/week05/slides.html#start-implementing-your-workflow-for-informe-1",
+    "href": "2024/weeks/week05/slides.html#start-implementing-your-workflow-for-informe-1",
+    "title": "🗓️ Week 5More SAR workflows",
+    "section": "Start implementing your workflow for Informe 1",
+    "text": "Start implementing your workflow for Informe 1\n\nDefine your study area & your software tools\nGet your hands dirty with code"
+  },
+  {
+    "objectID": "2024/weeks/week05/slides.html#watch-this-video",
+    "href": "2024/weeks/week05/slides.html#watch-this-video",
+    "title": "🗓️ Week 5More SAR workflows",
     "section": "Watch this video",
-    "text": "Watch this video\nAnswer pressing questions on our world\nTom Ager (2023)"
+    "text": "Watch this video\nOperational Crop Classification Roadmap using Optical and SAR Imagery\nARSET (2021)"
   },
   {
-    "objectID": "2024/weeks/week04/lab.html",
-    "href": "2024/weeks/week04/lab.html",
+    "objectID": "2024/weeks/week05/lab.html",
+    "href": "2024/weeks/week05/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
     "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2024/weeks/week03/page.html",
-    "href": "2024/weeks/week03/page.html",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "objectID": "2024/weeks/week04/page.html",
+    "href": "2024/weeks/week04/page.html",
+    "title": "🗓️ Week 4 - Working with ARD SAR data",
     "section": "",
-    "text": "In this week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.",
+    "text": "In this week, we will define what to do with ARD SAR data (e.g. classification, regression) for our Informe 1",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 03"
+      "Week 04"
     ]
   },
   {
-    "objectID": "2024/weeks/week03/page.html#lecture-slides",
-    "href": "2024/weeks/week03/page.html#lecture-slides",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "objectID": "2024/weeks/week04/page.html#lecture-slides",
+    "href": "2024/weeks/week04/page.html#lecture-slides",
+    "title": "🗓️ Week 4 - Working with ARD SAR data",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 03"
+      "Week 04"
     ]
   },
   {
-    "objectID": "2024/weeks/week03/page.html#first-report",
-    "href": "2024/weeks/week03/page.html#first-report",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "objectID": "2024/weeks/week04/page.html#first-report",
+    "href": "2024/weeks/week04/page.html#first-report",
+    "title": "🗓️ Week 4 - Working with ARD SAR data",
     "section": "First report",
-    "text": "First report\nStudents decide the topic & study area for their first report",
+    "text": "First report\nStudents write down objectives & workflow for their first report",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 03"
+      "Week 04"
     ]
   },
   {
-    "objectID": "2024/weeks/week03/page.html#practical-exercise",
-    "href": "2024/weeks/week03/page.html#practical-exercise",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "Practical exercise",
-    "text": "Practical exercise\nThe tutorial material is here",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html#recommended-reading",
-    "href": "2024/weeks/week03/page.html#recommended-reading",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\nAngular-Based Radiometric Slope Correction for Sentinel-1 on GEE\nVollrath et al. (2022)",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html#recommended-video",
-    "href": "2024/weeks/week03/page.html#recommended-video",
-    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
-    "section": "📚 Recommended Video",
-    "text": "📚 Recommended Video\n\nICEYE SAR products (Ager, 2023)",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#the-wavelengths",
-    "href": "2024/weeks/week02/slides.html#the-wavelengths",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "The wavelengths",
-    "text": "The wavelengths"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#the-benefits",
-    "href": "2024/weeks/week02/slides.html#the-benefits",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "The benefits",
-    "text": "The benefits"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#weather-independence",
-    "href": "2024/weeks/week02/slides.html#weather-independence",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Weather independence",
-    "text": "Weather independence\n\n\n\nSentinel-1\nSentinel-2"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#radar-bands",
-    "href": "2024/weeks/week02/slides.html#radar-bands",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Radar bands",
-    "text": "Radar bands"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#radar-signal-penetration",
-    "href": "2024/weeks/week02/slides.html#radar-signal-penetration",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Radar signal penetration",
-    "text": "Radar signal penetration"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#electromagnetic-waves",
-    "href": "2024/weeks/week02/slides.html#electromagnetic-waves",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Electromagnetic waves",
-    "text": "Electromagnetic waves"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#polarization",
-    "href": "2024/weeks/week02/slides.html#polarization",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Polarization",
-    "text": "Polarization"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#sar-polarization",
-    "href": "2024/weeks/week02/slides.html#sar-polarization",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "SAR polarization",
-    "text": "SAR polarization"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#backscattering",
-    "href": "2024/weeks/week02/slides.html#backscattering",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Backscattering",
-    "text": "Backscattering"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#relative-scattering",
-    "href": "2024/weeks/week02/slides.html#relative-scattering",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Relative scattering",
-    "text": "Relative scattering"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#sar-signaturres",
-    "href": "2024/weeks/week02/slides.html#sar-signaturres",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "SAR signaturres",
-    "text": "SAR signaturres"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#sar-system",
-    "href": "2024/weeks/week02/slides.html#sar-system",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "SAR system",
-    "text": "SAR system"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#range-resolution",
-    "href": "2024/weeks/week02/slides.html#range-resolution",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Range resolution",
-    "text": "Range resolution"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#azimuth-resolution",
-    "href": "2024/weeks/week02/slides.html#azimuth-resolution",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Azimuth resolution",
-    "text": "Azimuth resolution"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#speckle",
-    "href": "2024/weeks/week02/slides.html#speckle",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Speckle",
-    "text": "Speckle"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#geometric-distorsions",
-    "href": "2024/weeks/week02/slides.html#geometric-distorsions",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Geometric distorsions",
-    "text": "Geometric distorsions"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#backscatter-variables",
-    "href": "2024/weeks/week02/slides.html#backscatter-variables",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Backscatter variables",
-    "text": "Backscatter variables"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#backscatter-reference-areas",
-    "href": "2024/weeks/week02/slides.html#backscatter-reference-areas",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Backscatter reference areas",
-    "text": "Backscatter reference areas"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#read-this-document",
-    "href": "2024/weeks/week02/slides.html#read-this-document",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Read this document",
-    "text": "Read this document\nA layman interpretation guide to L-band and C-band SAR data\nCEOS (2018)"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#watch-this-video",
-    "href": "2024/weeks/week02/slides.html#watch-this-video",
-    "title": "🗓️ Week 02 SAR Basics",
-    "section": "Watch this video",
-    "text": "Watch this video\nSee the world through SAR\nTom Ager - ICEYE - 2023"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#practical-exercises",
-    "href": "2024/weeks/week02/slides.html#practical-exercises",
-    "title": "🗓️ Week 02 SAR Basics",
+    "objectID": "2024/weeks/week04/page.html#practical-exercises",
+    "href": "2024/weeks/week04/page.html#practical-exercises",
+    "title": "🗓️ Week 4 - Working with ARD SAR data",
     "section": "Practical exercises",
-    "text": "Practical exercises\n\nProgress on the Data Insigths with Python tutorial\nProgress on the GEE Image with Python tutorial"
+    "text": "Practical exercises\n\nComplete the coursework from previous weeks\nStart doing the ARSET assignment",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 04"
+    ]
   },
   {
-    "objectID": "2024/weeks/week02/lab.html",
-    "href": "2024/weeks/week02/lab.html",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "",
-    "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
-  },
-  {
-    "objectID": "2024/weeks/week02/lab.html#tutorial-dataset",
-    "href": "2024/weeks/week02/lab.html#tutorial-dataset",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "👨‍🏫 Tutorial Dataset",
-    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
-  },
-  {
-    "objectID": "2024/weeks/week02/lab.html#important",
-    "href": "2024/weeks/week02/lab.html#important",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "✍️ Important",
-    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
-  },
-  {
-    "objectID": "2024/weeks/week02/lab.html#recommended-reading",
-    "href": "2024/weeks/week02/lab.html#recommended-reading",
-    "title": "🗓️ Week 02 - Practical exercise",
+    "objectID": "2024/weeks/week04/page.html#recommended-reading",
+    "href": "2024/weeks/week04/page.html#recommended-reading",
+    "title": "🗓️ Week 4 - Working with ARD SAR data",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
-  },
-  {
-    "objectID": "2024/weeks/week01/page.html",
-    "href": "2024/weeks/week01/page.html",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
-    "section": "",
-    "text": "In this first unit, we will review basic remote sensing concepts:",
+    "text": "📚 Recommended Reading\nSAR land cover classification tutorial\nAutomatic wide area land cover mapping using Sentinel-1 multitemporal data",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 01"
+      "Week 04"
     ]
   },
   {
-    "objectID": "2024/weeks/week01/page.html#lecture-slides",
-    "href": "2024/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
+    "objectID": "2024/weeks/week04/page.html#recommended-video",
+    "href": "2024/weeks/week04/page.html#recommended-video",
+    "title": "🗓️ Week 4 - Working with ARD SAR data",
+    "section": "📚 Recommended Video",
+    "text": "📚 Recommended Video\n\nAnswer pressing questions on our world (Ager, 2023)",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 01"
+      "Week 04"
     ]
-  },
-  {
-    "objectID": "2024/weeks/week01/page.html#coursework",
-    "href": "2024/weeks/week01/page.html#coursework",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧\n🚧 GEE Image with Python 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week01/page.html#recommended-reading",
-    "href": "2024/weeks/week01/page.html#recommended-reading",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week01/page.html#communication",
-    "href": "2024/weeks/week01/page.html#communication",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nGet to know your peers in the course and organize study groups",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 01"
-    ]
-  },
-  {
-    "objectID": "2024/index.html",
-    "href": "2024/index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(27/01/2025)\nIn this week, students write their Examen 2. Make sure you send your exam via e-mail, with the subject PRA Examen 2, before 1st February 2025 at 11:59 pm.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
-    "crumbs": [
-      "🏠 Home"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nUnderstand the physical principles of optical and radar-based remote sensing.\nDistinguish the main steps for SAR images correction.\nApply advanced computational techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2024"
-  },
-  {
-    "objectID": "2024/syllabus.html",
-    "href": "2024/syllabus.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2024/syllabus.html#prerequisitos",
-    "href": "2024/syllabus.html#prerequisitos",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2024/syllabus.html#descripción-de-la-asignatura",
-    "href": "2024/syllabus.html#descripción-de-la-asignatura",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nConocer los principios físicos de la percepción remota de radar de apertura sintética (SAR)\nEntender las características principales de las imágenes SAR y los métodos de corrección aplicables\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2024/syllabus.html#contenido-detallado",
-    "href": "2024/syllabus.html#contenido-detallado",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\n\n\n\n\nUnidad 1 - Imágenes térmicas e imágenes hiper-espectrales\n\n\nUnidad 2 - Conceptos básicos de radar de apertura sintética\n\n\nUnidad 3 – Visualización e interpretación de imágenes SAR\n\n\nUnidad 4 – Pre-procesamiento básico de imágenes SAR\n\n\nUnidad 5 – Uso de imágenes SAR en aplicaciones ambientales\n\n\nUnidad 6 – Principios de aprendizaje profundo\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos de observación terrestre",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2024/syllabus.html#evaluación-del-curso",
-    "href": "2024/syllabus.html#evaluación-del-curso",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Febrero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2024/syllabus.html#bibliografia",
-    "href": "2024/syllabus.html#bibliografia",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.",
-    "crumbs": [
-      "📓 Syllabus"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#your-lecturer",
-    "href": "2024/weeks/week01/slides.html#your-lecturer",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Your lecturer",
-    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nmachine and deep learning  Earth observation  Territorial sustainability"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#students",
-    "href": "2024/weeks/week01/slides.html#students",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Students",
-    "text": "Students\nPlease introduce yourselves\n:::"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#statement-1",
-    "href": "2024/weeks/week01/slides.html#statement-1",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 1",
-    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#statement-2",
-    "href": "2024/weeks/week01/slides.html#statement-2",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 2",
-    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#statement-3",
-    "href": "2024/weeks/week01/slides.html#statement-3",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 3",
-    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#statement-4",
-    "href": "2024/weeks/week01/slides.html#statement-4",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 4",
-    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#statement-5",
-    "href": "2024/weeks/week01/slides.html#statement-5",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 5",
-    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#statement-6",
-    "href": "2024/weeks/week01/slides.html#statement-6",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 6",
-    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#atmospheric-correction",
-    "href": "2024/weeks/week01/slides.html#atmospheric-correction",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Atmospheric correction",
-    "text": "Atmospheric correction"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#basic-python-quiz",
-    "href": "2024/weeks/week01/slides.html#basic-python-quiz",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Basic python quiz",
-    "text": "Basic python quiz\nSolve this simple quiz"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#gee-python-quiz",
-    "href": "2024/weeks/week01/slides.html#gee-python-quiz",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "GEE python quiz",
-    "text": "GEE python quiz\nWrite the code to obtain a Landsat 8 image collection acquired in 2024 over Barranquilla with cloud cover lower than 20%."
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#reading-doing-and-writing",
-    "href": "2024/weeks/week01/slides.html#reading-doing-and-writing",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Reading, doing and writing",
-    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
-    "href": "2024/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Do GEE Python tutorial and report your results",
-    "text": "Do GEE Python tutorial and report your results"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
-    "href": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)",
-    "text": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)"
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html",
-    "href": "2024/weeks/week02/page.html",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "",
-    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR).\nIn addition, we will follow a tutorial to learn how to classify land cover using SAR data.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#lecture-slides",
-    "href": "2024/weeks/week02/page.html#lecture-slides",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to review Basic SAR Concepts.\nClick here to know about Sentinel-1 data.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#practical-exercise",
-    "href": "2024/weeks/week02/page.html#practical-exercise",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "Practical exercise",
-    "text": "Practical exercise\nMake sure you download the tutorial data before the class as explained here",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#recommended-reading",
-    "href": "2024/weeks/week02/page.html#recommended-reading",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/lab.html",
-    "href": "2024/weeks/week03/lab.html",
-    "title": "🗓️ Week 03 - Practical exercise",
-    "section": "",
-    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repositorz and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
     "objectID": "2024/weeks/week03/slides.html#bad-news-good-news",
@@ -1235,464 +687,1056 @@
     "text": "Practical exercise\nPreparing Sentinel-1 ARD in GEE (Mullisa, 2021)"
   },
   {
-    "objectID": "2024/weeks/week04/page.html",
-    "href": "2024/weeks/week04/page.html",
-    "title": "🗓️ Week 4 - Working with ARD SAR data",
+    "objectID": "2024/weeks/week03/lab.html",
+    "href": "2024/weeks/week03/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
-    "text": "In this week, we will define what to do with ARD SAR data (e.g. classification, regression) for our Informe 1",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repositorz and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2024/weeks/week02/page.html",
+    "href": "2024/weeks/week02/page.html",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "",
+    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR).\nIn addition, we will follow a tutorial to learn how to classify land cover using SAR data.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 04"
+      "Week 02"
     ]
   },
   {
-    "objectID": "2024/weeks/week04/page.html#lecture-slides",
-    "href": "2024/weeks/week04/page.html#lecture-slides",
-    "title": "🗓️ Week 4 - Working with ARD SAR data",
+    "objectID": "2024/weeks/week02/page.html#lecture-slides",
+    "href": "2024/weeks/week02/page.html#lecture-slides",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to review Basic SAR Concepts.\nClick here to know about Sentinel-1 data.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week02/page.html#practical-exercise",
+    "href": "2024/weeks/week02/page.html#practical-exercise",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nMake sure you download the tutorial data before the class as explained here",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week02/page.html#recommended-reading",
+    "href": "2024/weeks/week02/page.html#recommended-reading",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#your-lecturer",
+    "href": "2024/weeks/week01/slides.html#your-lecturer",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Your lecturer",
+    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nmachine and deep learning  Earth observation  Territorial sustainability"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#students",
+    "href": "2024/weeks/week01/slides.html#students",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Students",
+    "text": "Students\nPlease introduce yourselves\n:::"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#statement-1",
+    "href": "2024/weeks/week01/slides.html#statement-1",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 1",
+    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#statement-2",
+    "href": "2024/weeks/week01/slides.html#statement-2",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 2",
+    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#statement-3",
+    "href": "2024/weeks/week01/slides.html#statement-3",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 3",
+    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#statement-4",
+    "href": "2024/weeks/week01/slides.html#statement-4",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 4",
+    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#statement-5",
+    "href": "2024/weeks/week01/slides.html#statement-5",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 5",
+    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#statement-6",
+    "href": "2024/weeks/week01/slides.html#statement-6",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 6",
+    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#atmospheric-correction",
+    "href": "2024/weeks/week01/slides.html#atmospheric-correction",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Atmospheric correction",
+    "text": "Atmospheric correction"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#basic-python-quiz",
+    "href": "2024/weeks/week01/slides.html#basic-python-quiz",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Basic python quiz",
+    "text": "Basic python quiz\nSolve this simple quiz"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#gee-python-quiz",
+    "href": "2024/weeks/week01/slides.html#gee-python-quiz",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "GEE python quiz",
+    "text": "GEE python quiz\nWrite the code to obtain a Landsat 8 image collection acquired in 2024 over Barranquilla with cloud cover lower than 20%."
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#reading-doing-and-writing",
+    "href": "2024/weeks/week01/slides.html#reading-doing-and-writing",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Reading, doing and writing",
+    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
+    "href": "2024/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Do GEE Python tutorial and report your results",
+    "text": "Do GEE Python tutorial and report your results"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
+    "href": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)",
+    "text": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)"
+  },
+  {
+    "objectID": "2024/syllabus.html",
+    "href": "2024/syllabus.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2024/syllabus.html#prerequisitos",
+    "href": "2024/syllabus.html#prerequisitos",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2024/syllabus.html#descripción-de-la-asignatura",
+    "href": "2024/syllabus.html#descripción-de-la-asignatura",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nConocer los principios físicos de la percepción remota de radar de apertura sintética (SAR)\nEntender las características principales de las imágenes SAR y los métodos de corrección aplicables\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2024/syllabus.html#contenido-detallado",
+    "href": "2024/syllabus.html#contenido-detallado",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "CONTENIDO DETALLADO",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\n\n\n\n\nUnidad 1 - Imágenes térmicas e imágenes hiper-espectrales\n\n\nUnidad 2 - Conceptos básicos de radar de apertura sintética\n\n\nUnidad 3 – Visualización e interpretación de imágenes SAR\n\n\nUnidad 4 – Pre-procesamiento básico de imágenes SAR\n\n\nUnidad 5 – Uso de imágenes SAR en aplicaciones ambientales\n\n\nUnidad 6 – Principios de aprendizaje profundo\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos de observación terrestre",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2024/syllabus.html#evaluación-del-curso",
+    "href": "2024/syllabus.html#evaluación-del-curso",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "EVALUACIÓN DEL CURSO:",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Febrero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2024/syllabus.html#bibliografia",
+    "href": "2024/syllabus.html#bibliografia",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "BIBLIOGRAFIA",
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nUnderstand the physical principles of optical and radar-based remote sensing.\nDistinguish the main steps for SAR images correction.\nApply advanced computational techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2024"
+  },
+  {
+    "objectID": "2024/index.html",
+    "href": "2024/index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(27/01/2025)\nIn this week, students write their Examen 2. Make sure you send your exam via e-mail, with the subject PRA Examen 2, before 1st February 2025 at 11:59 pm.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "crumbs": [
+      "🏠 Home"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week01/page.html",
+    "href": "2024/weeks/week01/page.html",
+    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "section": "",
+    "text": "In this first unit, we will review basic remote sensing concepts:",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week01/page.html#lecture-slides",
+    "href": "2024/weeks/week01/page.html#lecture-slides",
+    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week01/page.html#coursework",
+    "href": "2024/weeks/week01/page.html#coursework",
+    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧\n🚧 GEE Image with Python 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week01/page.html#recommended-reading",
+    "href": "2024/weeks/week01/page.html#recommended-reading",
+    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week01/page.html#communication",
+    "href": "2024/weeks/week01/page.html#communication",
+    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nGet to know your peers in the course and organize study groups",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week02/lab.html",
+    "href": "2024/weeks/week02/lab.html",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "",
+    "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
+  },
+  {
+    "objectID": "2024/weeks/week02/lab.html#tutorial-dataset",
+    "href": "2024/weeks/week02/lab.html#tutorial-dataset",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "👨‍🏫 Tutorial Dataset",
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2024/weeks/week02/lab.html#important",
+    "href": "2024/weeks/week02/lab.html#important",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "✍️ Important",
+    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
+  },
+  {
+    "objectID": "2024/weeks/week02/lab.html#recommended-reading",
+    "href": "2024/weeks/week02/lab.html#recommended-reading",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#the-wavelengths",
+    "href": "2024/weeks/week02/slides.html#the-wavelengths",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "The wavelengths",
+    "text": "The wavelengths"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#the-benefits",
+    "href": "2024/weeks/week02/slides.html#the-benefits",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "The benefits",
+    "text": "The benefits"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#weather-independence",
+    "href": "2024/weeks/week02/slides.html#weather-independence",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Weather independence",
+    "text": "Weather independence\n\n\n\nSentinel-1\nSentinel-2"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#radar-bands",
+    "href": "2024/weeks/week02/slides.html#radar-bands",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar bands",
+    "text": "Radar bands"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#radar-signal-penetration",
+    "href": "2024/weeks/week02/slides.html#radar-signal-penetration",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar signal penetration",
+    "text": "Radar signal penetration"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#electromagnetic-waves",
+    "href": "2024/weeks/week02/slides.html#electromagnetic-waves",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Electromagnetic waves",
+    "text": "Electromagnetic waves"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#polarization",
+    "href": "2024/weeks/week02/slides.html#polarization",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Polarization",
+    "text": "Polarization"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#sar-polarization",
+    "href": "2024/weeks/week02/slides.html#sar-polarization",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR polarization",
+    "text": "SAR polarization"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#backscattering",
+    "href": "2024/weeks/week02/slides.html#backscattering",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscattering",
+    "text": "Backscattering"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#relative-scattering",
+    "href": "2024/weeks/week02/slides.html#relative-scattering",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Relative scattering",
+    "text": "Relative scattering"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#sar-signaturres",
+    "href": "2024/weeks/week02/slides.html#sar-signaturres",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR signaturres",
+    "text": "SAR signaturres"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#sar-system",
+    "href": "2024/weeks/week02/slides.html#sar-system",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR system",
+    "text": "SAR system"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#range-resolution",
+    "href": "2024/weeks/week02/slides.html#range-resolution",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Range resolution",
+    "text": "Range resolution"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#azimuth-resolution",
+    "href": "2024/weeks/week02/slides.html#azimuth-resolution",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Azimuth resolution",
+    "text": "Azimuth resolution"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#speckle",
+    "href": "2024/weeks/week02/slides.html#speckle",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Speckle",
+    "text": "Speckle"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#geometric-distorsions",
+    "href": "2024/weeks/week02/slides.html#geometric-distorsions",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Geometric distorsions",
+    "text": "Geometric distorsions"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#backscatter-variables",
+    "href": "2024/weeks/week02/slides.html#backscatter-variables",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatter variables",
+    "text": "Backscatter variables"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#backscatter-reference-areas",
+    "href": "2024/weeks/week02/slides.html#backscatter-reference-areas",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatter reference areas",
+    "text": "Backscatter reference areas"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#read-this-document",
+    "href": "2024/weeks/week02/slides.html#read-this-document",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Read this document",
+    "text": "Read this document\nA layman interpretation guide to L-band and C-band SAR data\nCEOS (2018)"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#watch-this-video",
+    "href": "2024/weeks/week02/slides.html#watch-this-video",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Watch this video",
+    "text": "Watch this video\nSee the world through SAR\nTom Ager - ICEYE - 2023"
+  },
+  {
+    "objectID": "2024/weeks/week02/slides.html#practical-exercises",
+    "href": "2024/weeks/week02/slides.html#practical-exercises",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nProgress on the Data Insigths with Python tutorial\nProgress on the GEE Image with Python tutorial"
+  },
+  {
+    "objectID": "2024/weeks/week03/page.html",
+    "href": "2024/weeks/week03/page.html",
+    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "section": "",
+    "text": "In this week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week03/page.html#lecture-slides",
+    "href": "2024/weeks/week03/page.html#lecture-slides",
+    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 04"
+      "Week 03"
     ]
   },
   {
-    "objectID": "2024/weeks/week04/page.html#first-report",
-    "href": "2024/weeks/week04/page.html#first-report",
-    "title": "🗓️ Week 4 - Working with ARD SAR data",
+    "objectID": "2024/weeks/week03/page.html#first-report",
+    "href": "2024/weeks/week03/page.html#first-report",
+    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
     "section": "First report",
-    "text": "First report\nStudents write down objectives & workflow for their first report",
+    "text": "First report\nStudents decide the topic & study area for their first report",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 04"
+      "Week 03"
     ]
   },
   {
-    "objectID": "2024/weeks/week04/page.html#practical-exercises",
-    "href": "2024/weeks/week04/page.html#practical-exercises",
-    "title": "🗓️ Week 4 - Working with ARD SAR data",
-    "section": "Practical exercises",
-    "text": "Practical exercises\n\nComplete the coursework from previous weeks\nStart doing the ARSET assignment",
+    "objectID": "2024/weeks/week03/page.html#practical-exercise",
+    "href": "2024/weeks/week03/page.html#practical-exercise",
+    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nThe tutorial material is here",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 04"
+      "Week 03"
     ]
   },
   {
-    "objectID": "2024/weeks/week04/page.html#recommended-reading",
-    "href": "2024/weeks/week04/page.html#recommended-reading",
-    "title": "🗓️ Week 4 - Working with ARD SAR data",
+    "objectID": "2024/weeks/week03/page.html#recommended-reading",
+    "href": "2024/weeks/week03/page.html#recommended-reading",
+    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\nSAR land cover classification tutorial\nAutomatic wide area land cover mapping using Sentinel-1 multitemporal data",
+    "text": "📚 Recommended Reading\nAngular-Based Radiometric Slope Correction for Sentinel-1 on GEE\nVollrath et al. (2022)",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 04"
+      "Week 03"
     ]
   },
   {
-    "objectID": "2024/weeks/week04/page.html#recommended-video",
-    "href": "2024/weeks/week04/page.html#recommended-video",
-    "title": "🗓️ Week 4 - Working with ARD SAR data",
+    "objectID": "2024/weeks/week03/page.html#recommended-video",
+    "href": "2024/weeks/week03/page.html#recommended-video",
+    "title": "🗓️ Week 3 - SAR Analysis Ready Data(ARD)",
     "section": "📚 Recommended Video",
-    "text": "📚 Recommended Video\n\nAnswer pressing questions on our world (Ager, 2023)",
+    "text": "📚 Recommended Video\n\nICEYE SAR products (Ager, 2023)",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 04"
+      "Week 03"
     ]
   },
   {
-    "objectID": "2024/weeks/week05/lab.html",
-    "href": "2024/weeks/week05/lab.html",
+    "objectID": "2024/weeks/week04/lab.html",
+    "href": "2024/weeks/week04/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
     "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#the-importance-of-workflows",
-    "href": "2024/weeks/week05/slides.html#the-importance-of-workflows",
-    "title": "🗓️ Week 5More SAR workflows",
+    "objectID": "2024/weeks/week04/slides.html#the-importance-of-workflows",
+    "href": "2024/weeks/week04/slides.html#the-importance-of-workflows",
+    "title": "🗓️ Week 4 SAR workflows",
     "section": "The importance of workflows",
     "text": "The importance of workflows"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow-1",
-    "href": "2024/weeks/week05/slides.html#ml-training-workflow-1",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "ML training workflow (1)",
-    "text": "ML training workflow (1)"
+    "objectID": "2024/weeks/week04/slides.html#the-importance-of-documentation",
+    "href": "2024/weeks/week04/slides.html#the-importance-of-documentation",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "The importance of documentation",
+    "text": "The importance of documentation"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#ml-training-workflow-2",
-    "href": "2024/weeks/week05/slides.html#ml-training-workflow-2",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "ML training workflow (2)",
-    "text": "ML training workflow (2)"
+    "objectID": "2024/weeks/week04/slides.html#generic-workflow",
+    "href": "2024/weeks/week04/slides.html#generic-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Generic workflow",
+    "text": "Generic workflow"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#land-cover-classification-at-three-levels",
-    "href": "2024/weeks/week05/slides.html#land-cover-classification-at-three-levels",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "Land cover classification at three levels",
-    "text": "Land cover classification at three levels"
+    "objectID": "2024/weeks/week04/slides.html#a-sar-workflow",
+    "href": "2024/weeks/week04/slides.html#a-sar-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "A SAR workflow",
+    "text": "A SAR workflow"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#land-cover-classification-in-complex-terrain",
-    "href": "2024/weeks/week05/slides.html#land-cover-classification-in-complex-terrain",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "Land cover classification in complex terrain",
-    "text": "Land cover classification in complex terrain"
+    "objectID": "2024/weeks/week04/slides.html#another-workflow",
+    "href": "2024/weeks/week04/slides.html#another-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Another workflow",
+    "text": "Another workflow"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#agricultural-crop-classification",
-    "href": "2024/weeks/week05/slides.html#agricultural-crop-classification",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "Agricultural Crop Classification",
-    "text": "Agricultural Crop Classification"
+    "objectID": "2024/weeks/week04/slides.html#define-your-informe-1-objectives",
+    "href": "2024/weeks/week04/slides.html#define-your-informe-1-objectives",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Define your Informe 1 objectives",
+    "text": "Define your Informe 1 objectives\n\nWrite down what you expect to do with ARD SAR data.\nLook for a paper reporting a similar application"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#wide-area-land-cover-mapping",
-    "href": "2024/weeks/week05/slides.html#wide-area-land-cover-mapping",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "Wide area land cover mapping",
-    "text": "Wide area land cover mapping"
+    "objectID": "2024/weeks/week04/slides.html#define-your-workflow",
+    "href": "2024/weeks/week04/slides.html#define-your-workflow",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Define your workflow",
+    "text": "Define your workflow\n\nDraw the first version of your workflow\nWrite down your ideas and bring the draft to next class"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#each-student-present-herhis-proposal",
-    "href": "2024/weeks/week05/slides.html#each-student-present-herhis-proposal",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "Each student present her/his proposal",
-    "text": "Each student present her/his proposal"
+    "objectID": "2024/weeks/week04/slides.html#complete-the-coursework",
+    "href": "2024/weeks/week04/slides.html#complete-the-coursework",
+    "title": "🗓️ Week 4 SAR workflows",
+    "section": "Complete the coursework",
+    "text": "Complete the coursework\n\nWeek 1: Data Insights with Python for Beginners\nWeek 1: GEE Image with Python\nWeek 3: Preparing Sentinel-1 Analysis Ready Data in GEE"
   },
   {
-    "objectID": "2024/weeks/week05/slides.html#start-implementing-your-workflow-for-informe-1",
-    "href": "2024/weeks/week05/slides.html#start-implementing-your-workflow-for-informe-1",
-    "title": "🗓️ Week 5More SAR workflows",
-    "section": "Start implementing your workflow for Informe 1",
-    "text": "Start implementing your workflow for Informe 1\n\nDefine your study area & your software tools\nGet your hands dirty with code"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#watch-this-video",
-    "href": "2024/weeks/week05/slides.html#watch-this-video",
-    "title": "🗓️ Week 5More SAR workflows",
+    "objectID": "2024/weeks/week04/slides.html#watch-this-video",
+    "href": "2024/weeks/week04/slides.html#watch-this-video",
+    "title": "🗓️ Week 4 SAR workflows",
     "section": "Watch this video",
-    "text": "Watch this video\nOperational Crop Classification Roadmap using Optical and SAR Imagery\nARSET (2021)"
+    "text": "Watch this video\nAnswer pressing questions on our world\nTom Ager (2023)"
   },
   {
-    "objectID": "2024/weeks/week06/page.html",
-    "href": "2024/weeks/week06/page.html",
-    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
+    "objectID": "2024/weeks/week05/page.html",
+    "href": "2024/weeks/week05/page.html",
+    "title": "🗓️ Week5 - Understanding SAR workflows",
     "section": "",
-    "text": "In this week, we will revise a method for soil moisture retrieval over croplands using dual-pol GRD SAR data.",
+    "text": "In this week, we will revise the workflows we proposed for our Informe 1. Bring them printed to the classroom.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 06"
+      "Week 05"
     ]
   },
   {
-    "objectID": "2024/weeks/week06/page.html#lecture-slides",
-    "href": "2024/weeks/week06/page.html#lecture-slides",
-    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
+    "objectID": "2024/weeks/week05/page.html#lecture-slides",
+    "href": "2024/weeks/week05/page.html#lecture-slides",
+    "title": "🗓️ Week5 - Understanding SAR workflows",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 06"
+      "Week 05"
     ]
   },
   {
-    "objectID": "2024/weeks/week06/page.html#first-report",
-    "href": "2024/weeks/week06/page.html#first-report",
-    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
+    "objectID": "2024/weeks/week05/page.html#first-report",
+    "href": "2024/weeks/week05/page.html#first-report",
+    "title": "🗓️ Week5 - Understanding SAR workflows",
     "section": "First report",
-    "text": "First report\nStudents keep working for their first report",
+    "text": "First report\nStudents revise objectives & workflow for their first report",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 06"
+      "Week 05"
     ]
   },
   {
-    "objectID": "2024/weeks/week06/page.html#recommended-reading",
-    "href": "2024/weeks/week06/page.html#recommended-reading",
-    "title": "🗓️ Week 6 - SAR-based soil moisture over croplands",
+    "objectID": "2024/weeks/week05/page.html#practical-exercises",
+    "href": "2024/weeks/week05/page.html#practical-exercises",
+    "title": "🗓️ Week5 - Understanding SAR workflows",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nStart implementing your workflow\nKeep doing the ARSET assignment",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week05/page.html#recommended-reading",
+    "href": "2024/weeks/week05/page.html#recommended-reading",
+    "title": "🗓️ Week5 - Understanding SAR workflows",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\nSoil moisture retrieval over croplands using SAR GRD data",
+    "text": "📚 Recommended Reading\nAgricultural Crop Classification Roadmap using Optical and SAR Imagery - Part 3\nAgricultural Crop Classification Roadmap using Optical and SAR Imagery - Part 4",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 06"
+      "Week 05"
     ]
   },
   {
-    "objectID": "2024/weeks/week07/lab.html",
-    "href": "2024/weeks/week07/lab.html",
+    "objectID": "2024/weeks/week05/page.html#recommended-video",
+    "href": "2024/weeks/week05/page.html#recommended-video",
+    "title": "🗓️ Week5 - Understanding SAR workflows",
+    "section": "📚 Recommended Video",
+    "text": "📚 Recommended Video\n\nOperational Crop Classification Roadmap using Optical and SAR Imagery by Heather McNairn & Laura Dingle-Robertson (AAFC)",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week06/lab.html",
+    "href": "2024/weeks/week06/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
     "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#introduction-1",
-    "href": "2024/weeks/week07/slides.html#introduction-1",
+    "objectID": "2024/weeks/week06/slides.html#introduction-1",
+    "href": "2024/weeks/week06/slides.html#introduction-1",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Introduction (1)",
     "text": "Introduction (1)\nSAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties."
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#introduction-2",
-    "href": "2024/weeks/week07/slides.html#introduction-2",
+    "objectID": "2024/weeks/week06/slides.html#introduction-2",
+    "href": "2024/weeks/week06/slides.html#introduction-2",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Introduction (2)",
     "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#study-area",
-    "href": "2024/weeks/week07/slides.html#study-area",
+    "objectID": "2024/weeks/week06/slides.html#study-area",
+    "href": "2024/weeks/week06/slides.html#study-area",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Study Area",
     "text": "Study Area"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#sar-data",
-    "href": "2024/weeks/week07/slides.html#sar-data",
+    "objectID": "2024/weeks/week06/slides.html#sar-data",
+    "href": "2024/weeks/week06/slides.html#sar-data",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "SAR data",
     "text": "SAR data"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#in-situ-data",
-    "href": "2024/weeks/week07/slides.html#in-situ-data",
+    "objectID": "2024/weeks/week06/slides.html#in-situ-data",
+    "href": "2024/weeks/week06/slides.html#in-situ-data",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "in-situ data",
     "text": "in-situ data"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#methods",
-    "href": "2024/weeks/week07/slides.html#methods",
+    "objectID": "2024/weeks/week06/slides.html#methods",
+    "href": "2024/weeks/week06/slides.html#methods",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Methods",
     "text": "Methods\n\nSAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)\nVegetation description (NDVI, RVIdp, DpRVIc)\nSoil moisture estimation (Water Cloud Model-)"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#results",
-    "href": "2024/weeks/week07/slides.html#results",
+    "objectID": "2024/weeks/week06/slides.html#results",
+    "href": "2024/weeks/week06/slides.html#results",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Results",
     "text": "Results"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#take-home-message",
-    "href": "2024/weeks/week07/slides.html#take-home-message",
+    "objectID": "2024/weeks/week06/slides.html#take-home-message",
+    "href": "2024/weeks/week06/slides.html#take-home-message",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Take-home message",
     "text": "Take-home message\n\nKnow the physics\nStart simple\nProgress smoothly"
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#checklist",
-    "href": "2024/weeks/week07/slides.html#checklist",
+    "objectID": "2024/weeks/week06/slides.html#checklist",
+    "href": "2024/weeks/week06/slides.html#checklist",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "Checklist",
     "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
   },
   {
-    "objectID": "2024/weeks/week07/slides.html#to-do-before-next-class",
-    "href": "2024/weeks/week07/slides.html#to-do-before-next-class",
+    "objectID": "2024/weeks/week06/slides.html#to-do-before-next-class",
+    "href": "2024/weeks/week06/slides.html#to-do-before-next-class",
     "title": "🗓️ Week 6soil moisture from SAR",
     "section": "To do before next class",
     "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
   },
   {
-    "objectID": "2024/weeks/week08/page.html",
-    "href": "2024/weeks/week08/page.html",
-    "title": "🗓️ Week 8 - Examen No. 1",
+    "objectID": "2024/weeks/week07/page.html",
+    "href": "2024/weeks/week07/page.html",
+    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
     "section": "",
-    "text": "In this week, we will replicate the ECOSTRESS & EMIT tutorials. Based on them, we will write a technical report with the contents explained on 11th December.\nWe will send the complete report, in pdf format, via e-mail, before the due date.",
+    "text": "In this week, we will get familiar with SOTA hyperspectral and thermal sensors.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 08"
+      "Week 07"
     ]
   },
   {
-    "objectID": "2024/weeks/week09/lab.html",
-    "href": "2024/weeks/week09/lab.html",
+    "objectID": "2024/weeks/week07/page.html#lecture-slides",
+    "href": "2024/weeks/week07/page.html#lecture-slides",
+    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week07/page.html#practical-exercises",
+    "href": "2024/weeks/week07/page.html#practical-exercises",
+    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nECOSTRESS tutorials\nSpace Station Synergies: Applying ECOSTRESS and EMIT to ecological problems",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week07/page.html#first-report",
+    "href": "2024/weeks/week07/page.html#first-report",
+    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "section": "First report",
+    "text": "First report\nStudents keep working for their first report",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week07/page.html#recommended-reading",
+    "href": "2024/weeks/week07/page.html#recommended-reading",
+    "title": "🗓️ Week 7 - EMIT & ECOSTRESS",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nImaging canopy temperature\nECOSTRESS Level-3 DisALEXI-JPL Evapotranspiration\nEMIT mission",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week08/lab.html",
+    "href": "2024/weeks/week08/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
     "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#diverse-platforms-and-sensors",
-    "href": "2024/weeks/week09/slides.html#diverse-platforms-and-sensors",
+    "objectID": "2024/weeks/week08/slides.html#introduction-1",
+    "href": "2024/weeks/week08/slides.html#introduction-1",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Introduction (1)",
+    "text": "Introduction (1)\nSAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties."
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#introduction-2",
+    "href": "2024/weeks/week08/slides.html#introduction-2",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Introduction (2)",
+    "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#study-area",
+    "href": "2024/weeks/week08/slides.html#study-area",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Study Area",
+    "text": "Study Area"
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#sar-data",
+    "href": "2024/weeks/week08/slides.html#sar-data",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "SAR data",
+    "text": "SAR data"
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#in-situ-data",
+    "href": "2024/weeks/week08/slides.html#in-situ-data",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "in-situ data",
+    "text": "in-situ data"
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#methods",
+    "href": "2024/weeks/week08/slides.html#methods",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Methods",
+    "text": "Methods\n\nSAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)\nVegetation description (NDVI, RVIdp, DpRVIc)\nSoil moisture estimation (Water Cloud Model-)"
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#results",
+    "href": "2024/weeks/week08/slides.html#results",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Results",
+    "text": "Results"
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#take-home-message",
+    "href": "2024/weeks/week08/slides.html#take-home-message",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Take-home message",
+    "text": "Take-home message\n\nKnow the physics\nStart simple\nProgress smoothly"
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#checklist",
+    "href": "2024/weeks/week08/slides.html#checklist",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Checklist",
+    "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
+  },
+  {
+    "objectID": "2024/weeks/week08/slides.html#to-do-before-next-class",
+    "href": "2024/weeks/week08/slides.html#to-do-before-next-class",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "To do before next class",
+    "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
+  },
+  {
+    "objectID": "2024/weeks/week09/page.html",
+    "href": "2024/weeks/week09/page.html",
+    "title": "🗓️ Week 9 - Remote sensing of vegetation",
+    "section": "",
+    "text": "In this week, we will review concepts & techniques used for crop monitoring, in particular related to remote sensing of crop diseases.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week09/page.html#lecture-slides",
+    "href": "2024/weeks/week09/page.html#lecture-slides",
+    "title": "🗓️ Week 9 - Remote sensing of vegetation",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week09/page.html#practical-exercises",
+    "href": "2024/weeks/week09/page.html#practical-exercises",
+    "title": "🗓️ Week 9 - Remote sensing of vegetation",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nRemote Sensing of crop diseases",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week10/lab.html",
+    "href": "2024/weeks/week10/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2024/weeks/week10/slides.html#diverse-platforms-and-sensors",
+    "href": "2024/weeks/week10/slides.html#diverse-platforms-and-sensors",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Diverse platforms and sensors",
     "text": "Diverse platforms and sensors"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#surface-spectral-properties",
-    "href": "2024/weeks/week09/slides.html#surface-spectral-properties",
+    "objectID": "2024/weeks/week10/slides.html#surface-spectral-properties",
+    "href": "2024/weeks/week10/slides.html#surface-spectral-properties",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Surface spectral properties",
     "text": "Surface spectral properties"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#vegetation-properties",
-    "href": "2024/weeks/week09/slides.html#vegetation-properties",
+    "objectID": "2024/weeks/week10/slides.html#vegetation-properties",
+    "href": "2024/weeks/week10/slides.html#vegetation-properties",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Vegetation properties",
     "text": "Vegetation properties"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
-    "href": "2024/weeks/week09/slides.html#what-records-a-remote-sensor",
+    "objectID": "2024/weeks/week10/slides.html#what-records-a-remote-sensor",
+    "href": "2024/weeks/week10/slides.html#what-records-a-remote-sensor",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "What records a remote sensor?",
     "text": "What records a remote sensor?\nRadiance values changes with illumination."
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#vegetation-indices",
-    "href": "2024/weeks/week09/slides.html#vegetation-indices",
+    "objectID": "2024/weeks/week10/slides.html#vegetation-indices",
+    "href": "2024/weeks/week10/slides.html#vegetation-indices",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Vegetation indices",
     "text": "Vegetation indices"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#optical-methods",
-    "href": "2024/weeks/week09/slides.html#optical-methods",
+    "objectID": "2024/weeks/week10/slides.html#optical-methods",
+    "href": "2024/weeks/week10/slides.html#optical-methods",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Optical methods",
     "text": "Optical methods"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#interaction-light-plant",
-    "href": "2024/weeks/week09/slides.html#interaction-light-plant",
+    "objectID": "2024/weeks/week10/slides.html#interaction-light-plant",
+    "href": "2024/weeks/week10/slides.html#interaction-light-plant",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Interaction light & plant",
     "text": "Interaction light & plant"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#scopes-of-disease-sensing",
-    "href": "2024/weeks/week09/slides.html#scopes-of-disease-sensing",
+    "objectID": "2024/weeks/week10/slides.html#scopes-of-disease-sensing",
+    "href": "2024/weeks/week10/slides.html#scopes-of-disease-sensing",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Scopes of disease sensing",
     "text": "Scopes of disease sensing"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#monitoring-plant-diseases",
-    "href": "2024/weeks/week09/slides.html#monitoring-plant-diseases",
+    "objectID": "2024/weeks/week10/slides.html#monitoring-plant-diseases",
+    "href": "2024/weeks/week10/slides.html#monitoring-plant-diseases",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Monitoring plant diseases",
     "text": "Monitoring plant diseases\nRemote sensing of diseases under production conditions is challenging because of variable environmental factors and crop-intrinsic characteristics, e.g., 3D architecture, various growth stages, variety of diseases that may occur simultaneously, and the high sensitivity required to reliably perceive low disease levels suitable for decision-making in disease control."
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#uav-applications",
-    "href": "2024/weeks/week09/slides.html#uav-applications",
+    "objectID": "2024/weeks/week10/slides.html#uav-applications",
+    "href": "2024/weeks/week10/slides.html#uav-applications",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "UAV applications",
     "text": "UAV applications"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#disease-detection",
-    "href": "2024/weeks/week09/slides.html#disease-detection",
+    "objectID": "2024/weeks/week10/slides.html#disease-detection",
+    "href": "2024/weeks/week10/slides.html#disease-detection",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Disease detection",
     "text": "Disease detection\nIdentifying banana wilt disease"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#disease-quantification",
-    "href": "2024/weeks/week09/slides.html#disease-quantification",
+    "objectID": "2024/weeks/week10/slides.html#disease-quantification",
+    "href": "2024/weeks/week10/slides.html#disease-quantification",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Disease quantification",
     "text": "Disease quantification\nSeverity of cercospora leaf spot in table beet"
   },
   {
-    "objectID": "2024/weeks/week09/slides.html#q-a",
-    "href": "2024/weeks/week09/slides.html#q-a",
+    "objectID": "2024/weeks/week10/slides.html#q-a",
+    "href": "2024/weeks/week10/slides.html#q-a",
     "title": "🗓️ Week 09Remote sensing of vegetation",
     "section": "Q & A",
     "text": "Q & A\nReplicate the R code from here"
   },
   {
-    "objectID": "2024/weeks/week10/page.html",
-    "href": "2024/weeks/week10/page.html",
-    "title": "🗓️ Week 10 - Introduction to Deep Learning",
+    "objectID": "2024/weeks/week12/page.html",
+    "href": "2024/weeks/week12/page.html",
+    "title": "🗓️ Week 12 -Convolutional Neural Networks",
     "section": "",
-    "text": "In this week, we will learn basic Deep Learning (DL) concepts & techniques.",
+    "text": "In this week, you have to complete two main tasks.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 10"
+      "Week 12"
     ]
   },
   {
-    "objectID": "2024/weeks/week10/page.html#lecture-slides",
-    "href": "2024/weeks/week10/page.html#lecture-slides",
-    "title": "🗓️ Week 10 - Introduction to Deep Learning",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.",
+    "objectID": "2024/weeks/week12/page.html#task-1",
+    "href": "2024/weeks/week12/page.html#task-1",
+    "title": "🗓️ Week 12 -Convolutional Neural Networks",
+    "section": "👨‍🏫 Task 1",
+    "text": "👨‍🏫 Task 1\nWatch the tutorial CNN in Deep Learning",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 10"
+      "Week 12"
     ]
   },
   {
-    "objectID": "2024/weeks/week10/page.html#practical-exercises",
-    "href": "2024/weeks/week10/page.html#practical-exercises",
-    "title": "🗓️ Week 10 - Introduction to Deep Learning",
-    "section": "Practical exercises",
-    "text": "Practical exercises\n\nIntroduction to DL with PyTorch",
+    "objectID": "2024/weeks/week12/page.html#task-2",
+    "href": "2024/weeks/week12/page.html#task-2",
+    "title": "🗓️ Week 12 -Convolutional Neural Networks",
+    "section": "👨‍🏫 Task 2",
+    "text": "👨‍🏫 Task 2\nBuild a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this tutorial\n\nYou can download the Kaggle Cats and Dogs Dataset from here.",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 10"
+      "Week 12"
     ]
   },
   {
-    "objectID": "2024/weeks/week10/page.html#reading",
-    "href": "2024/weeks/week10/page.html#reading",
-    "title": "🗓️ Week 10 - Introduction to Deep Learning",
+    "objectID": "2024/weeks/week12/page.html#assignment",
+    "href": "2024/weeks/week12/page.html#assignment",
+    "title": "🗓️ Week 12 -Convolutional Neural Networks",
+    "section": "Assignment",
+    "text": "Assignment\nMake sure you complete both tasks before 12th February 2025. In your PRA notebook, summarize what have you learned from both of them.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 12"
+    ]
+  },
+  {
+    "objectID": "2024/weeks/week12/page.html#reading",
+    "href": "2024/weeks/week12/page.html#reading",
+    "title": "🗓️ Week 12 -Convolutional Neural Networks",
     "section": "Reading",
-    "text": "Reading\nMake sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks",
+    "text": "Reading\nRead (and take notes) of the article Ten deep learning techniques to address small data problems with remote sensing",
     "crumbs": [
       "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week11/page.html",
-    "href": "2024/weeks/week11/page.html",
-    "title": "🗓️ Week 11 -Examen No. 2",
-    "section": "",
-    "text": "In this week, you will write your Examen No. 2 following instructions given in the classroom last week.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 11"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week11/page.html#notas-examen-no.-1-25",
-    "href": "2024/weeks/week11/page.html#notas-examen-no.-1-25",
-    "title": "🗓️ Week 11 -Examen No. 2",
-    "section": "👨‍🏫 Notas Examen No. 1 (25%)",
-    "text": "👨‍🏫 Notas Examen No. 1 (25%)",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 11"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week11/page.html#notas-informe-no.-1-25",
-    "href": "2024/weeks/week11/page.html#notas-informe-no.-1-25",
-    "title": "🗓️ Week 11 -Examen No. 2",
-    "section": "👨‍🏫 Notas Informe No. 1 (25%)",
-    "text": "👨‍🏫 Notas Informe No. 1 (25%)",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 11"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week11/page.html#reading",
-    "href": "2024/weeks/week11/page.html#reading",
-    "title": "🗓️ Week 11 -Examen No. 2",
-    "section": "Reading",
-    "text": "Reading\nMake sure you complete this reading before 5th February 2025. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 11"
+      "Week 12"
     ]
   }
 ]
