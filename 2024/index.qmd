@@ -16,9 +16,11 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(27/01/2025)
+(12/02/2025)
 
-In this  week,  students write their *Examen 2*. Make sure you send your exam via e-mail, with the subject *PRA Examen 2*, before 1st February 2025 at 11:59 pm. 
+Make sure you send your *Informe 2* via e-mail, with the subject *PRA Informe 2*, not later than 27th February 2025 at 11:59 pm. 
+
+NOTE: In the annex, include your code with explanations.
 
 :::
 

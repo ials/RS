@@ -1,0 +1,21 @@
+---
+title: "🗓️ Week 43 - Foundation Models for Earth Observation "
+---
+
+In this  week, we will learn about Foundation Models and review its application  on remote sensing.
+
+
+## 👨‍🏫 Theory
+
+[Slides](https://drive.google.com/file/d/1gdwd8fHSjPNNfdqg9pnii3I2t7hdaY6A/view?usp=sharing)
+
+![](figures/S2MAE.png)
+
+
+## 👨‍🏫 Practical
+
+Work on your *Informe No. 2*. Make sure to write a document which provides evidence about: (i) your understanding of the image processing & analysis techniques you applied; and (ii) your commitment to *PRA*.
+
+![](figures/swim.png)
+
+Make sure you send via e-mail your *Informe No. 2* not later than  27th February 2025 at 11:59 pm. 
