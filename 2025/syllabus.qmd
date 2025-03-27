@@ -1,0 +1,124 @@
+---
+title: "2015896 - PERCEPCION REMOTA"
+subtitle: "Academic Year: 2025"
+format: html
+---
+## PREREQUISITOS:
+
+- Conocimientos básicos de geomática
+
+- Habilidades de procesamiento de datos geoespaciales
+
+## DESCRIPCIÓN DE LA ASIGNATURA:
+::: {.callout-important collapse=false}
+### OBJETIVOS:
+
+-	Entender el proceso de percepción remota de la superficie terrestre y su relación con la investigación 
+
+- Conocer los principios físicos de la percepción remota y las propiedades ópticas de las principales coberturas terrestres  
+
+- Entender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes 
+
+- Conocer métodos y técnicas de aprendizaje automático  para obtener información temática a partir de imágenes aéreas y satelitales 
+
+
+### COMPETENCIAS GENÉRICAS: 
+
+-	Comprensión de los fundamentos teóricos de la percepción remota 
+
+-	Obtención de habilidades prácticas para seleccionar, procesar y analizar imágenes 
+
+-	Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota 
+
+
+### COMPETENCIAS ESPECÍFICAS:
+
+-	Entendimiento del flujo de trabajo genérico  de percepción remota 
+
+- Adaptación y creación de scripts para  procesamiento y análisis de imágenes 
+
+- Evaluación de la calidad de productos de percepción remota 
+
+
+### METODOLOGIA:
+
+-	Lectura antes de la clase a cargo del estudiante
+- Presentación de conceptos, métodos y técnicas a cargo del profesor
+-	Realización delecturas, ejercicios prácticos y elaboración de reportes técnicos a cargo  del estudiante
+
+### SOFTWARE
+
+-   QGIS, R, Google Earth Engine
+:::
+
+
+## CONTENIDO DETALLADO 
+
+::: {.callout-important collapse=true}
+
+### Unidad 1 –   Conceptos básicos de percepción remota 
+
+### Unidad 2 -  Radiación electromagnética 
+
+### Unidad 3 - Plataformas y sensores 
+
+### Unidad 4 – Sensores ópticos y termales 
+
+### Unidad 5 – Interpretació visual de imágenes
+
+### Unidad 6 –  Avances y tendencias en percepción remota para la sostenibilidad
+
+### Unidad 7 – Principios de fotogrametría moderna 
+
+### Unidad 8 – Correcciones radiométricas
+
+### Unidad 9 - Correcciones geométricas
+
+### Unidad 10 - Aprendizaje de máquina
+
+### Unidad 11 - Obtención de información cualitativa
+
+### Unidad 12 - Obtención de información cuantitativa
+
+:::
+
+
+## EVALUACIÓN DEL CURSO: 
+
+::: {.callout-important collapse=false}
+
+-	Presentación de dos exámenes teóricos (50%)
+    - Examen 1 - 
+    - Examen 2 - 
+-	Entrega de dos informes técnicos  (50%)
+    - Informe 1 - 
+    - Informe 2 - 
+
+:::
+
+## BIBLIOGRAFIA
+
+::: {.callout-important collapse=true}
+
+- Campbell, J.B., Wynne, R.H & Thomas, V.A. Introduction to Remote Sensing [6th ed.], Guilford Press, 2022. 634 pp. 
+ 
+- Chuvieco, E. Fundamentals of Satellite Remote Sensing [3rd ed.], CRC Press, 2020. 634 pp. 
+Gao, J. Quantitative Remote Sensing, CRC Press, 2025. 434 pp
+
+- Jensen, J. Introductory Digital Image Processing – A Remote Sensing Perspective  [4th ed.], Pearson series in geographic information science, 2015. 658 pp. 
+
+- Melo, H. Interpretación visual de imágenes de sensores remotos y su aplicación en levantamientos de cobertura del suelo. IGAC, 2005.  
+
+- Murcia, U. 2009. Fichas técnicas de los patrones de las coberturas de la tierra en la Amazonia colombiana. Instituto Sinchi, 2009.  
+
+- Rees, W.G. Physical Principles of Remote Sensing [3rd ed.],  Cambridge University Press, 2012. 494 pp. 
+ 
+- Richards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp. 
+
+- Ustin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1  
+
+- Wegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016. 
+
+
+
+:::

@@ -1,0 +1,52 @@
+---
+title: "2015896 - PERCEPCION REMOTA"
+subtitle: "Academic Year: 2025"
+format: html
+---
+
+::: {.callout-important collapse=false}
+## 📢 Syllabus
+
+(02/04/2025)
+
+- [🗓️ Know the syllabus here!](/2025/syllabus.qmd)
+
+:::
+
+::: {.callout-note collapse=false}
+## 📢 Important
+
+(31/04/2025)
+
+This course will start on April 2.
+
+:::
+
+
+# 🧑🏻‍🏫 Our Team
+
+::: {.panel-tabset}
+## Course Convenor
+
+
+![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
+**IVAN LIZARAZO** <br/>
+_ASSOCIATE PROFESSOR_ <br/>
+UNAL</a><br/>
+📧 [ializarazos@unal.edu.co](mailto:)
+
+Office Hours: 
+
+- When: Tuesdays 7:30 am - 9:30 am
+- Where: Oficina 333
+- How to book: via e-mail
+
+## Teaching Staff
+
+**IALS**
+
+:::
+
+# 📍 Dates - Location
+
+Wednesdays 2pm-6pm at SALON 103

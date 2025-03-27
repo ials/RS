@@ -1,5 +1,5 @@
 ---
-title: "2027449 - PERCEPCION REMOTA AVANZADA"
+title: "2015896 - PERCEPCION REMOTA"
 format:
   html:
     include-before-body: helpers/remove-nav.html
@@ -8,16 +8,18 @@ format:
 
 # 📑 Course Brief
 
-**Focus:** the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.
+**Focus:** the focus of this course is to develop conceptual and practical skills for using remote sensing analysis data in research.
 
 **How:** reading,  learning by doing and writing
 
 # 🎯 Learning Objectives
 
-- Appraise the process of image analysis and its relation to research.
-- Understand the physical principles of optical and radar-based remote sensing. 
-- Distinguish the main steps for SAR images correction.
-- Apply advanced computational techniques  to obtain thematic information from Earth Observation data.
+
+- Understand the physical principles of optical remote sensing. 
+
+- Internalize the different stages of the remote sensing process and its usefulness in research.
+
+- Apply computational techniques  to obtain  information from Earth Observation data.
 
 
 
@@ -25,7 +27,7 @@ format:
 
 **Select Academic Year/Term:**
 
-<a href="2024/index.qmd">
+<a href="2025/index.qmd">
     <button class="button-61">2024</button>
 </a>
 
