@@ -1,9 +1,0 @@
----
-title: "🗓️ Week 8  - Examen No. 1 "
----
-
-In this  week, we will  replicate the ECOSTRESS & EMIT tutorials. Based on them, we will write a technical report with the contents explained on 11th December.
-
-We will send the complete report, in pdf format, via e-mail,  before the due date.
-
-

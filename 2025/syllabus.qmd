@@ -10,6 +10,7 @@ format: html
 - Habilidades de procesamiento de datos geoespaciales
 
 ## DESCRIPCIÓN DE LA ASIGNATURA:
+
 ::: {.callout-important collapse=false}
 ### OBJETIVOS:
 
@@ -55,7 +56,6 @@ format: html
 ## CONTENIDO DETALLADO 
 
 ::: {.callout-important collapse=true}
-
 ### Unidad 1 –   Conceptos básicos de percepción remota 
 
 ### Unidad 2 -  Radiación electromagnética 
@@ -79,7 +79,6 @@ format: html
 ### Unidad 11 - Obtención de información cualitativa
 
 ### Unidad 12 - Obtención de información cuantitativa
-
 :::
 
 
