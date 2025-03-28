@@ -139,6 +139,31 @@ format:
 <img src="figs/images.png" width=60% height=60%>
 </p>
 
+
+## Spatial resolution 
+
+<p align="center">
+<img src="figs/spatial_resolution.png" width=60% height=60%>
+</p>
+
+## Spectral resolution 
+
+<p align="center">
+<img src="figs/spectral.png" width=60% height=60%>
+</p>
+
+## Radiometric resolution 
+
+<p align="center">
+<img src="figs/radiometric.png" width=60% height=60%>
+</p>
+
+## Temporal resolution 
+
+<p align="center">
+<img src="figs/temporal.png" width=60% height=60%>
+</p>
+
 ## Grey vs color  images
 
 <p align="center">
