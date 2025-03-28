@@ -94,7 +94,7 @@ format:
 ## Visible spectrum
 
 <p align="center">
-<img src="figs/visible.png" width=70% height=70%>
+<img src="figs/visible.png" width=50% height=50%>
 </p>
 
 ## Light interactions
@@ -159,13 +159,13 @@ format:
 ## Advantages
 
 <p align="center">
-<img src="figs/fig11.png" width=70% height=70%>
+<img src="figs/fig11.png" width=80% height=80%>
 </p>
 
 ## Disadvantages
 
 <p align="center">
-<img src="figs/fig12.png" width=70% height=70%>
+<img src="figs/fig12.png" width=80% height=80%>
 </p>
 
 # Sources of data
@@ -177,6 +177,8 @@ format:
 </p>
 
 # The remote sensing process
+
+## Equilibrium
 
 <p align="center">
 <img src="figs/rs-process.png" width=70% height=70%>
