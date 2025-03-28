@@ -66,99 +66,91 @@ format:
 # Principles of Remote Sensing
 
 <p align="center">
-<img src="figs/fig1.png" width=50% height=50%>
+<img src="figs/fig1.png" width=100% height=100%>
 </p>
 
 # Data acquisition
 
 <p align="center">
-<img src="figs/fig2.png" width=50% height=50%>
+<img src="figs/fig2.png" width=100% height=100%>
 </p>
 
 
 # Remote sensing systems
 
 <p align="center">
-<img src="figs/fig3.png" width=50% height=50%>
+<img src="figs/fig3.png" width=100% height=100%>
 </p>
 
 # Technical terms
 
-## Energy
-
-### Electromagnetic spectrum
+## Electromagnetic spectrum
 
 <p align="center">
-<img src="figs/spectrum.png" width=50% height=50%>
+<img src="figs/spectrum.png" width=100% height=100%>
 </p>
 
-### Visible spectrum
+## Visible spectrum
 
 <p align="center">
-<img src="figs/visible.png" width=50% height=50%>
+<img src="figs/visible.png" width=100% height=100%>
 </p>
 
-### Light interactions
+## Light interactions
 
 <p align="center">
-<img src="figs/interaction.png" width=50% height=50%>
-</p>
-
-
-## Platform and sensors
-
-### Platforms
-
-<p align="center">
-<img src="figs/platforms.png" width=50% height=50%>
-</p>
-
-### Sensors (1)
-
-<p align="center">
-<img src="figs/sensors.png" width=50% height=50%>
-</p>
-
-### Sensors (2)
-
-<p align="center">
-<img src="figs/imaging.png" width=50% height=50%>
-</p>
-
-### Sensors (3)
-
-<p align="center">
-<img src="figs/non-imaging.png" width=50% height=50%>
+<img src="figs/interaction.png" width=100% height=50%>
 </p>
 
 
-## Images
-
-### Digital images
+## Platforms
 
 <p align="center">
-<img src="figs/images.png" width=50% height=50%>
+<img src="figs/platforms.png" width=100% height=100%>
 </p>
 
-### Grey vs color  images
+## Sensors (1)
 
 <p align="center">
-<img src="figs/color_images.png" width=50% height=50%>
+<img src="figs/sensors.png" width=100% height=100%>
+</p>
+
+## Sensors (2)
+
+<p align="center">
+<img src="figs/imaging.png" width=100% height=100%>
+</p>
+
+## Sensors (3)
+
+<p align="center">
+<img src="figs/non-imaging.png" width=100% height=100%>
 </p>
 
 
-# Remote sensing data
-
-## PAN - XS
+## Digital images
 
 <p align="center">
-<img src="figs/fig5.png" width=50% height=50%>
+<img src="figs/images.png" width=100% height=100%>
+</p>
+
+## Grey vs color  images
+
+<p align="center">
+<img src="figs/color_images.png" width=100% height=100%>
+</p>
+
+
+## PAN - XS images
+
+<p align="center">
+<img src="figs/fig5.png" width=100% height=100%>
 </p>
 
 # The multi-concept 
 
 <p align="center">
-<img src="figs/fig10.png" width=50% height=50%>
+<img src="figs/multi-process.png" width=100% height=100%>
 </p>
 
 # Advantages and disadvantages
@@ -166,13 +158,13 @@ format:
 ## Advantages
 
 <p align="center">
-<img src="figs/fig11.png" width=50% height=50%>
+<img src="figs/fig11.png" width=100% height=100%>
 </p>
 
 ## Disadvantages
 
 <p align="center">
-<img src="figs/fig12.png" width=50% height=50%>
+<img src="figs/fig12.png" width=100% height=100%>
 </p>
 
 # Sources of data
@@ -180,9 +172,14 @@ format:
 ## USGS - Copernicus - OSM
 
 <p align="center">
-<img src="figs/fig13.png" width=50% height=50%>
+<img src="figs/fig13.png" width=100% height=100%>
 </p>
 
+# The remote sensing process
+
+<p align="center">
+<img src="figs/rs-process.png" width=100% height=100%>
+</p>
 
 
 
