@@ -63,20 +63,21 @@ format:
 
 :::
 
-# Principles of Remote Sensing
+# Basics of Remote Sensing
+
+##  Principles
 
 <p align="center">
 <img src="figs/fig1.png" width=70% height=70%>
 </p>
 
-# Data acquisition
+## Data acquisition
 
 <p align="center">
 <img src="figs/fig2.png" width=70% height=70%>
 </p>
 
-
-# Remote sensing systems
+## Remote sensing systems
 
 <p align="center">
 <img src="figs/fig3.png" width=70% height=70%>
