@@ -65,6 +65,10 @@ format:
 
 # Basics of Remote Sensing
 
+<p align="center">
+<img src="figs/nevado.png" width=50% height=50%>
+</p>
+
 ##  Principles
 
 <p align="center">
