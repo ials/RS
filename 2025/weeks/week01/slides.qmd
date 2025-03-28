@@ -173,10 +173,16 @@ Say name, profession, study's program, and geomatics background
 </p>
 
 
-## PAN - XS images
+## PAN - XS images (1)
 
 <p align="center">
 <img src="figs/fig5.png" width=60% height=60%>
+</p>
+
+## PAN - XS images (2)
+
+<p align="center">
+<img src="figs/fig5n.png" width=60% height=60%>
 </p>
 
 ## The multi-concept 
