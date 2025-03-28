@@ -14,88 +14,53 @@
     "text": "Students\nPlease introduce yourselves\n:::"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#statement-1",
-    "href": "2025/weeks/week01/slides.html#statement-1",
+    "objectID": "2025/weeks/week01/slides.html#energy",
+    "href": "2025/weeks/week01/slides.html#energy",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 1",
-    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
+    "section": "Energy",
+    "text": "Energy\nElectromagnetic spectrum\n\n\n\nVisible spectrum\n\n\n\nLight interactions"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#statement-2",
-    "href": "2025/weeks/week01/slides.html#statement-2",
+    "objectID": "2025/weeks/week01/slides.html#platform-and-sensors",
+    "href": "2025/weeks/week01/slides.html#platform-and-sensors",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 2",
-    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
+    "section": "Platform and sensors",
+    "text": "Platform and sensors\nPlatforms\n\n\n\nSensors (1)\n\n\n\nSensors (2)\n\n\n\nSensors (3)"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#statement-3",
-    "href": "2025/weeks/week01/slides.html#statement-3",
+    "objectID": "2025/weeks/week01/slides.html#images",
+    "href": "2025/weeks/week01/slides.html#images",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 3",
-    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
+    "section": "Images",
+    "text": "Images\nDigital images\n\n\n\nGrey vs color images"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#statement-4",
-    "href": "2025/weeks/week01/slides.html#statement-4",
+    "objectID": "2025/weeks/week01/slides.html#pan---xs",
+    "href": "2025/weeks/week01/slides.html#pan---xs",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 4",
-    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
+    "section": "PAN - XS",
+    "text": "PAN - XS"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#statement-5",
-    "href": "2025/weeks/week01/slides.html#statement-5",
+    "objectID": "2025/weeks/week01/slides.html#advantages",
+    "href": "2025/weeks/week01/slides.html#advantages",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 5",
-    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
+    "section": "Advantages",
+    "text": "Advantages"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#statement-6",
-    "href": "2025/weeks/week01/slides.html#statement-6",
+    "objectID": "2025/weeks/week01/slides.html#disadvantages",
+    "href": "2025/weeks/week01/slides.html#disadvantages",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 6",
-    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
+    "section": "Disadvantages",
+    "text": "Disadvantages"
   },
   {
-    "objectID": "2025/weeks/week01/slides.html#atmospheric-correction",
-    "href": "2025/weeks/week01/slides.html#atmospheric-correction",
+    "objectID": "2025/weeks/week01/slides.html#usgs---copernicus---osm",
+    "href": "2025/weeks/week01/slides.html#usgs---copernicus---osm",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Atmospheric correction",
-    "text": "Atmospheric correction"
-  },
-  {
-    "objectID": "2025/weeks/week01/slides.html#basic-python-quiz",
-    "href": "2025/weeks/week01/slides.html#basic-python-quiz",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Basic python quiz",
-    "text": "Basic python quiz\nSolve this simple quiz"
-  },
-  {
-    "objectID": "2025/weeks/week01/slides.html#gee-python-quiz",
-    "href": "2025/weeks/week01/slides.html#gee-python-quiz",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "GEE python quiz",
-    "text": "GEE python quiz\nWrite the code to obtain a Landsat 8 image collection acquired in 2024 over Barranquilla with cloud cover lower than 20%."
-  },
-  {
-    "objectID": "2025/weeks/week01/slides.html#reading-doing-and-writing",
-    "href": "2025/weeks/week01/slides.html#reading-doing-and-writing",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Reading, doing and writing",
-    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
-  },
-  {
-    "objectID": "2025/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
-    "href": "2025/weeks/week01/slides.html#do-gee-python-tutorial-and-report-your-results",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Do GEE Python tutorial and report your results",
-    "text": "Do GEE Python tutorial and report your results"
-  },
-  {
-    "objectID": "2025/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
-    "href": "2025/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)",
-    "text": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)"
+    "section": "USGS - Copernicus - OSM",
+    "text": "USGS - Copernicus - OSM"
   },
   {
     "objectID": "2025/syllabus.html",
@@ -132,7 +97,7 @@
     "href": "2025/syllabus.html#contenido-detallado",
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 1 – Conceptos básicos de percepción remota\n\n\n\n\n\n\nUnidad 2 - Radiación electromagnética\n\n\nUnidad 3 - Plataformas y sensores\n\n\nUnidad 4 – Sensores ópticos y termales\n\n\nUnidad 5 – Interpretació visual de imágenes\n\n\nUnidad 6 – Avances y tendencias en percepción remota para la sostenibilidad\n\n\nUnidad 7 – Principios de fotogrametría moderna\n\n\nUnidad 8 – Correcciones radiométricas\n\n\nUnidad 9 - Correcciones geométricas\n\n\nUnidad 10 - Aprendizaje de máquina\n\n\nUnidad 11 - Obtención de información cualitativa\n\n\nUnidad 12 - Obtención de información cuantitativa",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nUnidad 1 – Conceptos básicos de percepción remota\nUnidad 2 - Radiación electromagnética\nUnidad 3 - Plataformas y sensores\nUnidad 4 – Sensores ópticos y termales\nUnidad 5 – Interpretació visual de imágenes\nUnidad 6 – Avances y tendencias en percepción remota para la sostenibilidad\nUnidad 7 – Principios de fotogrametría moderna\nUnidad 8 – Correcciones radiométricas\nUnidad 9 - Correcciones geométricas\nUnidad 10 - Aprendizaje de máquina\nUnidad 11 - Obtención de información cualitativa\nUnidad 12 - Obtención de información cuantitativa",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -142,7 +107,7 @@
     "href": "2025/syllabus.html#evaluación-del-curso",
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes teóricos (50%)\n\nExamen 1 -\nExamen 2 -\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 -\nInforme 2 -",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes teóricos (50%)\n\nExamen 1 - 14 de mayo\nExamen 2 - 16 de julio\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 21 de mayo\nInforme 2 - 23 de julio",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -177,7 +142,7 @@
   {
     "objectID": "2025/weeks/week01/page.html",
     "href": "2025/weeks/week01/page.html",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Basics of remote sensing",
     "section": "",
     "text": "In this first unit, we will review basic remote sensing concepts:",
     "crumbs": [
@@ -188,7 +153,7 @@
   {
     "objectID": "2025/weeks/week01/page.html#lecture-slides",
     "href": "2025/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Basics of remote sensing",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
     "crumbs": [
@@ -199,20 +164,20 @@
   {
     "objectID": "2025/weeks/week01/page.html#coursework",
     "href": "2025/weeks/week01/page.html#coursework",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Basics of remote sensing",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Data Insights with Python for Beginners 🚧\n🚧 GEE Image with Python 🚧",
+    "text": "✍️ Coursework\n🚧 GEE-Section F1 🚧",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
     ]
   },
   {
-    "objectID": "2025/weeks/week01/page.html#recommended-reading",
-    "href": "2025/weeks/week01/page.html#recommended-reading",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "objectID": "2025/weeks/week01/page.html#reading",
+    "href": "2025/weeks/week01/page.html#reading",
+    "title": "🗓️ Unit 1 - Basics of remote sensing",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nBasics of Remote Sensing",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -221,7 +186,7 @@
   {
     "objectID": "2025/weeks/week01/page.html#communication",
     "href": "2025/weeks/week01/page.html#communication",
-    "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
+    "title": "🗓️ Unit 1 - Basics of remote sensing",
     "section": "📟 Communication",
     "text": "📟 Communication\n\nGet to know your peers in the course and organize study groups",
     "crumbs": [
