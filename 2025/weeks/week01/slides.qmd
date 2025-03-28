@@ -61,6 +61,8 @@ format:
 
 ### Please introduce yourselves
 
+Say name, profession, study's program, and geomatics background
+
 :::
 
 # Basics of Remote Sensing
@@ -213,5 +215,9 @@ format:
 <img src="figs/rs-process.png" width=70% height=70%>
 </p>
 
+## Let's practice
 
+Remote Sensing with Google Earth Engine
+
+[Remote sensing basics -F1](https://www.eefabook.org/go-to-the-book.html)
 
