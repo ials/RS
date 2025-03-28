@@ -56,29 +56,31 @@ format: html
 ## CONTENIDO DETALLADO 
 
 ::: {.callout-important collapse=true}
-### Unidad 1 –   Conceptos básicos de percepción remota 
 
-### Unidad 2 -  Radiación electromagnética 
+- Unidad 1 –   Conceptos básicos de percepción remota 
 
-### Unidad 3 - Plataformas y sensores 
+- Unidad 2 -  Radiación electromagnética 
 
-### Unidad 4 – Sensores ópticos y termales 
+- Unidad 3 - Plataformas y sensores 
 
-### Unidad 5 – Interpretació visual de imágenes
+- Unidad 4 – Sensores ópticos y termales 
 
-### Unidad 6 –  Avances y tendencias en percepción remota para la sostenibilidad
+- Unidad 5 – Interpretació visual de imágenes
 
-### Unidad 7 – Principios de fotogrametría moderna 
+- Unidad 6 –  Avances y tendencias en percepción remota para la sostenibilidad
 
-### Unidad 8 – Correcciones radiométricas
+- Unidad 7 – Principios de fotogrametría moderna 
 
-### Unidad 9 - Correcciones geométricas
+- Unidad 8 – Correcciones radiométricas
 
-### Unidad 10 - Aprendizaje de máquina
+- Unidad 9 - Correcciones geométricas
 
-### Unidad 11 - Obtención de información cualitativa
+- Unidad 10 - Aprendizaje de máquina
 
-### Unidad 12 - Obtención de información cuantitativa
+- Unidad 11 - Obtención de información cualitativa
+
+- Unidad 12 - Obtención de información cuantitativa
+
 :::
 
 
@@ -87,11 +89,11 @@ format: html
 ::: {.callout-important collapse=false}
 
 -	Presentación de dos exámenes teóricos (50%)
-    - Examen 1 - 
-    - Examen 2 - 
+    - Examen 1 - 14 de mayo
+    - Examen 2 - 16 de julio
 -	Entrega de dos informes técnicos  (50%)
-    - Informe 1 - 
-    - Informe 2 - 
+    - Informe 1 - 21 de mayo
+    - Informe 2 - 23 de julio
 
 :::
 
@@ -117,7 +119,5 @@ Gao, J. Quantitative Remote Sensing, CRC Press, 2025. 434 pp
 - Ustin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1  
 
 - Wegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016. 
-
-
 
 :::

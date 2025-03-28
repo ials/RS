@@ -1,14 +1,17 @@
 ---
-title: "🗓️ Unit 1 - Refresher on optical remote sensing"
+title: "🗓️ Unit 1 - Basics of  remote sensing"
 ---
 
 In this first unit, we will review basic remote sensing concepts:
 
-- Electromagnetic radiation
-- Spatial resolution
-- Spectral resolution
-- Radiometric corrections
-- Satellite platforms & sensors
+- Principles of remote sensing
+- Remote sensing data acquisition
+- Type of remote sensing systems
+- Technical terms
+- Various forms of remote sensing data
+- The multi-concept
+- Advantages and disadvantages
+- Sources of data
 
 ## 👨‍🏫 Lecture Slides 
 
@@ -23,15 +26,13 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Coursework
 
-🚧  [Data Insights with Python for Beginners](https://jenfly.github.io/llc-python-resources/next-steps.html)
+🚧  [GEE-Section F1](https://www.eefabook.org/go-to-the-book.html)
 🚧
 
-🚧  [GEE Image with Python](https://ials.github.io/GEE_Python/2_eeImage.html)
-🚧
 
-## 📚 Recommended Reading
+## 📚 Reading
 
-- Check the end of slides for the list of references cited in the lecture.
+- [Basics of Remote Sensing](https://drive.google.com/file/d/1lqnT6gb8nAdo_oh6pqJ0wurNaGMFz1Cb/view?usp=drive_link) 
 
 ## 📟 Communication
 

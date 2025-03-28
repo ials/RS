@@ -1,10 +1,10 @@
 ---
-subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+subtitle: " 2015896-- PERCEPCION REMOTA"
 title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
 author: Ivan Lizarazo
-institute: '[Universidad Nacional de Colombia](#)'
-date: 30 Oct 2024
-date-meta: 30 Oct 2024
+institute: '[Universidad Nacional de Colombia]'
+date: 2 April 2025
+date-meta: 2 April 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -20,11 +20,11 @@ format:
     preview-links: auto
     logo: /figures/icons/ARS-1.png
     css: /css/styles_slides.css
-    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+    footer: '2015896 -- PERCEPCION REMOTA'
 ---
 
 
-# Who are we
+# Who we are
 
 ## Your lecturer {.smaller}
 
@@ -63,68 +63,125 @@ format:
 
 :::
 
-# NASA satellites
-
-Earth Observing Fleet (January 2023)
-
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005061/fleet_2023_jan_1080p60.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
-# What we know about remote sensing 
-
-Open your notebook and write down if you agree or not with each of the next statements
-
-## Statement 1
-Satellites measure the reflectance of features on the ground
-
-## Statement 2
-Land cover classification is a simple process of grouping  pixels based on spectral properties 
-
-## Statement 3
-Spectral resolution is the number of bands  available from a particular sensor 
-
-## Statement 4
-Measuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change.
-
-## Statement 5
-Landsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy
-
-## Statement 6
-Square pixels in an image accurately represent a square area on the Earth's surface
-
-## Atmospheric correction
+# Principles of Remote Sensing
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=50% height=50%>
+<img src="figs/fig1.png" width=50% height=50%>
 </p>
 
-# What we know about Python
+# Data acquisition
 
-## Basic python quiz 
-
-### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
-
-## GEE python quiz
-
-### Write the code to obtain a Landsat 8 image collection acquired in 2024 over Barranquilla with cloud cover lower than 20%.
-
-# Flipped classroom
-
-## Reading, doing and writing
-
-A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
-
-# To do before next class 
+<p align="center">
+<img src="figs/fig2.png" width=50% height=50%>
+</p>
 
 
-## Do [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html) and report your results
+# Remote sensing systems
 
-## Read [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+<p align="center">
+<img src="figs/fig3.png" width=50% height=50%>
+</p>
+
+# Technical terms
+
+## Energy
+
+### Electromagnetic spectrum
+
+<p align="center">
+<img src="figs/spectrum.png" width=50% height=50%>
+</p>
+
+### Visible spectrum
+
+<p align="center">
+<img src="figs/visible.png" width=50% height=50%>
+</p>
+
+### Light interactions
+
+<p align="center">
+<img src="figs/interaction.png" width=50% height=50%>
+</p>
+
+
+## Platform and sensors
+
+### Platforms
+
+<p align="center">
+<img src="figs/platforms.png" width=50% height=50%>
+</p>
+
+### Sensors (1)
+
+<p align="center">
+<img src="figs/sensors.png" width=50% height=50%>
+</p>
+
+### Sensors (2)
+
+<p align="center">
+<img src="figs/imaging.png" width=50% height=50%>
+</p>
+
+### Sensors (3)
+
+<p align="center">
+<img src="figs/non-imaging.png" width=50% height=50%>
+</p>
+
+
+## Images
+
+### Digital images
+
+<p align="center">
+<img src="figs/images.png" width=50% height=50%>
+</p>
+
+### Grey vs color  images
+
+<p align="center">
+<img src="figs/color_images.png" width=50% height=50%>
+</p>
+
+
+# Remote sensing data
+
+## PAN - XS
+
+<p align="center">
+<img src="figs/fig5.png" width=50% height=50%>
+</p>
+
+# The multi-concept 
+
+<p align="center">
+<img src="figs/fig10.png" width=50% height=50%>
+</p>
+
+# Advantages and disadvantages
+
+## Advantages
+
+<p align="center">
+<img src="figs/fig11.png" width=50% height=50%>
+</p>
+
+## Disadvantages
+
+<p align="center">
+<img src="figs/fig12.png" width=50% height=50%>
+</p>
+
+# Sources of data
+
+## USGS - Copernicus - OSM
+
+<p align="center">
+<img src="figs/fig13.png" width=50% height=50%>
+</p>
 
 
 
