@@ -182,6 +182,13 @@
     "text": "Let’s practice\nRemote Sensing with Google Earth Engine\nRemote sensing basics -F1"
   },
   {
+    "objectID": "2025/weeks/week01/lab2.html",
+    "href": "2025/weeks/week01/lab2.html",
+    "title": "🗓️ Week 2 - Color composicions and spectral indices",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Semana 2 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Composiciones a color\n\n\n\n\n\nComposiciones a color\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Indices espectrales - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Indices espectrales - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2\n\n\n\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\nIn case you know the above topics, select your own learning path from the following link:\n\nCloud-Based Remote Sensing with GEE\n\n\n\n\n🎥"
+  },
+  {
     "objectID": "2025/syllabus.html",
     "href": "2025/syllabus.html",
     "title": "2015896 - PERCEPCION REMOTA",
@@ -259,6 +266,13 @@
     ]
   },
   {
+    "objectID": "2025/weeks/week01/lab.html",
+    "href": "2025/weeks/week01/lab.html",
+    "title": "🗓️ Week 1 - First steps with Google Earth Engine (GEE)",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Semana 1 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Cómo acceder a Google Earth Engine\n\n\n\n\n\nAcceso a GEE y Nociones de JavaScript\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Para qué es útil Google Earth Engine\n\n\n\n\n\nIntroducción a GEE\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Cómo escribir código en Google Earth Engine\n\n\n\n\n\nEditor de código\n\n\n\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\nEn caso que usted tenga experiencia previa en GEE, realice los siguientes ejercicios: Week 2 - practical lab\n\n\n\n🎥"
+  },
+  {
     "objectID": "2025/weeks/week01/page.html",
     "href": "2025/weeks/week01/page.html",
     "title": "🗓️ Unit 1 - Basics of remote sensing",
@@ -281,11 +295,11 @@
     ]
   },
   {
-    "objectID": "2025/weeks/week01/page.html#coursework",
-    "href": "2025/weeks/week01/page.html#coursework",
+    "objectID": "2025/weeks/week01/page.html#practical-exercises",
+    "href": "2025/weeks/week01/page.html#practical-exercises",
     "title": "🗓️ Unit 1 - Basics of remote sensing",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 GEE-Section F1 🚧",
+    "section": "✍️ Practical exercises",
+    "text": "✍️ Practical exercises\n🚧 Click here 🚧",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
