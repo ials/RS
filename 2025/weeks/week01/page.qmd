@@ -24,9 +24,9 @@ Use your keypad to navigate the slides.
 
 🎥 
 
-## ✍️ Coursework
+## ✍️ Practical exercises
 
-🚧  [GEE-Section F1](https://www.eefabook.org/go-to-the-book.html)
+🚧  [Click here](lab.qmd)
 🚧
 
 

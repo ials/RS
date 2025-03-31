@@ -1,0 +1,40 @@
+---
+title: "🗓️ Week 1 - First steps with Google Earth Engine (GEE)"
+---
+
+Los ejercicios prácticos de la **Semana 1** comprenden tres bloques:
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 1. Cómo acceder  a Google Earth Engine
+
+[Acceso a GEE y Nociones de JavaScript](https://ials.github.io/GEE-RIO/00-access-javascript/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 2. Para qué es útil Google Earth Engine
+
+[Introducción a GEE](https://ials.github.io/GEE-RIO/01-introduction/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 3. Cómo escribir código en Google Earth Engine
+
+[Editor de código](https://ials.github.io/GEE-RIO/02-code-editor/index.html)
+
+:::
+
+
+:::{.callout-note collapse=true}
+### Additional resources
+
+En caso que usted tenga experiencia previa en GEE, realice los siguientes ejercicios:
+[Week 2 - practical lab](lab2.qmd)
+
+:::
+
+🎥 
