@@ -223,7 +223,7 @@ Say name, profession, study's program, and geomatics background
 
 ## Let's practice
 
-Remote Sensing with Google Earth Engine
+Remote Sensing with Google Earth Engine (GEE)
 
-[Remote sensing basics -F1](https://www.eefabook.org/go-to-the-book.html)
+[Getting to know GEE](lab.qmd)
 

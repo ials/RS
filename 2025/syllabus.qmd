@@ -57,29 +57,21 @@ format: html
 
 ::: {.callout-important collapse=true}
 
-- Unidad 1 –   Conceptos básicos de percepción remota 
+- Unidad 1 –  Conceptos básicos de percepción remota 
 
 - Unidad 2 -  Radiación electromagnética 
 
-- Unidad 3 - Plataformas y sensores 
+- Unidad 3 -  Características de sensores y datos 
 
-- Unidad 4 – Sensores ópticos y termales 
+- Unidad 4 –  Plataformas
 
-- Unidad 5 – Interpretació visual de imágenes
+- Unidad 5 – Preprocesamiento de imágenes
 
-- Unidad 6 –  Avances y tendencias en percepción remota para la sostenibilidad
+- Unidad 6 - Aprendizaje de máquina
 
-- Unidad 7 – Principios de fotogrametría moderna 
+- Unidad 7 - Obtención de información cualitativa
 
-- Unidad 8 – Correcciones radiométricas
-
-- Unidad 9 - Correcciones geométricas
-
-- Unidad 10 - Aprendizaje de máquina
-
-- Unidad 11 - Obtención de información cualitativa
-
-- Unidad 12 - Obtención de información cuantitativa
+- Unidad 8 - Obtención de información cuantitativa
 
 :::
 
@@ -104,7 +96,10 @@ format: html
 - Campbell, J.B., Wynne, R.H & Thomas, V.A. Introduction to Remote Sensing [6th ed.], Guilford Press, 2022. 634 pp. 
  
 - Chuvieco, E. Fundamentals of Satellite Remote Sensing [3rd ed.], CRC Press, 2020. 634 pp. 
-Gao, J. Quantitative Remote Sensing, CRC Press, 2025. 434 pp
+
+- Gao, J. Quantitative Remote Sensing, CRC Press, 2025. 434 pp
+
+- Garg, P.K. Remote Sensing: Theory and Applications, Mercury Learning and Information, 2024. 610 pp.
 
 - Jensen, J. Introductory Digital Image Processing – A Remote Sensing Perspective  [4th ed.], Pearson series in geographic information science, 2015. 658 pp. 
 
