@@ -26,13 +26,13 @@ format:
 # Electromagnetic radiation
 
 <p align="center">
-<img src="figs/EMR.png" width=60% height=60%>
+<img src="figs/EMR.png" width=80% height=80%>
 </p>
 
 ## Spectrum revisited
 
 <p align="center">
-<img src="figs/spectrum.png" width=100% height=100%>
+<img src="figs/spectrum.png" width=110% height=110%>
 </p>
 
 ## RS spectrum 
@@ -52,7 +52,7 @@ format:
 - Phase: angle of (mis)alignment between two waves
 
 <p align="center">
-<img src="figs/properties.png" width=40% height=40%>
+<img src="figs/properties.png" width=80% height=80%>
 </p>
 
 ##  Phase
@@ -60,13 +60,13 @@ format:
 Phase is *time difference* between peaks
 
 <p align="center">
-<img src="figs/phase.gif" width=80% height=80%>
+<img src="figs/phase.gif" width=60% height=60%>
 </p>
 
 ## Basic equation
 
 <p align="center">
-<img src="figs/eq1.png" width=80% height=80%>
+<img src="figs/eq1.png" width=100% height=100%>
 </p>
 
 
@@ -75,13 +75,13 @@ Phase is *time difference* between peaks
 ## Planck constant (1)
 
 <p align="center">
-<img src="figs/Planck1.png" width=70% height=70%>
+<img src="figs/Planck1.png" width=100% height=100%>
 </p>
 
 ## Planck constant (2)
 
 <p align="center">
-<img src="figs/Planck2.png" width=70% height=70%>
+<img src="figs/Planck2.png" width=100% height=100%>
 </p>
 
 ## Stefan–Boltzmann law 
@@ -89,13 +89,13 @@ Phase is *time difference* between peaks
 The amount of radiation emitted by a black body per unit area is directly proportional to the fourth power of the temperature
 
 <p align="center">
-<img src="figs/stefan.png" width=70% height=70%>
+<img src="figs/stefan.png" width=100% height=100%>
 </p>
 
 ## Wien’s displacement law
 
 <p align="center">
-<img src="figs/eq_wien.png" width=30% height=30%>
+<img src="figs/eq_wien.png" width=40% height=40%>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ The amount of radiation emitted by a black body per unit area is directly propor
 ## A summary
 
 <p align="center">
-<img src="figs/radiometry.png" width=80% height=80%>
+<img src="figs/radiometry.png" width=100% height=100%>
 </p>
 
 # EMR interactions with atmosphere
@@ -115,19 +115,19 @@ The amount of radiation emitted by a black body per unit area is directly propor
 ## Refraction
 
 <p align="center">
-<img src="figs/refraction.png" width=80% height=80%>
+<img src="figs/refraction.png" width=70% height=70%>
 </p>
 
 ## Scattering
 
 <p align="center">
-<img src="figs/scattering.png" width=80% height=80%>
+<img src="figs/scattering.png" width=70% height=70%>
 </p>
 
 ## Absortion
 
 <p align="center">
-<img src="figs/windows.png" width=80% height=80%>
+<img src="figs/windows.png" width=100% height=100%>
 </p>
 
 
@@ -142,32 +142,32 @@ The amount of radiation emitted by a black body per unit area is directly propor
 ## Exitance
 
 <p align="center">
-<img src="figs/exitance.png" width=80% height=80%>
+<img src="figs/exitancia.png" width=90% height=90%>
 </p>
 
 ## Radiance
 
 <p align="center">
-<img src="figs/radiance.png" width=80% height=80%>
+<img src="figs/radiance.png" width=90% height=90%>
 </p>
 
 ## Reflectance types
 
 <p align="center">
-<img src="figs/reflectance_types.png" width=80% height=80%>
+<img src="figs/reflectance_types.png" width=90% height=90%>
 </p>
 
 
 ## Spectral reflectance
 
 <p align="center">
-<img src="figs/spectral_reflectance.png" width=80% height=80%>
+<img src="figs/spectral_reflectance.png" width=90% height=90%>
 </p>
 
 ## The big task
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=80% height=80%>
+<img src="figs/Jensen_TOA.png" width=70% height=70%>
 </p>
 
 
