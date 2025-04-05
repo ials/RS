@@ -60,13 +60,13 @@ format:
 Phase is *time difference* between peaks
 
 <p align="center">
-<img src="figs/phase.gif" width=50% height=50%>
+<img src="figs/phase.gif" width=40% height=40%>
 </p>
 
 ## Basic equation
 
 <p align="center">
-<img src="figs/eq1.png" width=80% height=80%>
+<img src="figs/eq1.png" width=70% height=70%>
 </p>
 
 
@@ -95,11 +95,11 @@ The amount of radiation emitted by a black body per unit area is directly propor
 ## Wien’s displacement law
 
 <p align="center">
-<img src="figs/eq_wien.png" width=35% height=35%>
+<img src="figs/eq_wien.png" width=30% height=30%>
 </p>
 
 <p align="center">
-<img src="figs/wien.png" width=80% height=80%>
+<img src="figs/wien.png" width=70% height=70%>
 </p>
 
 # Radiometric concepts
@@ -115,19 +115,19 @@ The amount of radiation emitted by a black body per unit area is directly propor
 ## Refraction
 
 <p align="center">
-<img src="figs/refraction.png" width=60% height=60%>
+<img src="figs/refraction.png" width=50% height=50%>
 </p>
 
 ## Scattering
 
 <p align="center">
-<img src="figs/scattering.png" width=60% height=60%>
+<img src="figs/scattering.png" width=50% height=50%>
 </p>
 
 ## Absortion
 
 <p align="center">
-<img src="figs/windows.png" width=90% height=90%>
+<img src="figs/windows.png" width=80% height=80%>
 </p>
 
 
@@ -148,26 +148,26 @@ The amount of radiation emitted by a black body per unit area is directly propor
 ## Radiance
 
 <p align="center">
-<img src="figs/radiance.png" width=80% height=80%>
+<img src="figs/radiance.png" width=65% height=65%>
 </p>
 
 ## Reflectance types
 
 <p align="center">
-<img src="figs/reflectance_types.png" width=75% height=75%>
+<img src="figs/reflectance_types.png" width=60% height=60%>
 </p>
 
 
 ## Spectral reflectance
 
 <p align="center">
-<img src="figs/spectral_reflectance.png" width=80% height=80%>
+<img src="figs/spectral_reflectance.png" width=70% height=70%>
 </p>
 
 ## The big task
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=70% height=70%>
+<img src="figs/Jensen_TOA.png" width=60% height=60%>
 </p>
 
 
