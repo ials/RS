@@ -179,7 +179,7 @@
     "href": "2025/weeks/week01/slides.html#lets-practice",
     "title": "🗓️ Week 01 Introduction",
     "section": "Let’s practice",
-    "text": "Let’s practice\nRemote Sensing with Google Earth Engine\nRemote sensing basics -F1"
+    "text": "Let’s practice\nRemote Sensing with Google Earth Engine (GEE)\nGetting to know GEE"
   },
   {
     "objectID": "2025/weeks/week01/lab2.html",
@@ -223,7 +223,7 @@
     "href": "2025/syllabus.html#contenido-detallado",
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nUnidad 1 – Conceptos básicos de percepción remota\nUnidad 2 - Radiación electromagnética\nUnidad 3 - Plataformas y sensores\nUnidad 4 – Sensores ópticos y termales\nUnidad 5 – Interpretació visual de imágenes\nUnidad 6 – Avances y tendencias en percepción remota para la sostenibilidad\nUnidad 7 – Principios de fotogrametría moderna\nUnidad 8 – Correcciones radiométricas\nUnidad 9 - Correcciones geométricas\nUnidad 10 - Aprendizaje de máquina\nUnidad 11 - Obtención de información cualitativa\nUnidad 12 - Obtención de información cuantitativa",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nUnidad 1 – Conceptos básicos de percepción remota\nUnidad 2 - Radiación electromagnética\nUnidad 3 - Características de sensores y datos\nUnidad 4 – Plataformas\nUnidad 5 – Preprocesamiento de imágenes\nUnidad 6 - Aprendizaje de máquina\nUnidad 7 - Obtención de información cualitativa\nUnidad 8 - Obtención de información cuantitativa",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -243,7 +243,7 @@
     "href": "2025/syllabus.html#bibliografia",
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nCampbell, J.B., Wynne, R.H & Thomas, V.A. Introduction to Remote Sensing [6th ed.], Guilford Press, 2022. 634 pp. \nChuvieco, E. Fundamentals of Satellite Remote Sensing [3rd ed.], CRC Press, 2020. 634 pp.  Gao, J. Quantitative Remote Sensing, CRC Press, 2025. 434 pp\nJensen, J. Introductory Digital Image Processing – A Remote Sensing Perspective [4th ed.], Pearson series in geographic information science, 2015. 658 pp. \nMelo, H. Interpretación visual de imágenes de sensores remotos y su aplicación en levantamientos de cobertura del suelo. IGAC, 2005.\nMurcia, U. 2009. Fichas técnicas de los patrones de las coberturas de la tierra en la Amazonia colombiana. Instituto Sinchi, 2009.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp. \nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1\nWegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016.",
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nCampbell, J.B., Wynne, R.H & Thomas, V.A. Introduction to Remote Sensing [6th ed.], Guilford Press, 2022. 634 pp. \nChuvieco, E. Fundamentals of Satellite Remote Sensing [3rd ed.], CRC Press, 2020. 634 pp. \nGao, J. Quantitative Remote Sensing, CRC Press, 2025. 434 pp\nGarg, P.K. Remote Sensing: Theory and Applications, Mercury Learning and Information, 2024. 610 pp.\nJensen, J. Introductory Digital Image Processing – A Remote Sensing Perspective [4th ed.], Pearson series in geographic information science, 2015. 658 pp. \nMelo, H. Interpretación visual de imágenes de sensores remotos y su aplicación en levantamientos de cobertura del suelo. IGAC, 2005.\nMurcia, U. 2009. Fichas técnicas de los patrones de las coberturas de la tierra en la Amazonia colombiana. Instituto Sinchi, 2009.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp. \nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1\nWegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016.",
     "crumbs": [
       "📓 Syllabus"
     ]
