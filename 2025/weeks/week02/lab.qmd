@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 2 - Color composicions and spectral indices"
+title: "🗓️ Week 2 - Color compositions and spectral indices"
 ---
 
 Los ejercicios prácticos de la **Semana 2** comprenden tres bloques:
