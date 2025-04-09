@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(31/04/2025)
+(09/04/2025)
 
-This course will start on April 2.
+[Instrucciones para elaborar el Informe No. 1](https://drive.google.com/drive/folders/1YsJXF66v0linMQAw24BDsrB6z3qAHyte?usp=drive_link)
 
 :::
 
