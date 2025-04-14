@@ -1,22 +1,17 @@
 ---
-title: "🗓️ Unit 2 - Electromagnetic radiation"
+title: "🗓️ Unit 3 - Platforms and sensors"
 ---
 
 In this unit, we will review:
 
-- The Electromagnetic Spectrum
-- Radiation Laws
-- Interactions with the Atmosphere
-- Interactions with Surfaces
+- Remote sensing platforms
+- Classification of sensors
+- Imaging sensors
+- Non-imaging sensors
 
 ## 👨‍🏫 Lecture Slides 
 
-Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
-Use your keypad to navigate the slides.
-
-<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
-</div>
+Click [here](https://drive.google.com/file/d/1OKtiWsIJGrIkKqFF_jJc2v41vAGwnKaa/view?usp=drive_link) to view it.
 
 🎥 
 
@@ -28,8 +23,5 @@ Use your keypad to navigate the slides.
 
 ## 📚 Reading
 
-- [Electromagnetic radiation](https://drive.google.com/file/d/1DwyFbUwrIr6I_yCtXqqJRxBqcdzJGYpG/view?usp=sharing) 
+- [Platform and sensors](https://drive.google.com/file/d/1RANvwBrbGzQ2dw43QgFgbPVaNmUEDV_c/view?usp=drive_link) 
 
-## 📟 Communication
-
-- Get to know your peers in the course and organize study groups 
