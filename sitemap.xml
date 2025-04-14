@@ -1,47 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ials.github.io/RS/2025/weeks/week03/slides.html</loc>
+    <lastmod>2025-04-14T23:26:38.214Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RS/2025/weeks/week03/lab4.html</loc>
+    <lastmod>2025-04-14T23:26:38.209Z</lastmod>
+  </url>
+  <url>
     <loc>https://ials.github.io/RS/2025/weeks/week02/slides.html</loc>
-    <lastmod>2025-04-09T18:48:54.642Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.183Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week02/lab3.html</loc>
-    <lastmod>2025-04-09T18:48:54.639Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.180Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week01/slides.html</loc>
-    <lastmod>2025-04-09T18:48:54.612Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.153Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week01/lab2.html</loc>
-    <lastmod>2025-04-09T18:48:54.609Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.150Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/syllabus.html</loc>
-    <lastmod>2025-04-09T18:48:54.594Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.135Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/index.html</loc>
-    <lastmod>2025-04-09T18:48:54.706Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.265Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/index.html</loc>
-    <lastmod>2025-04-09T18:48:54.594Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.135Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week01/lab.html</loc>
-    <lastmod>2025-04-09T18:48:54.609Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.150Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week01/page.html</loc>
-    <lastmod>2025-04-09T18:48:54.609Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.151Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week02/lab.html</loc>
-    <lastmod>2025-04-09T18:48:54.639Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.180Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/RS/2025/weeks/week02/page.html</loc>
-    <lastmod>2025-04-09T18:48:54.639Z</lastmod>
+    <lastmod>2025-04-14T23:26:38.180Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RS/2025/weeks/week03/lab.html</loc>
+    <lastmod>2025-04-14T23:26:38.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/RS/2025/weeks/week03/page.html</loc>
+    <lastmod>2025-04-14T23:26:38.211Z</lastmod>
   </url>
 </urlset>
