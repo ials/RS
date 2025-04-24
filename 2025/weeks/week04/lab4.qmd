@@ -26,7 +26,7 @@ Los ejercicios prácticos de la **Semana 4** son los siguientes:
 
 ### Additional resources
 
-In case you know the above topics, select your own learning path from the following link:
+In case you have completed the previous exercises, select additional exercises from the following link:
 
 #### [Cloud-Based Remote Sensing with GEE](https://www.eefabook.org/go-to-the-book.html)
 
