@@ -16,6 +16,16 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
+(23/04/2025)
+
+[Instrucciones para el Examen No. 1](https://drive.google.com/file/d/1FUGf8WI9g-NvSx-v22H1tDRuFDCwbR7u/view?usp=sharing)
+
+:::
+
+
+::: {.callout-note collapse=false}
+## 📢 Important
+
 (09/04/2025)
 
 [Instrucciones para elaborar el Informe No. 1](https://drive.google.com/file/d/1V04wIg5Xfn0AOmh3RTT_nrD36V1Od9Pp/view?usp=sharing)
