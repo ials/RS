@@ -1,35 +1,32 @@
 ---
-title: "🗓️ Unit 2 - Electromagnetic radiation"
+title: "🗓️ Unit 5 - Image pre-processing ..."
 ---
 
-In this unit, we will review:
+In this unit, we will review geometric correction techniques for satellite, aerial and UAV multispectral images.
 
-- The Electromagnetic Spectrum
-- Radiation Laws
-- Interactions with the Atmosphere
-- Interactions with Surfaces
+
 
 ## 👨‍🏫 Lecture Slides 
 
-Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
-Use your keypad to navigate the slides.
-
-<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
-<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
-</div>
+Click [here](https://drive.google.com/file/d/1QwVVrX5NH2PTR6vNSL_VdZsElL2AZVdT/view?usp=sharing) to view the slides.
 
 🎥 
 
-## ✍️ Practical exercises
+## ✍️ Coursework
 
-🚧  [Click here](lab.qmd)
+🚧   
+Complete your document for Exam No. 1 (and upload it on due time)
 🚧
+
+🏫
+Do the practical exercises for  your Inform No. 1
+🏫
 
 
 ## 📚 Reading
 
-- [Electromagnetic radiation](https://drive.google.com/file/d/1DwyFbUwrIr6I_yCtXqqJRxBqcdzJGYpG/view?usp=sharing) 
+- [Image pre-processing techniques](https://drive.google.com/file/d/1ChBjXIU5aEOO6vzJ6BzcM6P_ac7mkJnN/view?usp=sharing) 
 
 ## 📟 Communication
 
-- Get to know your peers in the course and organize study groups 
+- Organize study groups 
