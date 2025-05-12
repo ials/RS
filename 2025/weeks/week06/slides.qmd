@@ -1,6 +1,6 @@
 ---
 subtitle: " 2015896-- PERCEPCION REMOTA"
-title: "<font style='font-size:1em;'>🗓️ Week 2 <br/>Electromagnetic radiation </font>"
+title: "<font style='font-size:1em;'>🗓️ Week 6 <br/>Examen No. 1 </font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia]'
 date: 14 May 2025
