@@ -8,7 +8,7 @@ In this week, we will complete the Exam No. 1 and upload it to the corresponding
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](slides.png) to view the slides.
+Click [here](slides.qmd) to view the slides.
 
 🎥 
 
