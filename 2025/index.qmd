@@ -14,6 +14,15 @@ format: html
 :::
 
 ::: {.callout-note collapse=false}
+## 📢 Very important
+
+(15/05/2025)
+
+Bring your *Informe No. 1* printed to the classroom on 21th May at 2:00 pm. Late works will have penalty. 
+
+:::
+
+::: {.callout-note collapse=false}
 ## 📢 Important
 
 (23/04/2025)
