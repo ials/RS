@@ -9,7 +9,7 @@ format: html
 
 (02/04/2025)
 
-- [🗓️ Know the syllabus here!](/2025/syllabus.qmd)
+- [🗓️ Know the syllabus here!](2025/syllabus.qmd)
 
 :::
 
@@ -18,7 +18,7 @@ format: html
 
 (19/05/2025)
 
-- [🗓️ Nota Examen 1](figs/Notas_Examen_1.png)
+- [🗓️ Nota Examen 1](weeks/week07/figs/Notas_Examen_1.png)
 
 :::
 
