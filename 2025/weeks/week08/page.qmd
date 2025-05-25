@@ -1,0 +1,21 @@
+---
+title: "🗓️ Unit 8 - Understanding machine learning algorithms"
+---
+
+In this week, we will review basic concepts about machine learning and decision trees.
+
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/1NVC0AmnOxKKiNNC_llq2ieo-Ao2M3tUb/view?usp=sharing) to view the slides.
+
+🎥 
+
+## ✍️ Coursework
+
+🚧   
+Start doing the exercises for your *Informe No. 2*.
+🚧
+
+

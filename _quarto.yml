@@ -12,6 +12,7 @@ project:
     - "2025/weeks/week05/*.qmd"
     - "2025/weeks/week06/*.qmd"
     - "2025/weeks/week07/*.qmd"
+    - "2025/weeks/week08/*.qmd"
 
 
 website:
@@ -69,6 +70,11 @@ website:
            text: Week 07
            contents:
              - href: 2025/weeks/week07/page.qmd
+               text: 👨‍🏫 Lecture Material
+         - href: 2025/weeks/week08/page.qmd
+           text: Week 07
+           contents:
+             - href: 2025/weeks/week08/page.qmd
                text: 👨‍🏫 Lecture Material
             
 
