@@ -13,8 +13,11 @@ format: html
 
 :::
 
-::: {.callout-important collapse=false}
+::: {.callout-important collapse=true}
 ## 📢 Notas 
+
+(28/05/2025)
+- [Nota Informe 1]((weeks/week07/figs/Nota_Informe_1.pn)
 
 (19/05/2025)
 
