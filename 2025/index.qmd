@@ -17,7 +17,7 @@ format: html
 ## 📢 Notas 
 
 (28/05/2025)
-- [Nota Informe 1]((weeks/week08/figs/Nota_Informe_1.png)
+- [Nota Informe 1](weeks/week08/figs/Nota_Informe_1.png)
 
 (19/05/2025)
 
