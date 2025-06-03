@@ -1,0 +1,27 @@
+---
+title: "🗓️ Unit 9 - How does Random Forest work"
+---
+
+In this week, we will know the Random Forest algorithm.
+
+
+## 👨‍🏫 Lecture Slides 
+
+- [Bagging](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture18/presentation/Bagging_partB.pdf)
+
+- [Random Forest](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture18/presentation/RF.pdf)
+
+🎥 
+
+## Recommended reading
+
+[Hyperparameters and Tuning Strategies for Random Forest](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1301)
+
+
+## ✍️ Coursework
+
+🚧   
+Keep doing the exercises for your *Informe No. 2*.
+🚧
+
+
