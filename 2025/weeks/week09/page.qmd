@@ -11,7 +11,9 @@ In this week, we will know the Random Forest algorithm.
 
 - [Random Forest](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture18/presentation/RF.pdf)
 
-🎥 
+## Practical exercise
+
+Replicate [this Colab notebook](https://drive.google.com/file/d/1W_OBWb3jOpkwY0Ozvr0So3EBHyPJoeo0/view?usp=sharing) 
 
 ## Recommended reading
 
