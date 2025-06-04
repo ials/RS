@@ -1302,7 +1302,18 @@
     "href": "2025/weeks/week09/page.html#lecture-slides",
     "title": "🗓️ Unit 9 - How does Random Forest work",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\n\nBagging\nRandom Forest\n\n🎥",
+    "text": "👨‍🏫 Lecture Slides\n\nBagging\nRandom Forest",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 09"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week09/page.html#practical-exercise",
+    "href": "2025/weeks/week09/page.html#practical-exercise",
+    "title": "🗓️ Unit 9 - How does Random Forest work",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nReplicate this Colab notebook",
     "crumbs": [
       "🗓️ Weeks",
       "Week 09"
