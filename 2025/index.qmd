@@ -25,31 +25,23 @@ format: html
 
 :::
 
-::: {.callout-note collapse=false}
-## 📢 Very important
-
-(15/05/2025)
-
-Upload your *Informe No. 1* not later than 21th May at 11:59 pm. Late works will have penalty. 
-
-:::
 
 ::: {.callout-note collapse=false}
-## 📢 Important
+## 📢 Examen No. 2
 
-(23/04/2025)
+(10/06/2025)
 
-[Instrucciones para el Examen No. 1](https://drive.google.com/file/d/1FUGf8WI9g-NvSx-v22H1tDRuFDCwbR7u/view?usp=sharing)
+[Instrucciones para el Examen No. 2](https://drive.google.com/file/d/1rXrwvufRDTghtHnGavS24Lsjele_Uf9u/view?usp=sharing)
 
 :::
 
 
 ::: {.callout-note collapse=false}
-## 📢 Important
+## 📢 Informe No. 2
 
-(09/04/2025)
+(10/06/2025)
 
-[Instrucciones para elaborar el Informe No. 1](https://drive.google.com/file/d/1V04wIg5Xfn0AOmh3RTT_nrD36V1Od9Pp/view?usp=sharing)
+[Instrucciones para el Informe No. 2](https://drive.google.com/file/d/1UxpEl08bsOJ7Y7LFZkEs62V_iSrSLfEF/view?usp=sharing)
 
 :::
 

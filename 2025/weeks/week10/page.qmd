@@ -1,0 +1,27 @@
+---
+title: "🗓️ Unit 10 -  Random Forest Regression"
+---
+
+In this week, we will know the Random Forest algorithm.
+
+
+## 👨‍🏫 Lecture  
+
+[Improved RF algorithms for estimating forest aboveground biomass](https://www.sciencedirect.com/science/article/pii/S1470160X24002097)
+
+## Practical exercise
+
+Replicate [Estimating Above Ground Biomass using Random Forest Regression](https://spatialthoughts.com/2024/02/07/agb-regression-gee/) 
+
+## Recommended reading
+
+[Hyperparameters and Tuning Strategies for Random Forest](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1301)
+
+
+## ✍️ Coursework
+
+🚧   
+Keep doing the exercises for your *Informe No. 2*.
+🚧
+
+
