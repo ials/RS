@@ -2,7 +2,7 @@
 title: "🗓️ Unit 10 -  Random Forest Regression"
 ---
 
-In this week, we will know the Random Forest algorithm.
+In this week, we will practice Random Forest in regression mode.
 
 
 ## 👨‍🏫 Lecture  
