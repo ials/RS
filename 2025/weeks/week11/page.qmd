@@ -1,0 +1,35 @@
+---
+title: "🗓️ Unit 11 -  Texture feature extraction methods"
+---
+
+This week we will become familiar with the concept of image texture and the different texture metrics.
+
+
+## 👨‍🏫 Lecture  
+
+[Gray Level Co-occurrence Matrix](https://medium.com/aimonks/gray-level-co-occurrence-matrix-glcm-a-comprehensive-analysis-a58bbc49c0f6)
+
+## Practical exercise
+
+- Create a Colab notebook
+
+- Install [pyfeats](https://github.com/giakoumoglou/pyfeats)
+
+- Read any multispectral image 
+
+- Try extraction of different texture features 
+
+- Write down your results & what you learned
+
+## Recommended reading
+
+[Texture Feature Extraction Methods: A Survey](https://hal.science/hal-02126655v1/file/Texture_Feature_Extraction_Methods_A_Survey.pdf)
+
+
+## ✍️ Coursework
+
+🚧   
+Keep doing the exercises for your *Informe No. 2*.
+🚧
+
+
