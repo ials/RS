@@ -1,5 +1,60 @@
 [
   {
+    "objectID": "2025/weeks/week11/page.html",
+    "href": "2025/weeks/week11/page.html",
+    "title": "🗓️ Unit 11 - Texture feature extraction methods",
+    "section": "",
+    "text": "This week we will become familiar with the concept of image texture and the different texture metrics.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#lecture",
+    "href": "2025/weeks/week11/page.html#lecture",
+    "title": "🗓️ Unit 11 - Texture feature extraction methods",
+    "section": "👨‍🏫 Lecture",
+    "text": "👨‍🏫 Lecture\nGray Level Co-occurrence Matrix",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#practical-exercise",
+    "href": "2025/weeks/week11/page.html#practical-exercise",
+    "title": "🗓️ Unit 11 - Texture feature extraction methods",
+    "section": "Practical exercise",
+    "text": "Practical exercise\n\nCreate a Colab notebook\nInstall pyfeats\nRead any multispectral image\nTry extraction of different texture features\nWrite down your results & what you learned",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#recommended-reading",
+    "href": "2025/weeks/week11/page.html#recommended-reading",
+    "title": "🗓️ Unit 11 - Texture feature extraction methods",
+    "section": "Recommended reading",
+    "text": "Recommended reading\nTexture Feature Extraction Methods: A Survey",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week11/page.html#coursework",
+    "href": "2025/weeks/week11/page.html#coursework",
+    "title": "🗓️ Unit 11 - Texture feature extraction methods",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧\nKeep doing the exercises for your Informe No. 2. 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
     "objectID": "2025/weeks/week06/slides.html#prewriting",
     "href": "2025/weeks/week06/slides.html#prewriting",
     "title": "🗓️ Week 6 Examen No. 1 ",

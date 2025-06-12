@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>🗓️ Unit 3 - Platforms and sensors – PERCEPCION REMOTA</title>
+<title>🗓️ Unit 11 - Texture feature extraction methods – PERCEPCION REMOTA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../2025/weeks/week04/page.html" rel="next">
-<link href="../../../2025/weeks/week02/page.html" rel="prev">
+<link href="../../../2025/weeks/week10/page.html" rel="prev">
 <link href="../../../figures/icons/ARS-1.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -74,10 +73,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="🗓️ Unit 3 - Platforms and sensors – PERCEPCION REMOTA">
+<meta property="og:title" content="🗓️ Unit 11 - Texture feature extraction methods – PERCEPCION REMOTA">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="PERCEPCION REMOTA">
-<meta name="twitter:title" content="🗓️ Unit 3 - Platforms and sensors – PERCEPCION REMOTA">
+<meta name="twitter:title" content="🗓️ Unit 11 - Texture feature extraction methods – PERCEPCION REMOTA">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -110,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week03/page.html">Week 03</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week11/page.html">Week 11</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -179,16 +178,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 03</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../2025/weeks/week03/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -315,16 +314,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2025/weeks/week11/page.html" class="sidebar-item-text sidebar-link">
+            <a href="../../../2025/weeks/week11/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 11</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2025/weeks/week11/page.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../2025/weeks/week11/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -342,18 +341,19 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#practical-exercises" id="toc-practical-exercises" class="nav-link" data-scroll-target="#practical-exercises">✍️ Practical exercises</a></li>
-  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">📚 Reading</a></li>
+  <li><a href="#lecture" id="toc-lecture" class="nav-link active" data-scroll-target="#lecture">👨‍🏫 Lecture</a></li>
+  <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise">Practical exercise</a></li>
+  <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">Recommended reading</a></li>
+  <li><a href="#coursework" id="toc-coursework" class="nav-link" data-scroll-target="#coursework">✍️ Coursework</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week03/page.html">Week 03</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2025/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2025/weeks/week11/page.html">Week 11</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Unit 3 - Platforms and sensors</h1>
+<h1 class="title">🗓️ Unit 11 - Texture feature extraction methods</h1>
 </div>
 
 
@@ -376,27 +376,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this unit, we will review:</p>
-<ul>
-<li>Remote sensing platforms</li>
-<li>Classification of sensors</li>
-<li>Imaging sensors</li>
-<li>Non-imaging sensors</li>
-</ul>
-<section id="lecture-slides" class="level2">
-<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p>Click <a href="https://drive.google.com/file/d/1OKtiWsIJGrIkKqFF_jJc2v41vAGwnKaa/view?usp=drive_link">here</a> to view it.</p>
-<p>🎥</p>
+<p>This week we will become familiar with the concept of image texture and the different texture metrics.</p>
+<section id="lecture" class="level2">
+<h2 class="anchored" data-anchor-id="lecture">👨‍🏫 Lecture</h2>
+<p><a href="https://medium.com/aimonks/gray-level-co-occurrence-matrix-glcm-a-comprehensive-analysis-a58bbc49c0f6">Gray Level Co-occurrence Matrix</a></p>
 </section>
-<section id="practical-exercises" class="level2">
-<h2 class="anchored" data-anchor-id="practical-exercises">✍️ Practical exercises</h2>
-<p>🚧 <a href="../../../2025/weeks/week03/lab.html">Click here</a> 🚧</p>
-</section>
-<section id="reading" class="level2">
-<h2 class="anchored" data-anchor-id="reading">📚 Reading</h2>
+<section id="practical-exercise" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercise">Practical exercise</h2>
 <ul>
-<li><a href="https://drive.google.com/file/d/1RANvwBrbGzQ2dw43QgFgbPVaNmUEDV_c/view?usp=drive_link">Platform and sensors</a></li>
+<li><p>Create a Colab notebook</p></li>
+<li><p>Install <a href="https://github.com/giakoumoglou/pyfeats">pyfeats</a></p></li>
+<li><p>Read any multispectral image</p></li>
+<li><p>Try extraction of different texture features</p></li>
+<li><p>Write down your results &amp; what you learned</p></li>
 </ul>
+</section>
+<section id="recommended-reading" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-reading">Recommended reading</h2>
+<p><a href="https://hal.science/hal-02126655v1/file/Texture_Feature_Extraction_Methods_A_Survey.pdf">Texture Feature Extraction Methods: A Survey</a></p>
+</section>
+<section id="coursework" class="level2">
+<h2 class="anchored" data-anchor-id="coursework">✍️ Coursework</h2>
+<p>🚧<br>
+Keep doing the exercises for your <em>Informe No.&nbsp;2</em>. 🚧</p>
 
 
 </section>
@@ -810,14 +812,11 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../2025/weeks/week02/page.html" class="pagination-link" aria-label="Week 02">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 02</span>
+      <a href="../../../2025/weeks/week10/page.html" class="pagination-link" aria-label="Week 10">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 10</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../2025/weeks/week04/page.html" class="pagination-link" aria-label="Week 04">
-        <span class="nav-page-text">Week 04</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
