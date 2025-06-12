@@ -7,6 +7,8 @@ This week we will become familiar with the concept of image texture and the diff
 
 ## 👨‍🏫 Lecture  
 
+[Texture Is Important in Improving the Accuracy of Mapping Photovoltaic Power Plants](https://www.mdpi.com/2072-4292/13/19/3909)
+
 [Gray Level Co-occurrence Matrix](https://medium.com/aimonks/gray-level-co-occurrence-matrix-glcm-a-comprehensive-analysis-a58bbc49c0f6)
 
 ## Practical exercise
