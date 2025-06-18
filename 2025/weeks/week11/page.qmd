@@ -11,6 +11,8 @@ This week we will become familiar with the concept of image texture and the diff
 
 [Gray Level Co-occurrence Matrix](https://medium.com/aimonks/gray-level-co-occurrence-matrix-glcm-a-comprehensive-analysis-a58bbc49c0f6)
 
+[GLCM TEXTURE: A TUTORIAL](https://lapi.fi-p.unam.mx/wp-content/uploads/Tutorial-GLCM.pdf)
+
 ## Practical exercise
 
 - Create a Colab notebook
