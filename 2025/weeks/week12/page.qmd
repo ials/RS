@@ -1,0 +1,30 @@
+---
+title: "🗓️ Unit 12 - Geographic Object Based Image Analysis (GEOBIA)"
+---
+
+This week we will understand advantages and limitations of GEOBIA.
+
+
+## 👨‍🏫 Lecture  
+
+
+[Image Segmentation and Object-Based Image Analysis for Environmental Monitoring](https://www.iges.or.jp/en/publication_documents/pub/peer/en/10865/RS+-+Johnson+and+Ma+2020.pdf)
+
+[Combination of GEOBIA and data-driven approach for grassland habitat mapping](https://www.sciencedirect.com/science/article/pii/S2666017225000203)
+
+## Practical exercise
+
+Learn about GEOBIA classification in Earth Engine following instructions for the [EEFA's  Chapter F3.3](https://docs.google.com/document/d/1Lv0GEh2nzqigoXPulkNT8ME_V4NKgt9gsIY6KxVj2_o/edit)
+
+## Recommended reading
+
+[Extension of an Open GEOBIA Framework for Spatially Explicit Forest Stratification with Sentinel-2](https://www.mdpi.com/2072-4292/14/3/727)
+
+
+## ✍️ Coursework
+
+🚧   
+Keep doing the exercises for your *Informe No. 2*.
+🚧
+
+
