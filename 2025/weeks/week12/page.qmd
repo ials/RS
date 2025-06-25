@@ -8,6 +8,9 @@ This week we will understand advantages and limitations of GEOBIA.
 ## 👨‍🏫 Lecture  
 
 
+[Scalable approach for high-resolution land cover](https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-023-00770-z.pdf)
+
+
 [Image Segmentation and Object-Based Image Analysis for Environmental Monitoring](https://www.iges.or.jp/en/publication_documents/pub/peer/en/10865/RS+-+Johnson+and+Ma+2020.pdf)
 
 [Combination of GEOBIA and data-driven approach for grassland habitat mapping](https://www.sciencedirect.com/science/article/pii/S2666017225000203)
