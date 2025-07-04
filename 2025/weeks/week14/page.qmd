@@ -8,7 +8,7 @@ This week we will get to know foundations of PROSPECT and SAIL models as well as
 ## 👨‍🏫 Lecture  
 
 
-[Radiative transfer of leaves](https://jgomezdans.github.io/barrax_2015/LeavesRTpres.slides.html)
+[Radiative transfer modelling](https://jgomezdans.github.io/barrax_2015/RTMotivation.slides.html)
 
 [PROSPECT+SAIL models](https://www.ipgp.fr/~jacquemoud/publications/jacquemoud2009a.pdf)
 
