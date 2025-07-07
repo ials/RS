@@ -17,7 +17,7 @@ This week we will get to know foundations of PROSPECT and SAIL models as well as
 
 ## Practical exercise
 
-[Simulation of canopy reflectance using PROSAIL](https://jbferet.gitlab.io/prosail/index.html)
+[Estimation of vegetation properties from Sentinel-2](https://rpubs.com/ials2un/prosail)
 
 ## Recommended reading
 
