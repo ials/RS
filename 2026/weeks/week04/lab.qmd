@@ -1,0 +1,35 @@
+---
+title: "🗓️ Week4 - Procesamiento de índices de vegetación"
+---
+
+Los ejercicios prácticos de la **Semana 4** son los siguientes:
+
+
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 1. Indices de vegetación sin nubes
+
+[series temporales de NDVI sin nubes](https://ials.github.io/GEE-RIO/08-NDVI-sin-nubes/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 2. Reconstrucción de series
+
+[Suavizar indices de vegetación](https://ials.github.io/GEE-RIO/09-Suavizar-NDVI/index.html)
+
+:::
+
+:::{.callout-note collapse=true}
+
+### Additional resources
+
+In case you have completed the previous exercises, select additional exercises from the following link:
+
+#### [Cloud-Based Remote Sensing with GEE](https://www.eefabook.org/go-to-the-book.html)
+
+:::
+
+🎥 

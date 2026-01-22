@@ -1,0 +1,26 @@
+---
+title: "🗓️ Unit 16  -Informe  No. 2"
+---
+
+::: {.callout-important collapse=true}
+## 📢 NOTAS FINALES - 1
+
+(25/07/2025)
+
+- [Bloque 1](./figs/PR-2025_1.png)
+
+:::
+
+::: {.callout-important collapse=true}
+## 📢 NOTAS FINALES - 2
+
+(25/07/2025)
+
+- [Bloque 2](./figs/PR-2025_2.png) 
+
+:::
+
+
+
+
+

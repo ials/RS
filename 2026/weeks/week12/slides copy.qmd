@@ -1,0 +1,31 @@
+---
+subtitle: " 2015896-- PERCEPCION REMOTA"
+title: "<font style='font-size:1em;'>🗓️ Week 7 <br/>Literature reviews </font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia]'
+date: 21 May 2025
+date-meta: 21 May 2025
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/RS.png
+    css: /css/styles_slides.css
+    footer: '2015896 -- PERCEPCION REMOTA'
+---
+
+# What is a literature review
+
+# An example of a literature review
+
+
+

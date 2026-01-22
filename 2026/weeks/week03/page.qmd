@@ -1,0 +1,27 @@
+---
+title: "🗓️ Unit 3 - Platforms and sensors"
+---
+
+In this unit, we will review:
+
+- Remote sensing platforms
+- Classification of sensors
+- Imaging sensors
+- Non-imaging sensors
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/1OKtiWsIJGrIkKqFF_jJc2v41vAGwnKaa/view?usp=drive_link) to view it.
+
+🎥 
+
+## ✍️ Practical exercises
+
+🚧  [Click here](lab.qmd)
+🚧
+
+
+## 📚 Reading
+
+- [Platform and sensors](https://drive.google.com/file/d/1RANvwBrbGzQ2dw43QgFgbPVaNmUEDV_c/view?usp=drive_link) 
+

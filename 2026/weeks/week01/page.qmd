@@ -1,0 +1,39 @@
+---
+title: "🗓️ Unit 1 - Basics of  remote sensing"
+---
+
+In this first unit, we will review basic remote sensing concepts:
+
+- Principles of remote sensing
+- Remote sensing data acquisition
+- Type of remote sensing systems
+- Technical terms
+- Various forms of remote sensing data
+- The multi-concept
+- Advantages and disadvantages
+- Sources of data
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Practical exercises
+
+🚧  [Click here](lab.qmd)
+🚧
+
+
+## 📚 Reading
+
+- [Basics of Remote Sensing](https://drive.google.com/file/d/1lqnT6gb8nAdo_oh6pqJ0wurNaGMFz1Cb/view?usp=drive_link) 
+
+## 📟 Communication
+
+- Get to know your peers in the course and organize study groups 

@@ -1,0 +1,179 @@
+---
+subtitle: " 2015896-- PERCEPCION REMOTA"
+title: "<font style='font-size:1em;'>🗓️ Week 2 <br/>Electromagnetic radiation </font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia]'
+date: 9 April 2025
+date-meta: 9 April 2025
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/RS.png
+    css: /css/styles_slides.css
+    footer: '2015896 -- PERCEPCION REMOTA'
+---
+
+# Electromagnetic radiation
+
+<p align="center">
+<img src="figs/EMR.png" width=80% height=80%>
+</p>
+
+## Spectrum revisited
+
+<p align="center">
+<img src="figs/spectrum.png" width=110% height=110%>
+</p>
+
+## RS spectrum 
+
+<p align="center">
+<img src="figs/spectrum2.png" width=100% height=100%>
+</p>
+
+## EMR four properties
+
+- Wavelength: distance between crests
+
+- Frequency: number of crests per unit of time
+
+- Amplitude: heigth of each peak
+
+- Phase: angle of (mis)alignment between two waves
+
+<p align="center">
+<img src="figs/properties.png" width=80% height=80%>
+</p>
+
+##  Phase
+
+Phase is *time difference* between peaks
+
+<p align="center">
+<img src="figs/phase.gif" width=40% height=40%>
+</p>
+
+## Basic equation
+
+<p align="center">
+<img src="figs/eq1.png" width=70% height=70%>
+</p>
+
+
+# Radiation laws
+
+## Planck constant (1)
+
+<p align="center">
+<img src="figs/Planck1.png" width=100% height=100%>
+</p>
+
+## Planck constant (2)
+
+<p align="center">
+<img src="figs/Planck2.png" width=100% height=100%>
+</p>
+
+## Stefan–Boltzmann law 
+
+The amount of radiation emitted by a black body per unit area is directly proportional to the fourth power of the temperature
+
+<p align="center">
+<img src="figs/stefan.png" width=100% height=100%>
+</p>
+
+## Wien’s displacement law
+
+<p align="center">
+<img src="figs/eq_wien.png" width=30% height=30%>
+</p>
+
+<p align="center">
+<img src="figs/wien.png" width=70% height=70%>
+</p>
+
+# Radiometric concepts
+
+## A summary
+
+<p align="center">
+<img src="figs/radiometry.png" width=100% height=100%>
+</p>
+
+# EMR interactions with atmosphere
+
+## Refraction
+
+<p align="center">
+<img src="figs/refraction.png" width=40% height=40%>
+</p>
+
+## Scattering
+
+<p align="center">
+<img src="figs/scattering.png" width=50% height=50%>
+</p>
+
+## Absortion
+
+<p align="center">
+<img src="figs/windows.png" width=80% height=80%>
+</p>
+
+
+# EMR interactions with terrain
+
+## Irradiance
+
+<p align="center">
+<img src="figs/irradiance.png" width=80% height=80%>
+</p>
+
+## Exitance
+
+<p align="center">
+<img src="figs/exitancia.png" width=90% height=90%>
+</p>
+
+## Radiance
+
+<p align="center">
+<img src="figs/radiance.png" width=65% height=65%>
+</p>
+
+## Reflectance types
+
+<p align="center">
+<img src="figs/reflectance_types.png" width=60% height=60%>
+</p>
+
+
+## Spectral reflectance
+
+<p align="center">
+<img src="figs/spectral_reflectance.png" width=70% height=70%>
+</p>
+
+## The big task
+
+<p align="center">
+<img src="figs/Jensen_TOA.png" width=60% height=60%>
+</p>
+
+
+## Let's practice
+
+Remote Sensing with Google Earth Engine (GEE)
+
+[Week 2 Lab](lab.qmd)
+

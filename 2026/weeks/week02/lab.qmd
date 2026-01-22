@@ -1,0 +1,41 @@
+---
+title: "🗓️ Week 2 - Color compositions and spectral indices"
+---
+
+Los ejercicios prácticos de la **Semana 2** comprenden tres bloques:
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 1. Composiciones a color
+
+[Composiciones a color](https://ials.github.io/GEE-RIO/03-bands-combinations/index.html)
+
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 2. Indices espectrales - Landsat 8
+
+[Series de tiempo NDVI - L8](https://ials.github.io/GEE-RIO/04-L8-indices/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 3. Indices espectrales - Sentinel 2
+
+[Series de tiempo NDVI -S2](https://ials.github.io/GEE-RIO/05-S2-indices/index.html)
+
+:::
+
+:::{.callout-note collapse=true}
+
+### Additional resources
+
+En caso que usted desea avanzar en su ruta práctica, realice los siguientes ejercicios:
+[Week 3 - practical lab](lab3.qmd)
+
+:::
+
+🎥 
