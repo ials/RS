@@ -26,7 +26,12 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Practical exercises
 
-🚧  [Click here](lab.qmd)
+🚧  [GEE Week 1](lab.qmd)
+🚧
+
+## ✍️ Paper selection
+
+🚧  [Selección de un artículo relevante para su investigación](W1_paper_selection.docx)
 🚧
 
 
