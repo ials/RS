@@ -22,7 +22,7 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Practical exercises
 
-🚧  [Click here](lab.qmd)
+🚧  [GEE week 2](lab.qmd)
 🚧
 
 
@@ -32,4 +32,4 @@ Use your keypad to navigate the slides.
 
 ## 📟 Communication
 
-- Get to know your peers in the course and organize study groups 
+- Meet your research supervisor to share your ideas 

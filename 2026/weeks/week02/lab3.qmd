@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week3 -Indices de vegetación"
+title: "🗓️ Week 3 -Indices de vegetación"
 ---
 
 Los ejercicios prácticos de la **Semana 3** son los siguientes:
