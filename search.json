@@ -1,5 +1,152 @@
 [
   {
+    "objectID": "2026/weeks/week02/slides.html#spectrum-revisited",
+    "href": "2026/weeks/week02/slides.html#spectrum-revisited",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Spectrum revisited",
+    "text": "Spectrum revisited"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#rs-spectrum",
+    "href": "2026/weeks/week02/slides.html#rs-spectrum",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "RS spectrum",
+    "text": "RS spectrum"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#emr-four-properties",
+    "href": "2026/weeks/week02/slides.html#emr-four-properties",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "EMR four properties",
+    "text": "EMR four properties\n\nWavelength: distance between crests\nFrequency: number of crests per unit of time\nAmplitude: heigth of each peak\nPhase: angle of (mis)alignment between two waves"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#phase",
+    "href": "2026/weeks/week02/slides.html#phase",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Phase",
+    "text": "Phase\nPhase is time difference between peaks"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#basic-equation",
+    "href": "2026/weeks/week02/slides.html#basic-equation",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Basic equation",
+    "text": "Basic equation"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#planck-constant-1",
+    "href": "2026/weeks/week02/slides.html#planck-constant-1",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Planck constant (1)",
+    "text": "Planck constant (1)"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#planck-constant-2",
+    "href": "2026/weeks/week02/slides.html#planck-constant-2",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Planck constant (2)",
+    "text": "Planck constant (2)"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#stefanboltzmann-law",
+    "href": "2026/weeks/week02/slides.html#stefanboltzmann-law",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Stefan–Boltzmann law",
+    "text": "Stefan–Boltzmann law\nThe amount of radiation emitted by a black body per unit area is directly proportional to the fourth power of the temperature"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#wiens-displacement-law",
+    "href": "2026/weeks/week02/slides.html#wiens-displacement-law",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Wien’s displacement law",
+    "text": "Wien’s displacement law"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#a-summary",
+    "href": "2026/weeks/week02/slides.html#a-summary",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "A summary",
+    "text": "A summary"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#refraction",
+    "href": "2026/weeks/week02/slides.html#refraction",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Refraction",
+    "text": "Refraction"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#scattering",
+    "href": "2026/weeks/week02/slides.html#scattering",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Scattering",
+    "text": "Scattering"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#absortion",
+    "href": "2026/weeks/week02/slides.html#absortion",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Absortion",
+    "text": "Absortion"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#irradiance",
+    "href": "2026/weeks/week02/slides.html#irradiance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Irradiance",
+    "text": "Irradiance"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#exitance",
+    "href": "2026/weeks/week02/slides.html#exitance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Exitance",
+    "text": "Exitance"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#radiance",
+    "href": "2026/weeks/week02/slides.html#radiance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Radiance",
+    "text": "Radiance"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#reflectance-types",
+    "href": "2026/weeks/week02/slides.html#reflectance-types",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Reflectance types",
+    "text": "Reflectance types"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#spectral-reflectance",
+    "href": "2026/weeks/week02/slides.html#spectral-reflectance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Spectral reflectance",
+    "text": "Spectral reflectance"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#the-big-task",
+    "href": "2026/weeks/week02/slides.html#the-big-task",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "The big task",
+    "text": "The big task"
+  },
+  {
+    "objectID": "2026/weeks/week02/slides.html#lets-practice",
+    "href": "2026/weeks/week02/slides.html#lets-practice",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Let’s practice",
+    "text": "Let’s practice\nRemote Sensing with Google Earth Engine (GEE)\nWeek 2 Lab"
+  },
+  {
+    "objectID": "2026/weeks/week02/lab3.html",
+    "href": "2026/weeks/week02/lab3.html",
+    "title": "🗓️ Week 3 -Indices de vegetación",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Semana 3 son los siguientes:\n\n\n\n\n\n\nImportant👨‍🏫 1. NDVI, GNDVI, EVI2 - Sentinel 2\n\n\n\n\n\nSeries de tres indices -S2\n\n\n\n\n\n\n\n\n\nImportant👨‍🏫 2. Productividad de la vegetación\n\n\n\n\n\nProductividad primaria bruta\n\n\n\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\nIn case you know the above topics, select your own learning path from the following link:\n\nCloud-Based Remote Sensing with GEE\n\n\n\n\n🎥"
+  },
+  {
     "objectID": "2026/weeks/week01/slides.html#your-lecturer",
     "href": "2026/weeks/week01/slides.html#your-lecturer",
     "title": "🗓️ Week 01 Introduction",
@@ -253,7 +400,7 @@
     "href": "index.html",
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to develop conceptual and practical skills for using remote sensing analysis data in research.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nUnderstand the physical principles of optical remote sensing.\nInternalize the different stages of the remote sensing process and its usefulness in research.\nApply computational techniques to obtain information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2025"
+    "text": "📑 Course Brief\nFocus: the focus of this course is to develop conceptual and practical skills for using remote sensing analysis data in research.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nUnderstand the physical principles of optical remote sensing.\nInternalize the different stages of the remote sensing process and its usefulness in research.\nApply computational techniques to obtain information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2026"
   },
   {
     "objectID": "2026/index.html",
@@ -336,6 +483,68 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week02/lab.html",
+    "href": "2026/weeks/week02/lab.html",
+    "title": "🗓️ Week 2 - Color compositions and spectral indices",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Semana 2 comprenden tres bloques:\n\n\n\n\n\n\nImportant👨‍🏫 1. Composiciones a color\n\n\n\n\n\nComposiciones a color\n\n\n\n\n\n\n\n\n\nImportant👨‍🏫 2. Indices espectrales - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\nImportant👨‍🏫 3. Indices espectrales - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2\n\n\n\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\nEn caso que usted desea avanzar en su ruta práctica, realice los siguientes ejercicios: Week 3 - practical lab\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2026/weeks/week02/page.html",
+    "href": "2026/weeks/week02/page.html",
+    "title": "🗓️ Unit 2 - Electromagnetic radiation",
+    "section": "",
+    "text": "In this unit, we will review:",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week02/page.html#lecture-slides",
+    "href": "2026/weeks/week02/page.html#lecture-slides",
+    "title": "🗓️ Unit 2 - Electromagnetic radiation",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week02/page.html#practical-exercises",
+    "href": "2026/weeks/week02/page.html#practical-exercises",
+    "title": "🗓️ Unit 2 - Electromagnetic radiation",
+    "section": "✍️ Practical exercises",
+    "text": "✍️ Practical exercises\n🚧 GEE week 2 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week02/page.html#reading",
+    "href": "2026/weeks/week02/page.html#reading",
+    "title": "🗓️ Unit 2 - Electromagnetic radiation",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nElectromagnetic radiation",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week02/page.html#communication",
+    "href": "2026/weeks/week02/page.html#communication",
+    "title": "🗓️ Unit 2 - Electromagnetic radiation",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nMeet your research supervisor to share your ideas",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 02"
     ]
   }
 ]
