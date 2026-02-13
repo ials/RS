@@ -1,27 +1,26 @@
 ---
-title: "🗓️ Unit 3 - Platforms and sensors"
+title: "🗓️ Unit 3 -   Image preprocessing techniques"
 ---
 
-In this unit, we will review:
-
-- Remote sensing platforms
-- Classification of sensors
-- Imaging sensors
-- Non-imaging sensors
+In this unit, we will review preprocessing techniques needed for appropriate exploitation of remotely sensed images.
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1OKtiWsIJGrIkKqFF_jJc2v41vAGwnKaa/view?usp=drive_link) to view it.
+Either click on the slide area below or click [here](https://drive.google.com/file/d/1RzU99O9wkgoKKlz5QL0phoEwnRMh90D_/view?usp=sharing) to view it in fullscreen.
+Use your keypad to navigate the slides.
 
 🎥 
 
 ## ✍️ Practical exercises
 
-🚧  [Click here](lab.qmd)
+🚧  [GEE Week 3](lab.qmd)
 🚧
 
 
 ## 📚 Reading
 
-- [Platform and sensors](https://drive.google.com/file/d/1RANvwBrbGzQ2dw43QgFgbPVaNmUEDV_c/view?usp=drive_link) 
+- [Radiometric calibration of UAV multispectral images](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.70005)
 
+## 📟 Communication
+
+- Get to know your peers in the course and organize study groups 

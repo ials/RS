@@ -5,6 +5,15 @@ format: html
 ---
 
 ::: {.callout-important collapse=true}
+## 📢  What you learned from the selected paper?
+
+(13/02/2026)
+
+- Identify the core research question, understand the data & methodology used to test the hypothesis, and evaluate the validity of the results and conclusions. 
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Syllabus
 
 (02/02/2026)
