@@ -1,5 +1,152 @@
 [
   {
+    "objectID": "2026/weeks/week03/slides.html#spectrum-revisited",
+    "href": "2026/weeks/week03/slides.html#spectrum-revisited",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Spectrum revisited",
+    "text": "Spectrum revisited"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#rs-spectrum",
+    "href": "2026/weeks/week03/slides.html#rs-spectrum",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "RS spectrum",
+    "text": "RS spectrum"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#emr-four-properties",
+    "href": "2026/weeks/week03/slides.html#emr-four-properties",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "EMR four properties",
+    "text": "EMR four properties\n\nWavelength: distance between crests\nFrequency: number of crests per unit of time\nAmplitude: heigth of each peak\nPhase: angle of (mis)alignment between two waves"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#phase",
+    "href": "2026/weeks/week03/slides.html#phase",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Phase",
+    "text": "Phase\nPhase is time difference between peaks"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#basic-equation",
+    "href": "2026/weeks/week03/slides.html#basic-equation",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Basic equation",
+    "text": "Basic equation"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#planck-constant-1",
+    "href": "2026/weeks/week03/slides.html#planck-constant-1",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Planck constant (1)",
+    "text": "Planck constant (1)"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#planck-constant-2",
+    "href": "2026/weeks/week03/slides.html#planck-constant-2",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Planck constant (2)",
+    "text": "Planck constant (2)"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#stefanboltzmann-law",
+    "href": "2026/weeks/week03/slides.html#stefanboltzmann-law",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Stefan–Boltzmann law",
+    "text": "Stefan–Boltzmann law\nThe amount of radiation emitted by a black body per unit area is directly proportional to the fourth power of the temperature"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#wiens-displacement-law",
+    "href": "2026/weeks/week03/slides.html#wiens-displacement-law",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Wien’s displacement law",
+    "text": "Wien’s displacement law"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#a-summary",
+    "href": "2026/weeks/week03/slides.html#a-summary",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "A summary",
+    "text": "A summary"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#refraction",
+    "href": "2026/weeks/week03/slides.html#refraction",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Refraction",
+    "text": "Refraction"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#scattering",
+    "href": "2026/weeks/week03/slides.html#scattering",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Scattering",
+    "text": "Scattering"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#absortion",
+    "href": "2026/weeks/week03/slides.html#absortion",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Absortion",
+    "text": "Absortion"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#irradiance",
+    "href": "2026/weeks/week03/slides.html#irradiance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Irradiance",
+    "text": "Irradiance"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#exitance",
+    "href": "2026/weeks/week03/slides.html#exitance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Exitance",
+    "text": "Exitance"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#radiance",
+    "href": "2026/weeks/week03/slides.html#radiance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Radiance",
+    "text": "Radiance"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#reflectance-types",
+    "href": "2026/weeks/week03/slides.html#reflectance-types",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Reflectance types",
+    "text": "Reflectance types"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#spectral-reflectance",
+    "href": "2026/weeks/week03/slides.html#spectral-reflectance",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Spectral reflectance",
+    "text": "Spectral reflectance"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#the-big-task",
+    "href": "2026/weeks/week03/slides.html#the-big-task",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "The big task",
+    "text": "The big task"
+  },
+  {
+    "objectID": "2026/weeks/week03/slides.html#lets-practice",
+    "href": "2026/weeks/week03/slides.html#lets-practice",
+    "title": "🗓️ Week 2 Electromagnetic radiation ",
+    "section": "Let’s practice",
+    "text": "Let’s practice\nRemote Sensing with Google Earth Engine (GEE)\nWeek 2 Lab"
+  },
+  {
+    "objectID": "2026/weeks/week03/lab4.html",
+    "href": "2026/weeks/week03/lab4.html",
+    "title": "🗓️ Week4 - Procesamiento de índices de vegetación",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Semana 4 son los siguientes:\n\n\n\n\n\n\nImportant👨‍🏫 1. Indices de vegetación sin nubes\n\n\n\n\n\n[series temporales de NDVI sin nubes](https://ials.github.io/GEE-RIO/08-NDVI-sin-nubes/index.html\n\n\n\n\n\n\n\n\n\nImportant👨‍🏫 2. Reconstrucción de series\n\n\n\n\n\nSuavizar indices de vegetación\n\n\n\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\nIn case you know the above topics, select your own learning path from the following link:\n\nCloud-Based Remote Sensing with GEE\n\n\n\n\n🎥"
+  },
+  {
     "objectID": "2026/weeks/week02/slides.html#spectrum-revisited",
     "href": "2026/weeks/week02/slides.html#spectrum-revisited",
     "title": "🗓️ Week 2 Electromagnetic radiation ",
@@ -407,7 +554,7 @@
     "href": "2026/index.html",
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "",
-    "text": "Important📢 Syllabus\n\n\n\n\n\n(02/02/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Wednesdays 8:00 am - 9:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "text": "Important📢 What you learned from the selected paper?\n\n\n\n\n\n(13/02/2026)\n\nIdentify the core research question, understand the data & methodology used to test the hypothesis, and evaluate the validity of the results and conclusions.\n\n\n\n\n\n\n\n\n\n\nImportant📢 Syllabus\n\n\n\n\n\n(02/02/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Wednesdays 8:00 am - 9:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -545,6 +692,68 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week03/lab.html",
+    "href": "2026/weeks/week03/lab.html",
+    "title": "🗓️ Week3 -Indices de vegetación",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Semana 3 son los siguientes:\n\n\n\n\n\n\nImportant👨‍🏫 1. NDVI, GNDVI, EVI2 - Sentinel 2\n\n\n\n\n\nSeries de tres indices -S2\n\n\n\n\n\n\n\n\n\nImportant👨‍🏫 2. Productividad de la vegetación\n\n\n\n\n\nProductividad primaria bruta\n\n\n\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\nIn case you know the above topics, select your own learning path from the following link:\n\nCloud-Based Remote Sensing with GEE\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2026/weeks/week03/page.html",
+    "href": "2026/weeks/week03/page.html",
+    "title": "🗓️ Unit 3 - Image preprocessing techniques",
+    "section": "",
+    "text": "In this unit, we will review preprocessing techniques needed for appropriate exploitation of remotely sensed images.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week03/page.html#lecture-slides",
+    "href": "2026/weeks/week03/page.html#lecture-slides",
+    "title": "🗓️ Unit 3 - Image preprocessing techniques",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week03/page.html#practical-exercises",
+    "href": "2026/weeks/week03/page.html#practical-exercises",
+    "title": "🗓️ Unit 3 - Image preprocessing techniques",
+    "section": "✍️ Practical exercises",
+    "text": "✍️ Practical exercises\n🚧 GEE Week 3 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week03/page.html#reading",
+    "href": "2026/weeks/week03/page.html#reading",
+    "title": "🗓️ Unit 3 - Image preprocessing techniques",
+    "section": "📚 Reading",
+    "text": "📚 Reading\n\nRadiometric calibration of UAV multispectral images",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 03"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week03/page.html#communication",
+    "href": "2026/weeks/week03/page.html#communication",
+    "title": "🗓️ Unit 3 - Image preprocessing techniques",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nGet to know your peers in the course and organize study groups",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 03"
     ]
   }
 ]
