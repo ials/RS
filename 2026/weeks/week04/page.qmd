@@ -18,6 +18,9 @@ Click [here](https://drive.google.com/file/d/1sDsV7a7fucDa3RSFemGHlIoOS7xgCAZ6/v
 Do the practical exercises for  your *Informe No. 1*
 🏫
 
+## Interested on processing UAV imagery?
+
+Check [OpenDroneMap](https://hub.docker.com/r/opendronemap/odm)
 
 ## 📚 Reading
 
