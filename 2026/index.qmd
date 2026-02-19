@@ -4,6 +4,16 @@ subtitle: "Academic Year: 2026"
 format: html
 ---
 
+::: {.callout-important collapse=false}
+## 📢  What you will report in Informe No. 1?
+
+(18/02/2026)
+
+- Identify the *remote sensing study* you will reproduce, either using GEE or any other tools. Write a one-page document and print it.
+
+:::
+
+
 ::: {.callout-important collapse=true}
 ## 📢  What you learned from the selected paper?
 
