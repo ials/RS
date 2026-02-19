@@ -10,7 +10,7 @@ Los ejercicios prácticos de la **Semana 4** son los siguientes:
 
 ## 👨‍🏫 1. Indices de vegetación sin nubes
 
-[series temporales de NDVI sin nubes](https://ials.github.io/GEE-RIO/08-NDVI-sin-nubes/index.html
+[series temporales de NDVI sin nubes](https://ials.github.io/GEE-RIO/08-NDVI-sin-nubes/index.html)
 
 :::
 

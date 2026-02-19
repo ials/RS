@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Unit 5 - Image pre-processing ..."
+title: "🗓️ Unit 4 - Image pre-processing ..."
 ---
 
 In this unit, we will review geometric correction techniques for satellite, aerial and UAV multispectral images.
