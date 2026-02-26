@@ -2,24 +2,21 @@
 title: "🗓️ Unit 5 - Image pre-processing ..."
 ---
 
-In this unit, we will review geometric correction techniques for satellite, aerial and UAV multispectral images.
+In this unit, we will review *additional* pre-processing techniques for optical imagery.
 
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1QwVVrX5NH2PTR6vNSL_VdZsElL2AZVdT/view?usp=sharing) to view the slides.
+Click [here](slides.qmd) to view the slides.
 
 🎥 
 
 ## ✍️ Coursework
 
-🚧   
-Complete your document for Exam No. 1 (and upload it on due time)
-🚧
 
 🏫
-Do the practical exercises for  your Inform No. 1
+Do the practical exercises for your Inform No. 1
 🏫
 
 

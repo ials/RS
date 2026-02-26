@@ -7,6 +7,16 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢  What you will report in Informe No. 1?
 
+(26/02/2026)
+
+- Start reproducing the *remote sensing study* you selected for Informe No.1.
+
+:::
+
+
+::: {.callout-important collapse=true}
+## 📢  What you will report in Informe No. 1?
+
 (18/02/2026)
 
 - Identify the *remote sensing study* you will reproduce, either using GEE or any other tools. Write a one-page document and print it.
