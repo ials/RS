@@ -101,7 +101,7 @@ format:
 
 - [Focal operations](https://developers.google.com/earth-engine/guides/image_morph)
 
--[Edge detection](https://developers.google.com/earth-engine/guides/image_edges)
+- [Edge detection](https://developers.google.com/earth-engine/guides/image_edges)
 
 # The writing process
 
