@@ -34,20 +34,15 @@ format:
 ## Image enhancement
 
 <p align="center">
-<img src="figs/Fig5.2.png" width=100% height=100%>
+<img src="figs/Fig5.2.png" width=80% height=80%>
 </p>
 
 ## Contrast enhancement 
 
 <p align="center">
-<img src="figs/Fig5.3.png" width=90% height=90%>
+<img src="figs/Fig5.3.png" width=50% height=50%>
 </p>
 
-## Linear contrast stretch
-
-<p align="center">
-<img src="figs/Fig5.4.png" width=50% height=50%>
-</p>
 
 ## Different contrast stretch techniques
 
@@ -58,7 +53,7 @@ format:
 ## Piecewise linear enhancement
 
 <p align="center">
-<img src="figs/Fig5.6.png" width=70% height=70%>
+<img src="figs/Fig5.6.png" width=60% height=60%>
 </p>
 
 ## Histogram equalization
@@ -76,7 +71,7 @@ format:
 # Spatial Filtering
 
 <p align="center">
-<img src="figs/Fig5.10.png" width=60% height=60%>
+<img src="figs/Fig5.10.png" width=65% height=65%>
 </p>
 
 # Low pass vs High pass filters
@@ -94,7 +89,7 @@ format:
 ## Laplace Filter
 
 <p align="center">
-<img src="figs/Fig5.18.png" width=80% height=80%>
+<img src="figs/Fig5.18.png" width=70% height=70%>
 </p>
 
 ## Image enhancement in GEE
