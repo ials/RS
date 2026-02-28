@@ -49,6 +49,13 @@
     "text": "Gamma contrast stretch"
   },
   {
+    "objectID": "2026/weeks/week05/slides.html#histogram-matching",
+    "href": "2026/weeks/week05/slides.html#histogram-matching",
+    "title": "🗓️ Week 5  Image enhancement ",
+    "section": "Histogram matching",
+    "text": "Histogram matching\n\nIt “calibrates” one image to match another.\nIt transforms one image so that the cumulative distribution function (CDF) of values in each band matches the CDF of bands in another image.\nLet’s practice it"
+  },
+  {
     "objectID": "2026/weeks/week05/slides.html#sobel-filter",
     "href": "2026/weeks/week05/slides.html#sobel-filter",
     "title": "🗓️ Week 5  Image enhancement ",
@@ -584,6 +591,16 @@
     "title": "2015896 - PERCEPCION REMOTA",
     "section": "EVALUACIÓN DEL CURSO:",
     "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes teóricos (50%)\n\nExamen 1 - 18 de marzo\nExamen 2 - 19 de mayo\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 25 de marzo\nInforme 2 - 26 de mayo",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
+  },
+  {
+    "objectID": "2026/syllabus.html#asistencia-obligatoria",
+    "href": "2026/syllabus.html#asistencia-obligatoria",
+    "title": "2015896 - PERCEPCION REMOTA",
+    "section": "ASISTENCIA OBLIGATORIA:",
+    "text": "ASISTENCIA OBLIGATORIA:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nEl curso se pierde con el 10% de fallas.",
     "crumbs": [
       "📓 Syllabus"
     ]
