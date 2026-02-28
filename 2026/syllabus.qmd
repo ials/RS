@@ -89,6 +89,14 @@ format: html
 
 :::
 
+## ASISTENCIA OBLIGATORIA: 
+
+::: {.callout-important collapse=false}
+
+El curso se pierde con el 10% de fallas.
+
+:::
+
 ## BIBLIOGRAFIA
 
 ::: {.callout-important collapse=true}

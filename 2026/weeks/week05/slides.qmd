@@ -68,6 +68,14 @@ format:
 <img src="figs/Fig5.8.png" width=100% height=100%>
 </p>
 
+## Histogram matching
+
+- It "calibrates" one image to match another. 
+
+- It transforms one image so that the cumulative distribution function (CDF) of values in each band matches the CDF of bands in another image.
+
+- [Let's practice it](https://developers.google.com/earth-engine/tutorials/community/histogram-matching)
+
 # Spatial Filtering
 
 <p align="center">
