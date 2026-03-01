@@ -56,6 +56,20 @@
     "text": "Histogram matching\n\nIt “calibrates” one image to match another.\nIt transforms one image so that the cumulative distribution function (CDF) of values in each band matches the CDF of bands in another image.\nLet’s practice it"
   },
   {
+    "objectID": "2026/weeks/week05/slides.html#pixel-based-image-composites",
+    "href": "2026/weeks/week05/slides.html#pixel-based-image-composites",
+    "title": "🗓️ Week 5  Image enhancement ",
+    "section": "Pixel-based image composites",
+    "text": "Pixel-based image composites"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#gee-picx",
+    "href": "2026/weeks/week05/slides.html#gee-picx",
+    "title": "🗓️ Week 5  Image enhancement ",
+    "section": "GEE-PICX",
+    "text": "GEE-PICX\n\n\n\nLet’s try it"
+  },
+  {
     "objectID": "2026/weeks/week05/slides.html#sobel-filter",
     "href": "2026/weeks/week05/slides.html#sobel-filter",
     "title": "🗓️ Week 5  Image enhancement ",
