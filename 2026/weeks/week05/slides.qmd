@@ -74,7 +74,7 @@ format:
 
 - It transforms one image so that the cumulative distribution function (CDF) of values in each band matches the CDF of bands in another image.
 
-- [Let's practice it](https://developers.google.com/earth-engine/tutorials/community/histogram-matching)
+- [Let's practice it](https://medium.com/google-earth/histogram-matching-c7153c85066d)
 
 # Spatial Filtering
 
