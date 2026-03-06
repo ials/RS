@@ -36,19 +36,18 @@ format:
 ## How far can you measure?
 
 <p align="center">
-<img src="figs/camera.png" width=100% height=100%>
+<img src="figs/howFAR.png" width=100% height=100%>
 </p>
 
 [FLIR](https://drive.google.com/file/d/1Pz7UvOA-2IYy8g8FO2hWMdCfRaSRkl7n/view?usp=sharing)
 
 
-## Atmospheric correction
+## [Atmospheric correction](https://drive.google.com/file/d/1ddXi-7a5Z-_bnSRTo5qhUBUeWGhrRO0W/view?usp=drive_link)
 
 <p align="center">
-<img src="figs/jensen.png" width=70% height=70%>
+<img src="figs/jensen.png" width=60% height=60%>
 </p>
 
-[Jensen, 2016](https://drive.google.com/file/d/1ddXi-7a5Z-_bnSRTo5qhUBUeWGhrRO0W/view?usp=drive_link)
 
 ## Reconciling statistics of reflectance and color
 
