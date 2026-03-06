@@ -1,9 +1,8 @@
 ---
-title: "🗓️ Unit 6 - Writing Examen No. 1"
+title: "🗓️ Unit 6 - Preparation for Examen No. 1"
 ---
 
-In this week, we will complete the Exam No. 1 and upload it to the corresponding drive.
-
+In this week, we will review key concepts and equations for the Exam No. 1.
 
 
 ## 👨‍🏫 Lecture Slides 
@@ -14,11 +13,7 @@ Click [here](slides.qmd) to view the slides.
 
 ## ✍️ Coursework
 
-🚧   
-Upload your *Examen No. 1* on due time)
-🚧
-
 🏫
-Complete the exercises for  your *Informe No. 1* (It is due on 21.05.2025)
+Complete the exercises for  your *Informe No. 1* (It is due on 25.03.2025)
 🏫
 

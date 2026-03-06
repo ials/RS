@@ -21,6 +21,8 @@ Use your keypad to navigate the slides.
 
 - [Radiometric calibration of UAV multispectral images](https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.70005)
 
+- [How far can you measure?](http://www.flirmedia.com/MMC/THG/Brochures/17-1465/17-1465_US.pdf)
+
 ## 📟 Communication
 
 - Talk to your research supervisor
