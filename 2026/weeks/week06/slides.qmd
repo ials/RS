@@ -28,10 +28,18 @@ format:
 ## How to Specify an Electro-optical Earth Observation Camera?
 
 <p align="center">
-<img src="figs/camera.png" width=80% height=80%>
+<img src="figs/camera.png" width=100% height=100%>
 </p>
 
 [Joseph, 2020](https://drive.google.com/file/d/1w_-q6zgObLj5sjvK-9gFFKBeoSB_wP2U/view?usp=sharing)
+
+## How far can you measure?
+
+<p align="center">
+<img src="figs/camera.png" width=100% height=100%>
+</p>
+
+[FLIR](https://drive.google.com/file/d/1Pz7UvOA-2IYy8g8FO2hWMdCfRaSRkl7n/view?usp=sharing)
 
 
 ## Atmospheric correction
