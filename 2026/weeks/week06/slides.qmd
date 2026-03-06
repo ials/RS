@@ -1,6 +1,6 @@
 ---
 subtitle: " 2020039-- PERCEPCION REMOTA"
-title: "<font style='font-size:1em;'>🗓️ Week 6 <br/>Examen No. 1 </font>"
+title: "<font style='font-size:1em;'>🗓️ Week 6 <br/> Remote sensing recap </font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia]'
 date: 11 March 2026
