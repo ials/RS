@@ -48,6 +48,12 @@ format:
 <img src="figs/jensen.png" width=60% height=60%>
 </p>
 
+## Surface reflectance
+
+<p align="center">
+<img src="figs/radiance.png" width=100% height=100%>
+</p>
+
 
 ## Reconciling statistics of reflectance and color
 
