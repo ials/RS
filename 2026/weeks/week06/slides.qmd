@@ -55,7 +55,7 @@ format:
 </p>
 
 
-## Reconciling statistics of reflectance and color
+## Reflectance vs color
 
 <p align="center">
 <img src="figs/reflectance.png" width=100% height=100%>
@@ -84,7 +84,7 @@ format:
 ## Atmospheric correction of vegetation reflectance 
 
 <p align="center">
-<img src="figs/polymer.png" width=100% height=100%>
+<img src="figs/vegetation.png" width=100% height=100%>
 </p>
 
 [Qamar, 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10385980/pdf/13007_2023_Article_1046.pdf)
