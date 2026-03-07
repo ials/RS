@@ -4,7 +4,42 @@
     "href": "2026/weeks/week06/slides.html#how-to-specify-an-electro-optical-earth-observation-camera",
     "title": "🗓️ Week 6  Remote sensing recap ",
     "section": "How to Specify an Electro-optical Earth Observation Camera?",
-    "text": "How to Specify an Electro-optical Earth Observation Camera?\n\n\n\nJoseph, 2020\nIFOV, GIFOV, and GSD\n\n\n\nContrast ratio\n\n\n\nModulation transfer function\n\n\n\nSpectral response curves\n\n\n\nBayer mask filter"
+    "text": "How to Specify an Electro-optical Earth Observation Camera?\n\n\n\nJoseph, 2020"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#ifov-gifov-and-gsd",
+    "href": "2026/weeks/week06/slides.html#ifov-gifov-and-gsd",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "IFOV, GIFOV, and GSD",
+    "text": "IFOV, GIFOV, and GSD"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#contrast-ratio",
+    "href": "2026/weeks/week06/slides.html#contrast-ratio",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Contrast ratio",
+    "text": "Contrast ratio"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#modulation-transfer-function",
+    "href": "2026/weeks/week06/slides.html#modulation-transfer-function",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Modulation transfer function",
+    "text": "Modulation transfer function"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#spectral-response-curves",
+    "href": "2026/weeks/week06/slides.html#spectral-response-curves",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Spectral response curves",
+    "text": "Spectral response curves"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#bayer-mask-filter",
+    "href": "2026/weeks/week06/slides.html#bayer-mask-filter",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Bayer mask filter",
+    "text": "Bayer mask filter"
   },
   {
     "objectID": "2026/weeks/week06/slides.html#how-far-can-you-measure",
@@ -42,11 +77,39 @@
     "text": "Stability and consistency between atmospheric corrections\n\n\n\nChraibi, 2022"
   },
   {
-    "objectID": "2026/weeks/week06/slides.html#atmospheric-correction-for-water-leaving-radiance-retievals",
-    "href": "2026/weeks/week06/slides.html#atmospheric-correction-for-water-leaving-radiance-retievals",
+    "objectID": "2026/weeks/week06/slides.html#maja-vs-sen2cor",
+    "href": "2026/weeks/week06/slides.html#maja-vs-sen2cor",
     "title": "🗓️ Week 6  Remote sensing recap ",
-    "section": "Atmospheric correction for water-leaving radiance retievals",
-    "text": "Atmospheric correction for water-leaving radiance retievals\n\n\n\nKarthick, 2024"
+    "section": "MAJA vs Sen2Cor",
+    "text": "MAJA vs Sen2Cor"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#atmospheric-correction-for-water-leaving-radiance-retrievals",
+    "href": "2026/weeks/week06/slides.html#atmospheric-correction-for-water-leaving-radiance-retrievals",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Atmospheric correction for water-leaving radiance retrievals",
+    "text": "Atmospheric correction for water-leaving radiance retrievals\n\n\n\nKarthick, 2024"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#water-leaving-radiance-retrievals---1",
+    "href": "2026/weeks/week06/slides.html#water-leaving-radiance-retrievals---1",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Water-leaving radiance retrievals - 1",
+    "text": "Water-leaving radiance retrievals - 1"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#water-leaving-radiance-retrievals---2",
+    "href": "2026/weeks/week06/slides.html#water-leaving-radiance-retrievals---2",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Water-leaving radiance retrievals - 2",
+    "text": "Water-leaving radiance retrievals - 2"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#water-leaving-radiance-retrievals---3",
+    "href": "2026/weeks/week06/slides.html#water-leaving-radiance-retrievals---3",
+    "title": "🗓️ Week 6  Remote sensing recap ",
+    "section": "Water-leaving radiance retrievals - 3",
+    "text": "Water-leaving radiance retrievals - 3"
   },
   {
     "objectID": "2026/weeks/week06/slides.html#atmospheric-correction-of-vegetation-reflectance",
