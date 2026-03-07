@@ -36,7 +36,7 @@ format:
 ## IFOV, GIFOV, and GSD
 
 <p align="center">
-<img src="figs/camera2.png" width=70% height=70%>
+<img src="figs/camera2.png" width=60% height=60%>
 </p>
 
 ## Contrast ratio
@@ -60,7 +60,7 @@ format:
 ## Bayer mask filter 
 
 <p align="center">
-<img src="figs/camera6.png" width=60% height=60%>
+<img src="figs/camera6.png" width=50% height=50%>
 </p>
 
 ## How far can you measure?
