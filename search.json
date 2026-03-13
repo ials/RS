@@ -1626,11 +1626,11 @@
     "text": "homomin CLI and API\nIt allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects,\nIt fuses drone or aerial data with satellite surface reflectance data.\nManual reflectance measurements and target placements are not required."
   },
   {
-    "objectID": "2026/weeks/week07/slides.html#homonim8-uselfulness",
-    "href": "2026/weeks/week07/slides.html#homonim8-uselfulness",
+    "objectID": "2026/weeks/week07/slides.html#homonim-uselfulness",
+    "href": "2026/weeks/week07/slides.html#homonim-uselfulness",
     "title": "🗓️ Week 8 Spectral Harmonisation ",
-    "section": "*homonim8 uselfulness",
-    "text": "*homonim8 uselfulness\n\nPre-processing in quantitative mapping applications\nReducing seamlines and other visual artefacts in image mosaics\nThe consistency of multi-temporal and multi-sensor data can be improved through its use."
+    "section": "homonim uselfulness",
+    "text": "homonim uselfulness\n\nPre-processing in quantitative mapping applications\nReducing seamlines and other visual artefacts in image mosaics\nThe consistency of multi-temporal and multi-sensor data can be improved through its use."
   },
   {
     "objectID": "2026/weeks/week07/slides.html#homonim-at-github",
