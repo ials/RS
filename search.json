@@ -709,7 +709,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "2015896 - PERCEPCION REMOTA",
+    "title": "2020039 - PERCEPCION REMOTA",
     "section": "",
     "text": "📑 Course Brief\nFocus: the focus of this course is to develop conceptual and practical skills for using remote sensing analysis data in research.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nUnderstand the physical principles of optical remote sensing.\nInternalize the different stages of the remote sensing process and its usefulness in research.\nApply computational techniques to obtain information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2026"
   },
@@ -1544,98 +1544,98 @@
   {
     "objectID": "2026/weeks/week07/slides.html#reference",
     "href": "2026/weeks/week07/slides.html#reference",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Reference",
     "text": "Reference\n\n\n\nHarris’ paper"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#theory",
     "href": "2026/weeks/week07/slides.html#theory",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Theory",
     "text": "Theory"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#method",
     "href": "2026/weeks/week07/slides.html#method",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Method",
     "text": "Method"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#case-study",
     "href": "2026/weeks/week07/slides.html#case-study",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Case study",
     "text": "Case study"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#spectral-response-functions",
     "href": "2026/weeks/week07/slides.html#spectral-response-functions",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Spectral response functions",
     "text": "Spectral response functions"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#imagery-extent",
     "href": "2026/weeks/week07/slides.html#imagery-extent",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Imagery extent",
     "text": "Imagery extent"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#uncalibrated-mosaic",
     "href": "2026/weeks/week07/slides.html#uncalibrated-mosaic",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Uncalibrated mosaic",
     "text": "Uncalibrated mosaic"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#harmonized-mosaic",
     "href": "2026/weeks/week07/slides.html#harmonized-mosaic",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Harmonized mosaic",
     "text": "Harmonized mosaic"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#before---after",
     "href": "2026/weeks/week07/slides.html#before---after",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Before - after",
     "text": "Before - after"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#after-homogenization",
     "href": "2026/weeks/week07/slides.html#after-homogenization",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "After homogenization",
     "text": "After homogenization"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#after---dmc-vs-spot",
     "href": "2026/weeks/week07/slides.html#after---dmc-vs-spot",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "After - DMC vs SPOT",
     "text": "After - DMC vs SPOT"
   },
   {
     "objectID": "2026/weeks/week07/slides.html#homomin-cli-and-api",
     "href": "2026/weeks/week07/slides.html#homomin-cli-and-api",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "homomin CLI and API",
-    "text": "homomin CLI and API\nIt allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects,\nIt fuses drone or aerial data with satellite surface reflectance data.\nManual reflectance measurements and target placements are not required."
+    "text": "homomin CLI and API\n\nIt allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects,\nIt fuses drone or aerial data with satellite surface reflectance data.\nManual reflectance measurements and target placements are not required."
   },
   {
     "objectID": "2026/weeks/week07/slides.html#homonim-uselfulness",
     "href": "2026/weeks/week07/slides.html#homonim-uselfulness",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "homonim uselfulness",
     "text": "homonim uselfulness\n\nPre-processing in quantitative mapping applications\nReducing seamlines and other visual artefacts in image mosaics\nThe consistency of multi-temporal and multi-sensor data can be improved through its use."
   },
   {
     "objectID": "2026/weeks/week07/slides.html#homonim-at-github",
     "href": "2026/weeks/week07/slides.html#homonim-at-github",
-    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "title": "🗓️ Week 7 Spectral Harmonisation ",
     "section": "Homonim at github",
     "text": "Homonim at github"
   }
