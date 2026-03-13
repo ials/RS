@@ -27,44 +27,44 @@ format:
 
 ## Reference
 <p align="center">
-<img src="figs/harris.png" width=100% height=100%>
+<img src="figs/Harris.png" width=100% height=100%>
 </p>
 
 [Harris' paper](https://drive.google.com/file/d/1sSDjnUMMCPsAXbpRvub9g7mJFhxf4s0s/view?usp=sharing)
 
 ## Theory
 <p align="center">
-<img src="figs/Fig0A.png" width=70% height=70%>
+<img src="figs/Fig0A.png" width=80% height=80%>
 </p>
 
 ## Method
 <p align="center">
-<img src="figs/Fig0B.png" width=70% height=70%>
+<img src="figs/Fig0B.png" width=90% height=90%>
 </p>
 
 ## Case study
 <p align="center">
-<img src="figs/Fig1.png" width=90% height=90%>
+<img src="figs/Fig1.png" width=60% height=60%>
 </p>
 
 ## Spectral response functions
 <p align="center">
-<img src="figs/Fig2.png" width=90% height=90%>
+<img src="figs/Fig2.png" width=80% height=80%>
 </p>
 
 ## Imagery extent
 <p align="center">
-<img src="figs/Fig3.png" width=90% height=90%>
+<img src="figs/Fig3.png" width=70% height=70%>
 </p>
 
 ## Uncalibrated mosaic
 <p align="center">
-<img src="figs/Fig5.png" width=90% height=90%>
+<img src="figs/Fig5.png" width=70% height=70%>
 </p>
 
 ## Harmonized mosaic
 <p align="center">
-<img src="figs/Fig6.png" width=90% height=90%>
+<img src="figs/Fig6.png" width=70% height=70%>
 </p>
 
 ## Before - after
@@ -74,12 +74,12 @@ format:
 
 ## After homogenization
 <p align="center">
-<img src="figs/Fig9.png" width=90% height=90%>
+<img src="figs/Fig9.png" width=75% height=75%>
 </p>
 
 ## After - DMC vs SPOT
 <p align="center">
-<img src="figs/Fig10.png" width=90% height=90%>
+<img src="figs/Fig10.png" width=95% height=95%>
 </p>
 
 # An example of a harmonization tool
@@ -92,7 +92,7 @@ It fuses drone or aerial data with satellite surface reflectance data.
 
 Manual reflectance measurements and target placements are not required.
 
-## *homonim8 uselfulness
+## *homonim* uselfulness
 
 - Pre-processing in quantitative mapping applications 
 
@@ -105,6 +105,6 @@ Manual reflectance measurements and target placements are not required.
 ## [Homonim at github](https://homonim.readthedocs.io/en/stable/case_studies.html)
 
 <p align="center">
-<img src="figs/Fig10.png" width=100% height=100%>
+<img src="figs/Fig11.png" width=100% height=100%>
 </p>
 
