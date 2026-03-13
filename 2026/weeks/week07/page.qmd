@@ -1,21 +1,20 @@
 ---
-title: "🗓️ Unit 7- Monitoring vegetation productivity"
+title: "🗓️ Unit 7- Spectral harmonization"
 ---
 
-In this week, we will understand what a literature review is. Furthermore, we will get trough a nice example of literature review.
-
+In this week, we will understand what spectral harmonization is. Furthermore, we will have the opportunity to reproduce a case study using an useful Python tool.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1w-uPaB-ZCE5OCdEfJ53aHeL95vxMU1o8/view?usp=sharing) to view the slides.
+Click [here](slides.qmd) to view the slides.
 
 🎥 
 
 ## ✍️ Coursework
 
 🚧   
-Upload your *Informe No. 1* to the drive on 21.05.2025
+Upload your *Informe No. 1* to the drive not later than on 24.03.2026 at 11:59 pm.
 🚧
 
 
