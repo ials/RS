@@ -1,6 +1,6 @@
 ---
-subtitle: " 2015896-- PERCEPCION REMOTA"
-title: "<font style='font-size:1em;'>🗓️ Week 8 <br/>Spectral Harmonisation </font>"
+subtitle: " 2020039 -- PERCEPCION REMOTA"
+title: "<font style='font-size:1em;'>🗓️ Week 7 <br/>Spectral Harmonisation </font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia]'
 date: 18 March 2026
@@ -49,22 +49,22 @@ format:
 
 ## Spectral response functions
 <p align="center">
-<img src="figs/Fig2.png" width=80% height=80%>
+<img src="figs/Fig2.png" width=75% height=75%>
 </p>
 
 ## Imagery extent
 <p align="center">
-<img src="figs/Fig3.png" width=70% height=70%>
+<img src="figs/Fig3.png" width=65% height=65%>
 </p>
 
 ## Uncalibrated mosaic
 <p align="center">
-<img src="figs/Fig5.png" width=70% height=70%>
+<img src="figs/Fig5.png" width=65% height=65%>
 </p>
 
 ## Harmonized mosaic
 <p align="center">
-<img src="figs/Fig6.png" width=70% height=70%>
+<img src="figs/Fig6.png" width=65% height=65%>
 </p>
 
 ## Before - after
@@ -74,23 +74,23 @@ format:
 
 ## After homogenization
 <p align="center">
-<img src="figs/Fig9.png" width=75% height=75%>
+<img src="figs/Fig9.png" width=65% height=65%>
 </p>
 
 ## After - DMC vs SPOT
 <p align="center">
-<img src="figs/Fig10.png" width=95% height=95%>
+<img src="figs/Fig10.png" width=100% height=100%>
 </p>
 
 # An example of a harmonization tool
 
 ## *homomin* CLI and API
 
-It allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects, 
+- It allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects, 
 
-It fuses drone or aerial data with satellite surface reflectance data. 
+- It fuses drone or aerial data with satellite surface reflectance data. 
 
-Manual reflectance measurements and target placements are not required.
+- Manual reflectance measurements and target placements are not required.
 
 ## *homonim* uselfulness
 
@@ -105,6 +105,6 @@ Manual reflectance measurements and target placements are not required.
 ## [Homonim at github](https://homonim.readthedocs.io/en/stable/case_studies.html)
 
 <p align="center">
-<img src="figs/Fig11.png" width=100% height=100%>
+<img src="figs/Fig11.png" width=110% height=110%>
 </p>
 
