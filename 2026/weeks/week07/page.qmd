@@ -2,7 +2,9 @@
 title: "🗓️ Unit 7- Spectral harmonization"
 ---
 
-In this week, we will understand what spectral harmonization is. Furthermore, we will have the opportunity to reproduce a case study using an useful Python tool.
+In this week, the first part will be dedicated to the *Examen No. 1*
+
+Then, we will have a session for understanding what spectral harmonization is. Furthermore, we will have the opportunity to reproduce a case study using an useful Python tool.
 
 
 ## 👨‍🏫 Lecture Slides 

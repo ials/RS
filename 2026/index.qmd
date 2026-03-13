@@ -9,7 +9,7 @@ format: html
 
 (26/02/2026)
 
-- Start reproducing the *remote sensing study* you selected for Informe No.1.
+- Reproduce the *remote sensing study* you selected for Informe No.1.
 
 :::
 
