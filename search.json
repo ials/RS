@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "2026/weeks/week07/slides8.html#homomin-cli-and-api",
+    "href": "2026/weeks/week07/slides8.html#homomin-cli-and-api",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "homomin CLI and API",
+    "text": "homomin CLI and API\nIt allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects,\nIt fuses drone or aerial data with satellite surface reflectance data.\nManual reflectance measurements and target placements are not required."
+  },
+  {
+    "objectID": "2026/weeks/week07/slides8.html#homonim8-uselfulness",
+    "href": "2026/weeks/week07/slides8.html#homonim8-uselfulness",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "*homonim8 uselfulness",
+    "text": "*homonim8 uselfulness\n\nPre-processing in quantitative mapping applications\nReducing seamlines and other visual artefacts in image mosaics\nThe consistency of multi-temporal and multi-sensor data can be improved through its use."
+  },
+  {
+    "objectID": "2026/weeks/week07/page_Vegetation.html",
+    "href": "2026/weeks/week07/page_Vegetation.html",
+    "title": "🗓️ Unit 7- Monitoring vegetation productivity",
+    "section": "",
+    "text": "In this week, we will understand what a literature review is. Furthermore, we will get trough a nice example of literature review."
+  },
+  {
+    "objectID": "2026/weeks/week07/page_Vegetation.html#lecture-slides",
+    "href": "2026/weeks/week07/page_Vegetation.html#lecture-slides",
+    "title": "🗓️ Unit 7- Monitoring vegetation productivity",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.\n🎥"
+  },
+  {
+    "objectID": "2026/weeks/week07/page_Vegetation.html#coursework",
+    "href": "2026/weeks/week07/page_Vegetation.html#coursework",
+    "title": "🗓️ Unit 7- Monitoring vegetation productivity",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧\nUpload your Informe No. 1 to the drive on 21.05.2025 🚧"
+  },
+  {
     "objectID": "2026/weeks/week06/slides.html#how-to-specify-an-electro-optical-earth-observation-camera",
     "href": "2026/weeks/week06/slides.html#how-to-specify-an-electro-optical-earth-observation-camera",
     "title": "🗓️ Week 6  Remote sensing recap ",
@@ -666,7 +701,7 @@
     "href": "2026/index.html",
     "title": "2020039 - PERCEPCION REMOTA",
     "section": "",
-    "text": "Important📢 What you will report in Informe No. 1?\n\n\n\n\n\n(26/02/2026)\n\nStart reproducing the remote sensing study you selected for Informe No.1.\n\n\n\n\n\n\n\n\n\n\nImportant📢 What you will report in Informe No. 1?\n\n\n\n\n\n(18/02/2026)\n\nIdentify the remote sensing study you will reproduce, either using GEE or any other tools. Write a one-page document and print it.\n\n\n\n\n\n\n\n\n\n\nImportant📢 What you learned from the selected paper?\n\n\n\n\n\n(13/02/2026)\n\nIdentify the core research question, understand the data & methodology used to test the hypothesis, and evaluate the validity of the results and conclusions.\n\n\n\n\n\n\n\n\n\n\nImportant📢 Syllabus\n\n\n\n\n\n(02/02/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Wednesdays 8:00 am - 9:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "text": "Important📢 What you will report in Informe No. 1?\n\n\n\n\n\n(26/02/2026)\n\nReproduce the remote sensing study you selected for Informe No.1.\n\n\n\n\n\n\n\n\n\n\nImportant📢 What you will report in Informe No. 1?\n\n\n\n\n\n(18/02/2026)\n\nIdentify the remote sensing study you will reproduce, either using GEE or any other tools. Write a one-page document and print it.\n\n\n\n\n\n\n\n\n\n\nImportant📢 What you learned from the selected paper?\n\n\n\n\n\n(13/02/2026)\n\nIdentify the core research question, understand the data & methodology used to test the hypothesis, and evaluate the validity of the results and conclusions.\n\n\n\n\n\n\n\n\n\n\nImportant📢 Syllabus\n\n\n\n\n\n(02/02/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Wednesdays 8:00 am - 9:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -1472,5 +1507,136 @@
       "🗓️ Weeks",
       "Week 06"
     ]
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html",
+    "href": "2026/weeks/week07/page.html",
+    "title": "🗓️ Unit 7- Spectral harmonization",
+    "section": "",
+    "text": "In this week, the first part will be dedicated to the Examen No. 1\nThen, we will have a session for understanding what spectral harmonization is. Furthermore, we will have the opportunity to reproduce a case study using an useful Python tool.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html#lecture-slides",
+    "href": "2026/weeks/week07/page.html#lecture-slides",
+    "title": "🗓️ Unit 7- Spectral harmonization",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides.\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html#coursework",
+    "href": "2026/weeks/week07/page.html#coursework",
+    "title": "🗓️ Unit 7- Spectral harmonization",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧\nUpload your Informe No. 1 to the drive not later than on 24.03.2026 at 11:59 pm. 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#reference",
+    "href": "2026/weeks/week07/slides.html#reference",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Reference",
+    "text": "Reference\n\n\n\nHarris’ paper"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#theory",
+    "href": "2026/weeks/week07/slides.html#theory",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Theory",
+    "text": "Theory"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#method",
+    "href": "2026/weeks/week07/slides.html#method",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Method",
+    "text": "Method"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#case-study",
+    "href": "2026/weeks/week07/slides.html#case-study",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Case study",
+    "text": "Case study"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#spectral-response-functions",
+    "href": "2026/weeks/week07/slides.html#spectral-response-functions",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Spectral response functions",
+    "text": "Spectral response functions"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#imagery-extent",
+    "href": "2026/weeks/week07/slides.html#imagery-extent",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Imagery extent",
+    "text": "Imagery extent"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#uncalibrated-mosaic",
+    "href": "2026/weeks/week07/slides.html#uncalibrated-mosaic",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Uncalibrated mosaic",
+    "text": "Uncalibrated mosaic"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#harmonized-mosaic",
+    "href": "2026/weeks/week07/slides.html#harmonized-mosaic",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Harmonized mosaic",
+    "text": "Harmonized mosaic"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#before---after",
+    "href": "2026/weeks/week07/slides.html#before---after",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Before - after",
+    "text": "Before - after"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#after-homogenization",
+    "href": "2026/weeks/week07/slides.html#after-homogenization",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "After homogenization",
+    "text": "After homogenization"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#after---dmc-vs-spot",
+    "href": "2026/weeks/week07/slides.html#after---dmc-vs-spot",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "After - DMC vs SPOT",
+    "text": "After - DMC vs SPOT"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#homomin-cli-and-api",
+    "href": "2026/weeks/week07/slides.html#homomin-cli-and-api",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "homomin CLI and API",
+    "text": "homomin CLI and API\nIt allows adjusting for spatially varying atmospheric and anisotropic (BRDF) effects,\nIt fuses drone or aerial data with satellite surface reflectance data.\nManual reflectance measurements and target placements are not required."
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#homonim8-uselfulness",
+    "href": "2026/weeks/week07/slides.html#homonim8-uselfulness",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "*homonim8 uselfulness",
+    "text": "*homonim8 uselfulness\n\nPre-processing in quantitative mapping applications\nReducing seamlines and other visual artefacts in image mosaics\nThe consistency of multi-temporal and multi-sensor data can be improved through its use."
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#homonim-at-github",
+    "href": "2026/weeks/week07/slides.html#homonim-at-github",
+    "title": "🗓️ Week 8 Spectral Harmonisation ",
+    "section": "Homonim at github",
+    "text": "Homonim at github"
   }
 ]
