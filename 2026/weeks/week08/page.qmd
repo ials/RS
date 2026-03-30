@@ -14,6 +14,10 @@ In this week, we will review basic concepts about machine learning and decision 
 
 🎥 
 
+## Practical exercises
+
+Reproduce [this notebook](https://drive.google.com/drive/folders/1Rwu9nLQc94xsTq4UE02TcRb3zAorb3ES)
+
 ## ✍️ Coursework
 
 🚧   
