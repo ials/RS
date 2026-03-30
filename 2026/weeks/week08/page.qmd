@@ -8,14 +8,16 @@ In this week, we will review basic concepts about machine learning and decision 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1NVC0AmnOxKKiNNC_llq2ieo-Ao2M3tUb/view?usp=sharing) to view the slides.
+- [Machine learning basics](https://docs.google.com/presentation/d/e/2PACX-1vS59rUlWqYE59SjSSjhS2rlZZ_2XthvzTlbuBFM1hwJ4MAWidoQZfeVnJZ-hUzOcJIYgSrIn-h9jYRF/pub?start=false&loop=false&delayms=3000&slide=id.g1eca438a092_0_5).
+
+- [Machine learning for Earth Observation data](https://docs.google.com/presentation/d/e/2PACX-1vQ4WCS4BntgpSsze-gTog9AIHbh4KQp5M9PwYBPb8UUElba1y5AMR3ge1b05p8lqTSdaeo8swGKZa1y/pub?start=false&loop=false&delayms=3000&slide=id.g23dccee849e_0_265).
 
 🎥 
 
 ## ✍️ Coursework
 
 🚧   
-Start doing the exercises for your *Informe No. 2*.
+Write down what you will for your *Informe No. 2*.
 🚧
 
 

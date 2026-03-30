@@ -23,7 +23,7 @@ Replicate [this Colab notebook](https://drive.google.com/file/d/1W_OBWb3jOpkwY0O
 ## ✍️ Coursework
 
 🚧   
-Keep doing the exercises for your *Informe No. 2*.
+Start doing the experiments for your *Informe No. 2*.
 🚧
 
 
