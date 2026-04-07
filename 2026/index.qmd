@@ -5,6 +5,15 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢  Grades for Informe No. 1 
+
+(07/04/2026)
+
+- [Notas Informe No. 1](../figures/informe1.png)
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢  Submit your Informe No. 1 timely
 
 (24/03/2026)
