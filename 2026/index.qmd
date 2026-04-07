@@ -9,7 +9,7 @@ format: html
 
 (07/04/2026)
 
-- [Notas Informe No. 1](../figures/informe1.png)
+- [Notas Informe No. 1](../figures/Informe1.png)
 
 :::
 
