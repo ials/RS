@@ -7,6 +7,10 @@ In this week, we will know the Random Forest algorithm.
 
 ## 👨‍🏫 Lecture Slides 
 
+- [Decision Trees A](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture16/presentation/Lecture15_Decision_Trees_A.pdf)
+
+- [Decision Trees B](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture16/presentation/Decision_Trees_B.pdf)
+
 - [Bagging](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture18/presentation/Bagging_partB.pdf)
 
 - [Random Forest](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture18/presentation/RF.pdf)
