@@ -7,6 +7,8 @@ In this week, we will practice Random Forest in regression mode.
 
 ## 👨‍🏫 Lecture  
 
+[More on Random Forests](https://harvard-iacs.github.io/2021-CS109A/lectures/lecture19/presentation/RF2.pdf)
+
 [NASA GEDI](https://gfoi-rd.gfz.de/fileadmin/gfoird/documents/2024_10_GFOIBiomassWorkshop/Day2/Presentation2.pdf)
 
 [Improved RF algorithms for estimating forest aboveground biomass](https://www.sciencedirect.com/science/article/pii/S1470160X24002097)

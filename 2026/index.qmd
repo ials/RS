@@ -5,6 +5,16 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢  Do your homework
+
+(16/04/2026)
+
+- Bring your results to the classroom
+
+:::
+
+
+::: {.callout-important collapse=true}
 ## 📢  Grades for Informe No. 1 
 
 (07/04/2026)
