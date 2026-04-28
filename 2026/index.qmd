@@ -5,6 +5,17 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢  Bring your homework printed
+
+(22/04/2026)
+
+- What did you learn from this week's reading?
+
+- What did you learn from this week's practice?
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢  Do your homework
 
 (16/04/2026)

@@ -1,33 +1,21 @@
 ---
-title: "🗓️ Unit 11 -  Texture feature extraction methods"
+title: "🗓️ Unit 11 -  Spatial Random Forests"
 ---
 
-This week we will become familiar with the concept of image texture and the different texture metrics.
+RF effectiveness in environmental data analysis has led to the development of spatial RF variants, which adapt RF to consider spatial dependency in the data. In this week, we will dive into spatial RFs.
 
 
 ## 👨‍🏫 Lecture  
 
-[Texture Is Important in Improving the Accuracy of Mapping Photovoltaic Power Plants](https://www.mdpi.com/2072-4292/13/19/3909)
-
-[Gray Level Co-occurrence Matrix](https://medium.com/aimonks/gray-level-co-occurrence-matrix-glcm-a-comprehensive-analysis-a58bbc49c0f6)
-
-[GLCM TEXTURE: A TUTORIAL](https://lapi.fi-p.unam.mx/wp-content/uploads/Tutorial-GLCM.pdf)
+[Random forests with spatial proxies for environmental modelling](https://gmd.copernicus.org/articles/17/6007/2024/)
 
 ## Practical exercise
 
-- Create a Colab notebook
-
-- Install [pyfeats](https://github.com/giakoumoglou/pyfeats)
-
-- Read any multispectral image 
-
-- Try extraction of different texture features 
-
-- Write down your results & what you learned
+- Download code and data used in Milá et al. (2024) that is available [here](https://zenodo.org/records/11383045)
 
 ## Recommended reading
 
-[Texture Feature Extraction Methods: A Survey](https://hal.science/hal-02126655v1/file/Texture_Feature_Extraction_Methods_A_Survey.pdf)
+[An assessment of spatial random forests for environmental mapping](https://www.sciencedirect.com/science/article/pii/S136481522500310X)
 
 
 ## ✍️ Coursework
