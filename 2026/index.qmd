@@ -5,6 +5,16 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢  Bring your homework to the classroom
+
+(04/05/2026)
+
+-  Share your experience working with spatial random forests with the class
+
+:::
+
+
+::: {.callout-important collapse=true}
 ## 📢  Bring your homework printed
 
 (22/04/2026)

@@ -1,28 +1,26 @@
 ---
-title: "🗓️ Unit 12 - Geographic Object Based Image Analysis (GEOBIA)"
+title: "🗓️ Unit 12 - Gaussian Process Boosting"
 ---
 
-This week we will understand advantages and limitations of GEOBIA.
+This week we will get to know **GPBoost*, a hybrid machine learning algorithm that combines tree-boosting with Gaussian processes (GPs) or mixed-effects models.
 
 
 ## 👨‍🏫 Lecture  
 
 
-[Scalable approach for high-resolution land cover](https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-023-00770-z.pdf)
+[Gaussian Process Boosting](https://drive.google.com/file/d/1lVx_krSmBI-HmlNUM1EiFGZOIxeBZLXI/view?usp=sharing)
 
 
-[Image Segmentation and Object-Based Image Analysis for Environmental Monitoring](https://www.iges.or.jp/en/publication_documents/pub/peer/en/10865/RS+-+Johnson+and+Ma+2020.pdf)
+## Examen No. 2
 
-[Combination of GEOBIA and data-driven approach for grassland habitat mapping](https://www.sciencedirect.com/science/article/pii/S2666017225000203)
-
-## Practical exercise
-
-Learn about GEOBIA classification in Earth Engine following instructions for the [EEFA's  Chapter F3.3](https://docs.google.com/document/d/1Lv0GEh2nzqigoXPulkNT8ME_V4NKgt9gsIY6KxVj2_o/edit)
+- See last slide of the lecture above and start working
 
 ## Recommended reading
 
-[Extension of an Open GEOBIA Framework for Spatially Explicit Forest Stratification with Sentinel-2](https://www.mdpi.com/2072-4292/14/3/727)
+- [Gaussian Processes: not quite for dummies](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
+
+- [GPBoost documentation](https://gpboost.readthedocs.io/en/latest/index.html)
 
 ## ✍️ Coursework
 
