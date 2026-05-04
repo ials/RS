@@ -2,7 +2,7 @@
 title: "🗓️ Unit 12 - Gaussian Process Boosting"
 ---
 
-This week we will get to know **GPBoost*, a hybrid machine learning algorithm that combines tree-boosting with Gaussian processes (GPs) or mixed-effects models.
+This week we will get to know *GPBoost*, a hybrid machine learning algorithm that combines tree-boosting with Gaussian processes (GPs) or mixed-effects models.
 
 
 ## 👨‍🏫 Lecture  
