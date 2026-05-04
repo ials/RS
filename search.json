@@ -39,7 +39,7 @@
     "href": "2026/weeks/week12/page.html",
     "title": "🗓️ Unit 12 - Gaussian Process Boosting",
     "section": "",
-    "text": "This week we will get to know **GPBoost*, a hybrid machine learning algorithm that combines tree-boosting with Gaussian processes (GPs) or mixed-effects models.",
+    "text": "This week we will get to know GPBoost, a hybrid machine learning algorithm that combines tree-boosting with Gaussian processes (GPs) or mixed-effects models.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 12"
