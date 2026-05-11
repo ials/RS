@@ -1,0 +1,26 @@
+---
+title: "🗓️ Unit 13 - Synthetic Aperture Radar (SAR)"
+---
+
+This week we will get familiar with SAR fundamentals.
+
+
+## 👨‍🏫 Lecture  
+
+[SAR-Introduction](https://drive.google.com/file/d/14RnPLr14g5tLVEsNDjiKdqvM2pgmWgLv/view?usp=sharing)
+
+
+## Recommended reading
+
+[A Tutorial on Synthetic Aperture Radar](https://elib.dlr.de/82313/1/SAR-Tutorial-March-2013.pdf)
+
+
+## ✍️ Coursework
+
+🚧   
+- Keep doing your *Examen 2*
+
+- Keep experimenting for your *Informe 2*.
+🚧
+
+

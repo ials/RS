@@ -7,6 +7,16 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢  Bring your homework to the classroom
 
+(11/05/2026)
+
+-  Keep working on your Examen 2 & Informe 2
+
+:::
+
+
+::: {.callout-important collapse=true}
+## 📢  Bring your homework to the classroom
+
 (04/05/2026)
 
 -  Share your experience working with spatial random forests with the class
