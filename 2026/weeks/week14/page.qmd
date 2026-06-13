@@ -1,33 +1,15 @@
 ---
-title: "🗓️ Unit 14 -Radiative transfer models (RTMs)"
+title: "🗓️ Unit 14 - Notas"
 ---
 
-This week we will get to know foundations of PROSPECT and SAIL models as well as the coupled PROSAIL model.
+
+## 👨‍🏫  Examen No. 2  
+
+[See drive](https://drive.google.com/drive/folders/1nX73CoMM8t9DY4D8LXKh8CQgKK_y_TTA)
+
+## 👨‍🏫  Informe No. 2 
 
 
-## 👨‍🏫 Lecture  
-
-
-[Radiative transfer modelling](https://jgomezdans.github.io/barrax_2015/RTMotivation.slides.html)
-
-[PROSPECT+SAIL models](https://www.ipgp.fr/~jacquemoud/publications/jacquemoud2009a.pdf)
-
-[Modeling leaf optical properties in R](https://joss.theoj.org/papers/10.21105/joss.06027)
-
-
-## Practical exercise
-
-[Estimation of vegetation properties from Sentinel-2](https://rpubs.com/ials2un/prosail)
-
-## Recommended reading
-
-[Investigating different versions of PROSPECT and PROSAIL for estimating spectral and biophysical properties of vegetation in mixed grasslands](https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1877435)
-
-
-## ✍️ Coursework
-
-🚧   
-Keep doing the exercises for your *Informe No. 2*.
-🚧
+[See drive](https://drive.google.com/drive/folders/1SY2ZpZCoaCNKtgnQ_KiWUsgt85cvBJFX)
 
 
