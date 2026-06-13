@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "2026/weeks/week14/pageRTMs.html",
+    "href": "2026/weeks/week14/pageRTMs.html",
+    "title": "🗓️ Unit 14 -Radiative transfer models (RTMs)",
+    "section": "",
+    "text": "This week we will get to know foundations of PROSPECT and SAIL models as well as the coupled PROSAIL model."
+  },
+  {
+    "objectID": "2026/weeks/week14/pageRTMs.html#lecture",
+    "href": "2026/weeks/week14/pageRTMs.html#lecture",
+    "title": "🗓️ Unit 14 -Radiative transfer models (RTMs)",
+    "section": "👨‍🏫 Lecture",
+    "text": "👨‍🏫 Lecture\nRadiative transfer modelling\nPROSPECT+SAIL models\nModeling leaf optical properties in R"
+  },
+  {
+    "objectID": "2026/weeks/week14/pageRTMs.html#practical-exercise",
+    "href": "2026/weeks/week14/pageRTMs.html#practical-exercise",
+    "title": "🗓️ Unit 14 -Radiative transfer models (RTMs)",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nEstimation of vegetation properties from Sentinel-2"
+  },
+  {
+    "objectID": "2026/weeks/week14/pageRTMs.html#recommended-reading",
+    "href": "2026/weeks/week14/pageRTMs.html#recommended-reading",
+    "title": "🗓️ Unit 14 -Radiative transfer models (RTMs)",
+    "section": "Recommended reading",
+    "text": "Recommended reading\nInvestigating different versions of PROSPECT and PROSAIL for estimating spectral and biophysical properties of vegetation in mixed grasslands"
+  },
+  {
+    "objectID": "2026/weeks/week14/pageRTMs.html#coursework",
+    "href": "2026/weeks/week14/pageRTMs.html#coursework",
+    "title": "🗓️ Unit 14 -Radiative transfer models (RTMs)",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧\nKeep doing the exercises for your Informe No. 2. 🚧"
+  },
+  {
     "objectID": "2026/weeks/week13/page.html",
     "href": "2026/weeks/week13/page.html",
     "title": "🗓️ Unit 13 - Synthetic Aperture Radar (SAR)",
@@ -2051,5 +2086,38 @@
     "title": "🗓️ Unit 12 - Texture feature extraction methods",
     "section": "✍️ Coursework",
     "text": "✍️ Coursework\n🚧\nKeep doing the exercises for your Informe No. 2. 🚧"
+  },
+  {
+    "objectID": "2026/weeks/week14/page.html",
+    "href": "2026/weeks/week14/page.html",
+    "title": "🗓️ Unit 14 - Notas",
+    "section": "",
+    "text": "See drive",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week14/page.html#examen-no.-2",
+    "href": "2026/weeks/week14/page.html#examen-no.-2",
+    "title": "🗓️ Unit 14 - Notas",
+    "section": "",
+    "text": "See drive",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 14"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week14/page.html#informe-no.-2",
+    "href": "2026/weeks/week14/page.html#informe-no.-2",
+    "title": "🗓️ Unit 14 - Notas",
+    "section": "👨‍🏫 Informe No. 2",
+    "text": "👨‍🏫 Informe No. 2\nSee drive",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 14"
+    ]
   }
 ]
